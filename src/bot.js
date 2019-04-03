@@ -11,10 +11,16 @@ const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1xi8zOp_oi4Oapr-X
 Tabletop.init({
   key: spreadsheetUrl,
   callback(data, tabletop) {
-    data.forEach(d => {
+    // Esta mierda funciona
+    for (let i = 1; i <= data.length; i++) {
+        (function(index) {
+            setTimeout(function() { console.log(index); }, i * 1000);
+        })(i);
+    }
+    /*data.forEach(d => {
       const status = `${d.municipio} en el año 1900 tenía ${d.milnovecientos} habitantes, en 2018 tiene ${d.dosmil}`;
       console.log(status);
-     /* bot.post('statuses/update', {
+      bot.post('statuses/update', {
         status
       }, (err, response, data) => {
         if (err) {
@@ -22,8 +28,8 @@ Tabletop.init({
         } else {
           console.log('Post success!')
         }
-      })*/
-    })
+      })
+    })*/
   },
   simpleSheet: true
 })
