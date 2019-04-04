@@ -35,7 +35,7 @@ Ha perdido el ${
                 } entre los años 1900 y 2018.`;
                 let meta_params = {
                     media_id: mediaIdStr,
-                    alt_text: { text: altText }
+                   alt_text: { text: altText }
                 };
 
                 bot.post('media/metadata/create', meta_params, function(
@@ -60,6 +60,6 @@ Ha perdido el ${
                     }
                 });
             });
-        }, i * 3600000);
+        }, i * 6000);
     })(i);
 }
