@@ -4,7 +4,7 @@ const fs = require('fs');
 const datos = require('../data/aragon-municipios-densidad-inferior.json');
 const bot = new Twit(config);
 
-for (let i = 1; i <= datos.length; i++) {
+for (let i = 0; i <= datos.length; i++) {
     (function(index) {
         setTimeout(function() {
             let estado = `${datos[i].municipio} en la provincia de #${
