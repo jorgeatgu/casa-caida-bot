@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "now -e CONSUMER_KEY=@ds-twit-key -e CONSUMER_SECRET=@ds-twit-secret -e ACCESS_TOKEN=@ds-twit-access -e ACCESS_TOKEN_SECRET=@ds-twit-access-secret -e PORT=@port"
   },
   "keywords": [],
   "author": "Jorge Aznar",
