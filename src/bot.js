@@ -4,6 +4,15 @@ const fs = require('fs');
 const datos = require('../data/tweet02.json');
 const bot = new Twit(config);
 const stream = bot.stream('statuses/filter', { track: '@casacaida' });
+import {
+  municipalitiesAraEsp,
+  municipalitiesEspAra
+} from './shared/aragones.js'
+
+import {
+  municipalitiesCatEsp,
+  municipalitiesEspCat
+} from './shared/catalan.js'
 
 stream.on('tweet', parseTweet)
 
@@ -16,6 +25,16 @@ function parseTweet(message) {
     }
   } = message
   const nameOfTheMunicipality = text.replace(/@casacaida /g,'');
+
+  let translateMunicipality
+  testAra.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  if (municipalitiesAraEsp.find(d => d === testAra)) {
+    const indexAra = municipalitiesAraEsp.findIndex(d => d === testAra)
+    translateMunicipality = municipalitiesEspAra[indexAra]
+  } else if (municipalitiesCatEsp.find(d => d === testAra)) {
+    const indexCat = municipalitiesCatEsp.findIndex(d => d === testAra)
+    translateMunicipality = municipalitiesCatEsp[indexCat]
+  }
 
   if (replyTo === 'casacaida') {
     createImagesTweet(nameOfTheMunicipality, userName)
