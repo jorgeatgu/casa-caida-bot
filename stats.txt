@@ -1,0 +1,12 @@
+function randomMunicipality(arrayValue) {
+  const selectArray = arrayValue === 'aleatorio' ? municipalities : municipalitiesDemographic
+  return selectArray[Math.floor(Math.random() * selectArray.length)]
+}
+function randomMunicipality(arrayValue) {
+  const selectArray = arrayValue === 'aleatorio' ? municipalities : municipalitiesDemographic
+  return selectArray[Math.floor(Math.random() * selectArray.length)]
+}
+function randomMunicipality(arrayValue) {
+  const selectArray = arrayValue === 'aleatorio' ? municipalities : municipalitiesDemographic
+  return selectArray[Math.floor(Math.random() * selectArray.length)]
+}
