@@ -1,0 +1,3926 @@
+[
+  {
+    "1900": 459,
+    "2020": 77,
+    "name": "Ababuj",
+    "percentage": 83.22
+  },
+  {
+    "1900": 698,
+    "2020": 50,
+    "name": "Abejuela",
+    "percentage": 92.83
+  },
+  {
+    "1900": 181,
+    "2020": 19,
+    "name": "Aguatón",
+    "percentage": 89.5
+  },
+  {
+    "1900": 1781,
+    "2020": 516,
+    "name": "Aguaviva",
+    "percentage": 71.02
+  },
+  {
+    "1900": 524,
+    "2020": 69,
+    "name": "Aguilar del Alfambra",
+    "percentage": 86.83
+  },
+  {
+    "1900": 931,
+    "2020": 238,
+    "name": "Alacón",
+    "percentage": 74.43
+  },
+  {
+    "1900": 634,
+    "2020": 165,
+    "name": "Alba",
+    "percentage": 73.97
+  },
+  {
+    "1900": 4291,
+    "2020": 1972,
+    "name": "Albalate del Arzobispo",
+    "percentage": 54.04
+  },
+  {
+    "1900": 1932,
+    "2020": 1006,
+    "name": "Albarracín",
+    "percentage": 47.92
+  },
+  {
+    "1900": 1003,
+    "2020": 289,
+    "name": "Albentosa",
+    "percentage": 71.18
+  },
+  {
+    "1900": 1103,
+    "2020": 53,
+    "name": "Alcaine",
+    "percentage": 95.19
+  },
+  {
+    "1900": 1648,
+    "2020": 331,
+    "name": "Alcalá de la Selva",
+    "percentage": 79.91
+  },
+  {
+    "1900": 1355,
+    "2020": 482,
+    "name": "Alfambra",
+    "percentage": 64.42
+  },
+  {
+    "1900": 1754,
+    "2020": 326,
+    "name": "Aliaga",
+    "percentage": 81.41
+  },
+  {
+    "1900": 243,
+    "2020": 124,
+    "name": "Almohaja",
+    "percentage": 48.97
+  },
+  {
+    "1900": 224,
+    "2020": 24,
+    "name": "Alpeñés",
+    "percentage": 89.28
+  },
+  {
+    "1900": 1040,
+    "2020": 14,
+    "name": "Allepuz",
+    "percentage": 98.65
+  },
+  {
+    "1900": 1773,
+    "2020": 64,
+    "name": "Alloza",
+    "percentage": 96.39
+  },
+  {
+    "1900": 216,
+    "2020": 21,
+    "name": "Allueva",
+    "percentage": 90.27
+  },
+  {
+    "1900": 355,
+    "2020": 32,
+    "name": "Anadón",
+    "percentage": 90.98
+  },
+  {
+    "1900": 1353,
+    "2020": 118,
+    "name": "Arcos de las Salinas",
+    "percentage": 91.27
+  },
+  {
+    "1900": 759,
+    "2020": 205,
+    "name": "Arens de Lledó",
+    "percentage": 72.99
+  },
+  {
+    "1900": 716,
+    "2020": 193,
+    "name": "Argente",
+    "percentage": 73.04
+  },
+  {
+    "1900": 1366,
+    "2020": 714,
+    "name": "Ariño",
+    "percentage": 47.73
+  },
+  {
+    "1900": 742,
+    "2020": 93,
+    "name": "Azaila",
+    "percentage": 87.46
+  },
+  {
+    "1900": 454,
+    "2020": 19,
+    "name": "Bádenas",
+    "percentage": 95.81
+  },
+  {
+    "1900": 1420,
+    "2020": 285,
+    "name": "Báguena",
+    "percentage": 79.92
+  },
+  {
+    "1900": 693,
+    "2020": 146,
+    "name": "Bañón",
+    "percentage": 78.93
+  },
+  {
+    "1900": 697,
+    "2020": 109,
+    "name": "Barrachina",
+    "percentage": 84.36
+  },
+  {
+    "1900": 170,
+    "2020": 29,
+    "name": "Bea",
+    "percentage": 82.94
+  },
+  {
+    "1900": 2252,
+    "2020": 531,
+    "name": "Beceite",
+    "percentage": 76.42
+  },
+  {
+    "1900": 817,
+    "2020": 219,
+    "name": "Belmonte de San José",
+    "percentage": 73.19
+  },
+  {
+    "1900": 989,
+    "2020": 123,
+    "name": "Bello",
+    "percentage": 87.56
+  },
+  {
+    "1900": 816,
+    "2020": 241,
+    "name": "Berge",
+    "percentage": 70.46
+  },
+  {
+    "1900": 357,
+    "2020": 67,
+    "name": "Bezas",
+    "percentage": 81.23
+  },
+  {
+    "1900": 859,
+    "2020": 125,
+    "name": "Blancas",
+    "percentage": 85.44
+  },
+  {
+    "1900": 1325,
+    "2020": 92,
+    "name": "Blesa",
+    "percentage": 93.05
+  },
+  {
+    "1900": 586,
+    "2020": 105,
+    "name": "Bordón",
+    "percentage": 82.08
+  },
+  {
+    "1900": 950,
+    "2020": 417,
+    "name": "Bronchales",
+    "percentage": 56.1
+  },
+  {
+    "1900": 352,
+    "2020": 49,
+    "name": "Bueña",
+    "percentage": 86.07
+  },
+  {
+    "1900": 1350,
+    "2020": 211,
+    "name": "Burbáguena",
+    "percentage": 84.37
+  },
+  {
+    "1900": 563,
+    "2020": 51,
+    "name": "Cabra de Mora",
+    "percentage": 90.94
+  },
+  {
+    "1900": 2579,
+    "2020": 978,
+    "name": "Calaceite",
+    "percentage": 62.07
+  },
+  {
+    "1900": 6017,
+    "2020": 4429,
+    "name": "Calamocha",
+    "percentage": 26.39
+  },
+  {
+    "1900": 3924,
+    "2020": 3822,
+    "name": "Calanda",
+    "percentage": 2.59
+  },
+  {
+    "1900": 422,
+    "2020": 74,
+    "name": "Calomarde",
+    "percentage": 82.46
+  },
+  {
+    "1900": 450,
+    "2020": 133,
+    "name": "Camañas",
+    "percentage": 70.44
+  },
+  {
+    "1900": 882,
+    "2020": 107,
+    "name": "Camarena de la Sierra",
+    "percentage": 87.86
+  },
+  {
+    "1900": 816,
+    "2020": 92,
+    "name": "Camarillas",
+    "percentage": 88.72
+  },
+  {
+    "1900": 1349,
+    "2020": 615,
+    "name": "Caminreal",
+    "percentage": 54.41
+  },
+  {
+    "1900": 1962,
+    "2020": 729,
+    "name": "Cantavieja",
+    "percentage": 62.84
+  },
+  {
+    "1900": 642,
+    "2020": 33,
+    "name": "Cañada de Benatanduz",
+    "percentage": 94.85
+  },
+  {
+    "1900": 287,
+    "2020": 92,
+    "name": "La Cañada de Verich",
+    "percentage": 67.94
+  },
+  {
+    "1900": 201,
+    "2020": 36,
+    "name": "Cañada Vellida",
+    "percentage": 82.08
+  },
+  {
+    "1900": 507,
+    "2020": 100,
+    "name": "Cañizar del Olivar",
+    "percentage": 80.27
+  },
+  {
+    "1900": 574,
+    "2020": 67,
+    "name": "Cascante del Río",
+    "percentage": 88.32
+  },
+  {
+    "1900": 475,
+    "2020": 55,
+    "name": "Castejón de Tornos",
+    "percentage": 88.42
+  },
+  {
+    "1900": 623,
+    "2020": 93,
+    "name": "Castel de Cabra",
+    "percentage": 85.07
+  },
+  {
+    "1900": 680,
+    "2020": 55,
+    "name": "Castelnou",
+    "percentage": 91.91
+  },
+  {
+    "1900": 2177,
+    "2020": 676,
+    "name": "Castelserás",
+    "percentage": 68.94
+  },
+  {
+    "1900": 489,
+    "2020": 134,
+    "name": "El Castellar",
+    "percentage": 72.59
+  },
+  {
+    "1900": 5122,
+    "2020": 800,
+    "name": "Castellote",
+    "percentage": 84.38
+  },
+  {
+    "1900": 957,
+    "2020": 639,
+    "name": "Cedrillas",
+    "percentage": 33.22
+  },
+  {
+    "1900": 876,
+    "2020": 367,
+    "name": "Celadas",
+    "percentage": 58.1
+  },
+  {
+    "1900": 450,
+    "2020": 88,
+    "name": "La Cerollera",
+    "percentage": 80.44
+  },
+  {
+    "1900": 1342,
+    "2020": 319,
+    "name": "La Codoñera",
+    "percentage": 76.22
+  },
+  {
+    "1900": 484,
+    "2020": 109,
+    "name": "Corbalán",
+    "percentage": 77.47
+  },
+  {
+    "1900": 492,
+    "2020": 60,
+    "name": "Cortes de Aragón",
+    "percentage": 87.8
+  },
+  {
+    "1900": 385,
+    "2020": 51,
+    "name": "Cosa",
+    "percentage": 86.75
+  },
+  {
+    "1900": 1562,
+    "2020": 554,
+    "name": "Cretas",
+    "percentage": 64.53
+  },
+  {
+    "1900": 937,
+    "2020": 86,
+    "name": "Crivillén",
+    "percentage": 90.82
+  },
+  {
+    "1900": 357,
+    "2020": 43,
+    "name": "La Cuba",
+    "percentage": 87.95
+  },
+  {
+    "1900": 363,
+    "2020": 55,
+    "name": "Cubla",
+    "percentage": 84.84
+  },
+  {
+    "1900": 525,
+    "2020": 78,
+    "name": "Cucalón",
+    "percentage": 85.14
+  },
+  {
+    "1900": 576,
+    "2020": 80,
+    "name": "El Cuervo",
+    "percentage": 86.11
+  },
+  {
+    "1900": 243,
+    "2020": 118,
+    "name": "Cuevas de Almudén",
+    "percentage": 51.44
+  },
+  {
+    "1900": 401,
+    "2020": 137,
+    "name": "Cuevas Labradas",
+    "percentage": 65.83
+  },
+  {
+    "1900": 1291,
+    "2020": 177,
+    "name": "Ejulve",
+    "percentage": 86.28
+  },
+  {
+    "1900": 493,
+    "2020": 136,
+    "name": "Escorihuela",
+    "percentage": 72.41
+  },
+  {
+    "1900": 964,
+    "2020": 205,
+    "name": "Estercuel",
+    "percentage": 78.73
+  },
+  {
+    "1900": 262,
+    "2020": 64,
+    "name": "Ferreruela de Huerva",
+    "percentage": 75.57
+  },
+  {
+    "1900": 205,
+    "2020": 26,
+    "name": "Fonfría",
+    "percentage": 87.31
+  },
+  {
+    "1900": 1029,
+    "2020": 148,
+    "name": "Formiche Alto",
+    "percentage": 85.61
+  },
+  {
+    "1900": 742,
+    "2020": 74,
+    "name": "Fórnoles",
+    "percentage": 90.02
+  },
+  {
+    "1900": 1570,
+    "2020": 202,
+    "name": "Fortanete",
+    "percentage": 87.13
+  },
+  {
+    "1900": 786,
+    "2020": 258,
+    "name": "Foz-Calanda",
+    "percentage": 67.17
+  },
+  {
+    "1900": 1799,
+    "2020": 443,
+    "name": "La Fresneda",
+    "percentage": 75.37
+  },
+  {
+    "1900": 665,
+    "2020": 104,
+    "name": "Frías de Albarracín",
+    "percentage": 84.36
+  },
+  {
+    "1900": 402,
+    "2020": 36,
+    "name": "Fuenferrada",
+    "percentage": 91.04
+  },
+  {
+    "1900": 243,
+    "2020": 91,
+    "name": "Fuentes Calientes",
+    "percentage": 62.55
+  },
+  {
+    "1900": 1123,
+    "2020": 445,
+    "name": "Fuentes Claras",
+    "percentage": 60.37
+  },
+  {
+    "1900": 895,
+    "2020": 124,
+    "name": "Fuentes de Rubielos",
+    "percentage": 86.14
+  },
+  {
+    "1900": 927,
+    "2020": 282,
+    "name": "Fuentespalda",
+    "percentage": 69.57
+  },
+  {
+    "1900": 468,
+    "2020": 160,
+    "name": "Galve",
+    "percentage": 65.81
+  },
+  {
+    "1900": 644,
+    "2020": 97,
+    "name": "Gargallo",
+    "percentage": 84.93
+  },
+  {
+    "1900": 1168,
+    "2020": 370,
+    "name": "Gea de Albarracín",
+    "percentage": 68.32
+  },
+  {
+    "1900": 1116,
+    "2020": 197,
+    "name": "La Ginebrosa",
+    "percentage": 82.34
+  },
+  {
+    "1900": 415,
+    "2020": 138,
+    "name": "Griegos",
+    "percentage": 66.74
+  },
+  {
+    "1900": 492,
+    "2020": 244,
+    "name": "Guadalaviar",
+    "percentage": 50.4
+  },
+  {
+    "1900": 730,
+    "2020": 77,
+    "name": "Gúdar",
+    "percentage": 89.45
+  },
+  {
+    "1900": 3330,
+    "2020": 1754,
+    "name": "Híjar",
+    "percentage": 47.32
+  },
+  {
+    "1900": 546,
+    "2020": 112,
+    "name": "Hinojosa de Jarque",
+    "percentage": 79.48
+  },
+  {
+    "1900": 924,
+    "2020": 81,
+    "name": "La Hoz de la Vieja",
+    "percentage": 91.23
+  },
+  {
+    "1900": 1284,
+    "2020": 69,
+    "name": "Huesa del Común",
+    "percentage": 94.62
+  },
+  {
+    "1900": 1485,
+    "2020": 402,
+    "name": "La Iglesuela del Cid",
+    "percentage": 72.92
+  },
+  {
+    "1900": 934,
+    "2020": 59,
+    "name": "Jabaloyas",
+    "percentage": 93.68
+  },
+  {
+    "1900": 277,
+    "2020": 62,
+    "name": "Jarque de la Val",
+    "percentage": 77.61
+  },
+  {
+    "1900": 255,
+    "2020": 39,
+    "name": "Jatiel",
+    "percentage": 84.7
+  },
+  {
+    "1900": 462,
+    "2020": 29,
+    "name": "Jorcas",
+    "percentage": 93.72
+  },
+  {
+    "1900": 615,
+    "2020": 34,
+    "name": "Josa",
+    "percentage": 94.47
+  },
+  {
+    "1900": 252,
+    "2020": 69,
+    "name": "Lagueruela",
+    "percentage": 72.61
+  },
+  {
+    "1900": 243,
+    "2020": 22,
+    "name": "Lanzuela",
+    "percentage": 90.94
+  },
+  {
+    "1900": 607,
+    "2020": 100,
+    "name": "Libros",
+    "percentage": 83.52
+  },
+  {
+    "1900": 308,
+    "2020": 54,
+    "name": "Lidón",
+    "percentage": 82.46
+  },
+  {
+    "1900": 1592,
+    "2020": 225,
+    "name": "Linares de Mora",
+    "percentage": 85.86
+  },
+  {
+    "1900": 1507,
+    "2020": 155,
+    "name": "Loscos",
+    "percentage": 89.71
+  },
+  {
+    "1900": 580,
+    "2020": 125,
+    "name": "Lledó",
+    "percentage": 78.44
+  },
+  {
+    "1900": 391,
+    "2020": 31,
+    "name": "Maicas",
+    "percentage": 92.07
+  },
+  {
+    "1900": 2750,
+    "2020": 516,
+    "name": "Manzanera",
+    "percentage": 81.23
+  },
+  {
+    "1900": 729,
+    "2020": 387,
+    "name": "Martín del Río",
+    "percentage": 46.91
+  },
+  {
+    "1900": 1981,
+    "2020": 1258,
+    "name": "Mas de las Matas",
+    "percentage": 36.49
+  },
+  {
+    "1900": 458,
+    "2020": 261,
+    "name": "La Mata de los Olmos",
+    "percentage": 43.01
+  },
+  {
+    "1900": 1403,
+    "2020": 511,
+    "name": "Mazaleón",
+    "percentage": 63.57
+  },
+  {
+    "1900": 327,
+    "2020": 89,
+    "name": "Mezquita de Jarque",
+    "percentage": 72.78
+  },
+  {
+    "1900": 835,
+    "2020": 116,
+    "name": "Mirambel",
+    "percentage": 86.1
+  },
+  {
+    "1900": 486,
+    "2020": 38,
+    "name": "Miravete de la Sierra",
+    "percentage": 92.18
+  },
+  {
+    "1900": 1405,
+    "2020": 222,
+    "name": "Molinos",
+    "percentage": 84.19
+  },
+  {
+    "1900": 694,
+    "2020": 71,
+    "name": "Monforte de Moyuela",
+    "percentage": 89.76
+  },
+  {
+    "1900": 1284,
+    "2020": 332,
+    "name": "Monroyo",
+    "percentage": 74.14
+  },
+  {
+    "1900": 2020,
+    "2020": 1245,
+    "name": "Montalbán",
+    "percentage": 38.36
+  },
+  {
+    "1900": 489,
+    "2020": 49,
+    "name": "Monteagudo del Castillo",
+    "percentage": 89.97
+  },
+  {
+    "1900": 488,
+    "2020": 56,
+    "name": "Monterde de Albarracín",
+    "percentage": 88.52
+  },
+  {
+    "1900": 3213,
+    "2020": 1512,
+    "name": "Mora de Rubielos",
+    "percentage": 52.94
+  },
+  {
+    "1900": 494,
+    "2020": 55,
+    "name": "Moscardón",
+    "percentage": 88.86
+  },
+  {
+    "1900": 3103,
+    "2020": 532,
+    "name": "Mosqueruela",
+    "percentage": 82.85
+  },
+  {
+    "1900": 1860,
+    "2020": 583,
+    "name": "Muniesa",
+    "percentage": 68.65
+  },
+  {
+    "1900": 489,
+    "2020": 139,
+    "name": "Noguera de Albarracín",
+    "percentage": 71.57
+  },
+  {
+    "1900": 359,
+    "2020": 21,
+    "name": "Nogueras",
+    "percentage": 94.15
+  },
+  {
+    "1900": 1156,
+    "2020": 210,
+    "name": "Nogueruelas",
+    "percentage": 81.83
+  },
+  {
+    "1900": 1257,
+    "2020": 34,
+    "name": "Obón",
+    "percentage": 97.29
+  },
+  {
+    "1900": 974,
+    "2020": 203,
+    "name": "Odón",
+    "percentage": 79.15
+  },
+  {
+    "1900": 1436,
+    "2020": 341,
+    "name": "Ojos Negros",
+    "percentage": 76.25
+  },
+  {
+    "1900": 1802,
+    "2020": 233,
+    "name": "Olba",
+    "percentage": 87.06
+  },
+  {
+    "1900": 2146,
+    "2020": 343,
+    "name": "Oliete",
+    "percentage": 84.01
+  },
+  {
+    "1900": 600,
+    "2020": 118,
+    "name": "Los Olmos",
+    "percentage": 80.33
+  },
+  {
+    "1900": 945,
+    "2020": 450,
+    "name": "Orihuela del Tremedal",
+    "percentage": 52.38
+  },
+  {
+    "1900": 430,
+    "2020": 128,
+    "name": "Orrios",
+    "percentage": 70.23
+  },
+  {
+    "1900": 612,
+    "2020": 170,
+    "name": "Palomar de Arroyos",
+    "percentage": 72.22
+  },
+  {
+    "1900": 1000,
+    "2020": 119,
+    "name": "Pancrudo",
+    "percentage": 88.1
+  },
+  {
+    "1900": 1107,
+    "2020": 55,
+    "name": "Las Parras de Castellote",
+    "percentage": 95.03
+  },
+  {
+    "1900": 1702,
+    "2020": 446,
+    "name": "Peñarroya de Tastavins",
+    "percentage": 73.79
+  },
+  {
+    "1900": 385,
+    "2020": 77,
+    "name": "Peracense",
+    "percentage": 80
+  },
+  {
+    "1900": 286,
+    "2020": 83,
+    "name": "Peralejos",
+    "percentage": 70.97
+  },
+  {
+    "1900": 817,
+    "2020": 236,
+    "name": "Perales del Alfambra",
+    "percentage": 71.11
+  },
+  {
+    "1900": 938,
+    "2020": 68,
+    "name": "Pitarque",
+    "percentage": 92.75
+  },
+  {
+    "1900": 529,
+    "2020": 50,
+    "name": "Plou",
+    "percentage": 90.54
+  },
+  {
+    "1900": 497,
+    "2020": 108,
+    "name": "El Pobo",
+    "percentage": 78.26
+  },
+  {
+    "1900": 860,
+    "2020": 236,
+    "name": "La Portellada",
+    "percentage": 72.55
+  },
+  {
+    "1900": 539,
+    "2020": 43,
+    "name": "Pozondón",
+    "percentage": 92.02
+  },
+  {
+    "1900": 598,
+    "2020": 63,
+    "name": "Pozuel del Campo",
+    "percentage": 89.46
+  },
+  {
+    "1900": 1921,
+    "2020": 899,
+    "name": "La Puebla de Híjar",
+    "percentage": 53.2
+  },
+  {
+    "1900": 1982,
+    "2020": 451,
+    "name": "La Puebla de Valverde",
+    "percentage": 77.24
+  },
+  {
+    "1900": 1271,
+    "2020": 117,
+    "name": "Puertomingalvo",
+    "percentage": 90.79
+  },
+  {
+    "1900": 859,
+    "2020": 139,
+    "name": "Ráfales",
+    "percentage": 83.81
+  },
+  {
+    "1900": 502,
+    "2020": 85,
+    "name": "Rillo",
+    "percentage": 83.06
+  },
+  {
+    "1900": 716,
+    "2020": 134,
+    "name": "Riodeva",
+    "percentage": 81.28
+  },
+  {
+    "1900": 415,
+    "2020": 62,
+    "name": "Ródenas",
+    "percentage": 85.06
+  },
+  {
+    "1900": 459,
+    "2020": 210,
+    "name": "Royuela",
+    "percentage": 54.24
+  },
+  {
+    "1900": 290,
+    "2020": 49,
+    "name": "Rubiales",
+    "percentage": 83.1
+  },
+  {
+    "1900": 501,
+    "2020": 39,
+    "name": "Rubielos de la Cérida",
+    "percentage": 92.21
+  },
+  {
+    "1900": 2284,
+    "2020": 635,
+    "name": "Rubielos de Mora",
+    "percentage": 72.19
+  },
+  {
+    "1900": 155,
+    "2020": 11,
+    "name": "Salcedillo",
+    "percentage": 92.9
+  },
+  {
+    "1900": 435,
+    "2020": 24,
+    "name": "Saldón",
+    "percentage": 94.48
+  },
+  {
+    "1900": 2647,
+    "2020": 721,
+    "name": "Samper de Calanda",
+    "percentage": 72.76
+  },
+  {
+    "1900": 1204,
+    "2020": 123,
+    "name": "San Agustín",
+    "percentage": 89.78
+  },
+  {
+    "1900": 1330,
+    "2020": 132,
+    "name": "San Martín del Río",
+    "percentage": 90.07
+  },
+  {
+    "1900": 346,
+    "2020": 30,
+    "name": "Santa Cruz de Nogueras",
+    "percentage": 91.32
+  },
+  {
+    "1900": 1164,
+    "2020": 1050,
+    "name": "Santa Eulalia",
+    "percentage": 9.79
+  },
+  {
+    "1900": 2233,
+    "2020": 1148,
+    "name": "Sarrión",
+    "percentage": 48.58
+  },
+  {
+    "1900": 795,
+    "2020": 41,
+    "name": "Segura de los Baños",
+    "percentage": 94.84
+  },
+  {
+    "1900": 453,
+    "2020": 39,
+    "name": "Seno",
+    "percentage": 91.39
+  },
+  {
+    "1900": 399,
+    "2020": 83,
+    "name": "Singra",
+    "percentage": 79.19
+  },
+  {
+    "1900": 1109,
+    "2020": 180,
+    "name": "Terriente",
+    "percentage": 83.76
+  },
+  {
+    "1900": 366,
+    "2020": 33,
+    "name": "Toril y Masegoso",
+    "percentage": 90.98
+  },
+  {
+    "1900": 303,
+    "2020": 25,
+    "name": "Tormón",
+    "percentage": 91.74
+  },
+  {
+    "1900": 578,
+    "2020": 202,
+    "name": "Tornos",
+    "percentage": 65.05
+  },
+  {
+    "1900": 608,
+    "2020": 157,
+    "name": "Torralba de los Sisones",
+    "percentage": 74.17
+  },
+  {
+    "1900": 1105,
+    "2020": 94,
+    "name": "Torrecilla de Alcañiz",
+    "percentage": 91.49
+  },
+  {
+    "1900": 891,
+    "2020": 29,
+    "name": "Torrecilla del Rebollar",
+    "percentage": 96.74
+  },
+  {
+    "1900": 485,
+    "2020": 117,
+    "name": "Torre de Arcas",
+    "percentage": 75.87
+  },
+  {
+    "1900": 545,
+    "2020": 83,
+    "name": "Torre de las Arcas",
+    "percentage": 84.77
+  },
+  {
+    "1900": 748,
+    "2020": 439,
+    "name": "Torre del Compte",
+    "percentage": 41.31
+  },
+  {
+    "1900": 521,
+    "2020": 123,
+    "name": "Torrelacárcel",
+    "percentage": 76.39
+  },
+  {
+    "1900": 456,
+    "2020": 143,
+    "name": "Torre los Negros",
+    "percentage": 68.64
+  },
+  {
+    "1900": 420,
+    "2020": 107,
+    "name": "Torremocha de Jiloca",
+    "percentage": 74.52
+  },
+  {
+    "1900": 591,
+    "2020": 185,
+    "name": "Torres de Albarracín",
+    "percentage": 68.69
+  },
+  {
+    "1900": 776,
+    "2020": 170,
+    "name": "Torrevelilla",
+    "percentage": 78.09
+  },
+  {
+    "1900": 689,
+    "2020": 43,
+    "name": "Torrijas",
+    "percentage": 93.75
+  },
+  {
+    "1900": 1308,
+    "2020": 447,
+    "name": "Torrijo del Campo",
+    "percentage": 65.82
+  },
+  {
+    "1900": 668,
+    "2020": 67,
+    "name": "Tramacastiel",
+    "percentage": 89.97
+  },
+  {
+    "1900": 455,
+    "2020": 104,
+    "name": "Tramacastilla",
+    "percentage": 77.14
+  },
+  {
+    "1900": 997,
+    "2020": 68,
+    "name": "Tronchón",
+    "percentage": 93.17
+  },
+  {
+    "1900": 1195,
+    "2020": 427,
+    "name": "Urrea de Gaén",
+    "percentage": 64.26
+  },
+  {
+    "1900": 219,
+    "2020": 20,
+    "name": "Valacloche",
+    "percentage": 90.86
+  },
+  {
+    "1900": 675,
+    "2020": 172,
+    "name": "Valbona",
+    "percentage": 74.51
+  },
+  {
+    "1900": 1665,
+    "2020": 595,
+    "name": "Valdealgorfa",
+    "percentage": 64.26
+  },
+  {
+    "1900": 320,
+    "2020": 32,
+    "name": "Valdecuenca",
+    "percentage": 90
+  },
+  {
+    "1900": 825,
+    "2020": 92,
+    "name": "Valdelinares",
+    "percentage": 88.84
+  },
+  {
+    "1900": 699,
+    "2020": 281,
+    "name": "Valdeltormo",
+    "percentage": 59.79
+  },
+  {
+    "1900": 3058,
+    "2020": 2435,
+    "name": "Valderrobres",
+    "percentage": 20.37
+  },
+  {
+    "1900": 1225,
+    "2020": 338,
+    "name": "Valjunquera",
+    "percentage": 72.4
+  },
+  {
+    "1900": 467,
+    "2020": 44,
+    "name": "El Vallecillo",
+    "percentage": 90.57
+  },
+  {
+    "1900": 292,
+    "2020": 21,
+    "name": "Veguillas de la Sierra",
+    "percentage": 92.8
+  },
+  {
+    "1900": 988,
+    "2020": 285,
+    "name": "Villafranca del Campo",
+    "percentage": 71.15
+  },
+  {
+    "1900": 236,
+    "2020": 83,
+    "name": "Villahermosa del Campo",
+    "percentage": 64.83
+  },
+  {
+    "1900": 309,
+    "2020": 42,
+    "name": "Villanueva del Rebollar de la Sierra",
+    "percentage": 86.4
+  },
+  {
+    "1900": 596,
+    "2020": 160,
+    "name": "Villar del Cobo",
+    "percentage": 73.15
+  },
+  {
+    "1900": 412,
+    "2020": 61,
+    "name": "Villar del Salz",
+    "percentage": 85.19
+  },
+  {
+    "1900": 2128,
+    "2020": 171,
+    "name": "Villarluengo",
+    "percentage": 91.96
+  },
+  {
+    "1900": 872,
+    "2020": 841,
+    "name": "Villarquemado",
+    "percentage": 3.55
+  },
+  {
+    "1900": 1095,
+    "2020": 161,
+    "name": "Villarroya de los Pinares",
+    "percentage": 85.29
+  },
+  {
+    "1900": 737,
+    "2020": 507,
+    "name": "Villastar",
+    "percentage": 31.2
+  },
+  {
+    "1900": 1182,
+    "2020": 333,
+    "name": "Villel",
+    "percentage": 71.82
+  },
+  {
+    "1900": 544,
+    "2020": 231,
+    "name": "Vinaceite",
+    "percentage": 57.53
+  },
+  {
+    "1900": 656,
+    "2020": 131,
+    "name": "Visiedo",
+    "percentage": 80.03
+  },
+  {
+    "1900": 946,
+    "2020": 72,
+    "name": "Vivel del Río Martín",
+    "percentage": 92.38
+  },
+  {
+    "1900": 181,
+    "2020": 32,
+    "name": "La Zoma",
+    "percentage": 82.32
+  },
+  {
+    "1900": 1383,
+    "2020": 258,
+    "name": "Abiego",
+    "percentage": 81.34
+  },
+  {
+    "1900": 463,
+    "2020": 139,
+    "name": "Abizanda",
+    "percentage": 69.97
+  },
+  {
+    "1900": 725,
+    "2020": 180,
+    "name": "Adahuesca",
+    "percentage": 75.17
+  },
+  {
+    "1900": 1182,
+    "2020": 125,
+    "name": "Agüero",
+    "percentage": 89.42
+  },
+  {
+    "1900": 733,
+    "2020": 313,
+    "name": "Aisa",
+    "percentage": 57.29
+  },
+  {
+    "1900": 1519,
+    "2020": 1099,
+    "name": "Albalate de Cinca",
+    "percentage": 27.64
+  },
+  {
+    "1900": 464,
+    "2020": 163,
+    "name": "Albalatillo",
+    "percentage": 64.87
+  },
+  {
+    "1900": 1213,
+    "2020": 708,
+    "name": "Albelda",
+    "percentage": 41.63
+  },
+  {
+    "1900": 360,
+    "2020": 120,
+    "name": "Albero Alto",
+    "percentage": 66.66
+  },
+  {
+    "1900": 205,
+    "2020": 132,
+    "name": "Albero Bajo",
+    "percentage": 35.6
+  },
+  {
+    "1900": 638,
+    "2020": 239,
+    "name": "Alcalá de Gurrea",
+    "percentage": 62.53
+  },
+  {
+    "1900": 1328,
+    "2020": 298,
+    "name": "Alcalá del Obispo",
+    "percentage": 77.56
+  },
+  {
+    "1900": 1983,
+    "2020": 623,
+    "name": "Alcampell",
+    "percentage": 68.58
+  },
+  {
+    "1900": 2409,
+    "2020": 1177,
+    "name": "Alcolea de Cinca",
+    "percentage": 51.14
+  },
+  {
+    "1900": 1530,
+    "2020": 362,
+    "name": "Alcubierre",
+    "percentage": 76.33
+  },
+  {
+    "1900": 227,
+    "2020": 200,
+    "name": "Alerre",
+    "percentage": 11.89
+  },
+  {
+    "1900": 309,
+    "2020": 130,
+    "name": "Alfántega",
+    "percentage": 57.92
+  },
+  {
+    "1900": 2983,
+    "2020": 2377,
+    "name": "Almudévar",
+    "percentage": 20.31
+  },
+  {
+    "1900": 954,
+    "2020": 666,
+    "name": "Almunia de San Juan",
+    "percentage": 30.18
+  },
+  {
+    "1900": 512,
+    "2020": 457,
+    "name": "Almuniente",
+    "percentage": 10.74
+  },
+  {
+    "1900": 1313,
+    "2020": 312,
+    "name": "Alquézar",
+    "percentage": 76.23
+  },
+  {
+    "1900": 1912,
+    "2020": 353,
+    "name": "Angüés",
+    "percentage": 81.53
+  },
+  {
+    "1900": 1549,
+    "2020": 386,
+    "name": "Ansó",
+    "percentage": 75.08
+  },
+  {
+    "1900": 393,
+    "2020": 135,
+    "name": "Antillón",
+    "percentage": 65.64
+  },
+  {
+    "1900": 546,
+    "2020": 111,
+    "name": "Aragüés del Puerto",
+    "percentage": 79.67
+  },
+  {
+    "1900": 2119,
+    "2020": 308,
+    "name": "Arén",
+    "percentage": 85.46
+  },
+  {
+    "1900": 322,
+    "2020": 95,
+    "name": "Argavieso",
+    "percentage": 70.49
+  },
+  {
+    "1900": 570,
+    "2020": 125,
+    "name": "Arguis",
+    "percentage": 78.07
+  },
+  {
+    "1900": 2609,
+    "2020": 1017,
+    "name": "Ayerbe",
+    "percentage": 61.01
+  },
+  {
+    "1900": 1221,
+    "2020": 170,
+    "name": "Azanuy-Alins",
+    "percentage": 86.07
+  },
+  {
+    "1900": 513,
+    "2020": 157,
+    "name": "Azara",
+    "percentage": 69.39
+  },
+  {
+    "1900": 537,
+    "2020": 138,
+    "name": "Azlor",
+    "percentage": 74.3
+  },
+  {
+    "1900": 737,
+    "2020": 97,
+    "name": "Baélls",
+    "percentage": 86.83
+  },
+  {
+    "1900": 1488,
+    "2020": 261,
+    "name": "Bailo",
+    "percentage": 82.45
+  },
+  {
+    "1900": 813,
+    "2020": 64,
+    "name": "Baldellou",
+    "percentage": 92.12
+  },
+  {
+    "1900": 2333,
+    "2020": 833,
+    "name": "Ballobar",
+    "percentage": 64.29
+  },
+  {
+    "1900": 218,
+    "2020": 86,
+    "name": "Barbués",
+    "percentage": 60.55
+  },
+  {
+    "1900": 425,
+    "2020": 96,
+    "name": "Barbuñales",
+    "percentage": 77.41
+  },
+  {
+    "1900": 829,
+    "2020": 102,
+    "name": "Bárcabo",
+    "percentage": 87.69
+  },
+  {
+    "1900": 1666,
+    "2020": 1301,
+    "name": "Belver de Cinca",
+    "percentage": 21.9
+  },
+  {
+    "1900": 2887,
+    "2020": 1142,
+    "name": "Benabarre",
+    "percentage": 60.44
+  },
+  {
+    "1900": 1109,
+    "2020": 327,
+    "name": "Berbegal",
+    "percentage": 70.51
+  },
+  {
+    "1900": 971,
+    "2020": 448,
+    "name": "Bielsa",
+    "percentage": 53.86
+  },
+  {
+    "1900": 1581,
+    "2020": 252,
+    "name": "Bierge",
+    "percentage": 84.06
+  },
+  {
+    "1900": 3509,
+    "2020": 1474,
+    "name": "Biescas",
+    "percentage": 57.99
+  },
+  {
+    "1900": 1774,
+    "2020": 1605,
+    "name": "Binaced",
+    "percentage": 9.52
+  },
+  {
+    "1900": 813,
+    "2020": 171,
+    "name": "Bisaurri",
+    "percentage": 78.96
+  },
+  {
+    "1900": 810,
+    "2020": 182,
+    "name": "Biscarrués",
+    "percentage": 77.53
+  },
+  {
+    "1900": 769,
+    "2020": 173,
+    "name": "Blecua y Torres",
+    "percentage": 77.5
+  },
+  {
+    "1900": 1926,
+    "2020": 1045,
+    "name": "Boltaña",
+    "percentage": 45.74
+  },
+  {
+    "1900": 421,
+    "2020": 87,
+    "name": "Bonansa",
+    "percentage": 79.33
+  },
+  {
+    "1900": 460,
+    "2020": 70,
+    "name": "Borau",
+    "percentage": 84.78
+  },
+  {
+    "1900": 1758,
+    "2020": 538,
+    "name": "Broto",
+    "percentage": 69.39
+  },
+  {
+    "1900": 1483,
+    "2020": 226,
+    "name": "Caldearenas",
+    "percentage": 84.76
+  },
+  {
+    "1900": 806,
+    "2020": 436,
+    "name": "Campo",
+    "percentage": 45.9
+  },
+  {
+    "1900": 997,
+    "2020": 127,
+    "name": "Camporrélls",
+    "percentage": 87.26
+  },
+  {
+    "1900": 2022,
+    "2020": 323,
+    "name": "Canal de Berdún",
+    "percentage": 84.02
+  },
+  {
+    "1900": 1063,
+    "2020": 419,
+    "name": "Candasnos",
+    "percentage": 60.58
+  },
+  {
+    "1900": 770,
+    "2020": 558,
+    "name": "Canfranc",
+    "percentage": 27.53
+  },
+  {
+    "1900": 490,
+    "2020": 211,
+    "name": "Capdesaso",
+    "percentage": 56.93
+  },
+  {
+    "1900": 1008,
+    "2020": 360,
+    "name": "Capella",
+    "percentage": 64.28
+  },
+  {
+    "1900": 2195,
+    "2020": 275,
+    "name": "Casbas de Huesca",
+    "percentage": 87.47
+  },
+  {
+    "1900": 621,
+    "2020": 312,
+    "name": "Castejón del Puente",
+    "percentage": 49.75
+  },
+  {
+    "1900": 1594,
+    "2020": 510,
+    "name": "Castejón de Monegros",
+    "percentage": 68
+  },
+  {
+    "1900": 813,
+    "2020": 764,
+    "name": "Castejón de Sos",
+    "percentage": 6.02
+  },
+  {
+    "1900": 247,
+    "2020": 103,
+    "name": "Castelflorite",
+    "percentage": 58.29
+  },
+  {
+    "1900": 523,
+    "2020": 221,
+    "name": "Castiello de Jaca",
+    "percentage": 57.74
+  },
+  {
+    "1900": 266,
+    "2020": 79,
+    "name": "Castigaleu",
+    "percentage": 70.3
+  },
+  {
+    "1900": 757,
+    "2020": 153,
+    "name": "Castillazuelo",
+    "percentage": 79.78
+  },
+  {
+    "1900": 863,
+    "2020": 318,
+    "name": "Castillonroy",
+    "percentage": 63.15
+  },
+  {
+    "1900": 702,
+    "2020": 117,
+    "name": "Colungo",
+    "percentage": 83.33
+  },
+  {
+    "1900": 427,
+    "2020": 113,
+    "name": "Chalamera",
+    "percentage": 73.53
+  },
+  {
+    "1900": 602,
+    "2020": 83,
+    "name": "Chía",
+    "percentage": 86.21
+  },
+  {
+    "1900": 524,
+    "2020": 199,
+    "name": "Estada",
+    "percentage": 62.02
+  },
+  {
+    "1900": 1752,
+    "2020": 796,
+    "name": "Estadilla",
+    "percentage": 54.56
+  },
+  {
+    "1900": 1486,
+    "2020": 121,
+    "name": "Estopiñán del Castillo",
+    "percentage": 91.85
+  },
+  {
+    "1900": 419,
+    "2020": 20,
+    "name": "Fago",
+    "percentage": 95.22
+  },
+  {
+    "1900": 1065,
+    "2020": 100,
+    "name": "Fanlo",
+    "percentage": 90.61
+  },
+  {
+    "1900": 2505,
+    "2020": 331,
+    "name": "Fiscal",
+    "percentage": 86.78
+  },
+  {
+    "1900": 2006,
+    "2020": 851,
+    "name": "Fonz",
+    "percentage": 57.57
+  },
+  {
+    "1900": 665,
+    "2020": 162,
+    "name": "Foradada del Toscar",
+    "percentage": 75.63
+  },
+  {
+    "1900": 2691,
+    "2020": 600,
+    "name": "La Fueva",
+    "percentage": 77.7
+  },
+  {
+    "1900": 444,
+    "2020": 147,
+    "name": "Gistaín",
+    "percentage": 66.89
+  },
+  {
+    "1900": 1605,
+    "2020": 395,
+    "name": "El Grado",
+    "percentage": 75.38
+  },
+  {
+    "1900": 6259,
+    "2020": 3365,
+    "name": "Graus",
+    "percentage": 46.23
+  },
+  {
+    "1900": 160,
+    "2020": 73,
+    "name": "Hoz de Jaca",
+    "percentage": 54.37
+  },
+  {
+    "1900": 970,
+    "2020": 213,
+    "name": "Huerto",
+    "percentage": 78.04
+  },
+  {
+    "1900": 417,
+    "2020": 100,
+    "name": "Ibieca",
+    "percentage": 76.01
+  },
+  {
+    "1900": 720,
+    "2020": 197,
+    "name": "Ilche",
+    "percentage": 72.63
+  },
+  {
+    "1900": 1246,
+    "2020": 231,
+    "name": "Isábena",
+    "percentage": 81.46
+  },
+  {
+    "1900": 467,
+    "2020": 96,
+    "name": "Jasa",
+    "percentage": 79.44
+  },
+  {
+    "1900": 425,
+    "2020": 155,
+    "name": "Labuerda",
+    "percentage": 63.52
+  },
+  {
+    "1900": 794,
+    "2020": 191,
+    "name": "Laluenga",
+    "percentage": 75.94
+  },
+  {
+    "1900": 1839,
+    "2020": 1163,
+    "name": "Lanaja",
+    "percentage": 36.75
+  },
+  {
+    "1900": 369,
+    "2020": 92,
+    "name": "Laperdiguera",
+    "percentage": 75.06
+  },
+  {
+    "1900": 996,
+    "2020": 130,
+    "name": "Lascellas-Ponzano",
+    "percentage": 86.94
+  },
+  {
+    "1900": 581,
+    "2020": 139,
+    "name": "Lascuarre",
+    "percentage": 76.07
+  },
+  {
+    "1900": 1065,
+    "2020": 205,
+    "name": "Laspaúles",
+    "percentage": 80.75
+  },
+  {
+    "1900": 501,
+    "2020": 297,
+    "name": "Laspuña",
+    "percentage": 40.71
+  },
+  {
+    "1900": 1771,
+    "2020": 323,
+    "name": "Loarre",
+    "percentage": 81.76
+  },
+  {
+    "1900": 3139,
+    "2020": 514,
+    "name": "Loporzano",
+    "percentage": 83.62
+  },
+  {
+    "1900": 371,
+    "2020": 93,
+    "name": "Loscorrales",
+    "percentage": 74.93
+  },
+  {
+    "1900": 513,
+    "2020": 72,
+    "name": "Monesma y Cajigar",
+    "percentage": 85.96
+  },
+  {
+    "1900": 452,
+    "2020": 405,
+    "name": "Monflorite-Lascasas",
+    "percentage": 10.39
+  },
+  {
+    "1900": 1395,
+    "2020": 210,
+    "name": "Montanuy",
+    "percentage": 84.94
+  },
+  {
+    "1900": 1550,
+    "2020": 265,
+    "name": "Naval",
+    "percentage": 82.9
+  },
+  {
+    "1900": 400,
+    "2020": 152,
+    "name": "Novales",
+    "percentage": 62
+  },
+  {
+    "1900": 1249,
+    "2020": 546,
+    "name": "Nueno",
+    "percentage": 56.28
+  },
+  {
+    "1900": 384,
+    "2020": 56,
+    "name": "Olvena",
+    "percentage": 85.41
+  },
+  {
+    "1900": 1862,
+    "2020": 508,
+    "name": "Ontiñena",
+    "percentage": 72.71
+  },
+  {
+    "1900": 728,
+    "2020": 678,
+    "name": "Osso de Cinca",
+    "percentage": 6.86
+  },
+  {
+    "1900": 288,
+    "2020": 26,
+    "name": "Palo",
+    "percentage": 90.97
+  },
+  {
+    "1900": 889,
+    "2020": 800,
+    "name": "Panticosa",
+    "percentage": 10.01
+  },
+  {
+    "1900": 1158,
+    "2020": 644,
+    "name": "Peñalba",
+    "percentage": 44.38
+  },
+  {
+    "1900": 2226,
+    "2020": 247,
+    "name": "Las Peñas de Riglos",
+    "percentage": 88.9
+  },
+  {
+    "1900": 2207,
+    "2020": 563,
+    "name": "Peralta de Alcofea",
+    "percentage": 74.49
+  },
+  {
+    "1900": 2404,
+    "2020": 210,
+    "name": "Peralta de Calasanz",
+    "percentage": 91.26
+  },
+  {
+    "1900": 439,
+    "2020": 209,
+    "name": "Peraltilla",
+    "percentage": 52.39
+  },
+  {
+    "1900": 689,
+    "2020": 106,
+    "name": "Perarrúa",
+    "percentage": 84.61
+  },
+  {
+    "1900": 705,
+    "2020": 120,
+    "name": "Pertusa",
+    "percentage": 82.97
+  },
+  {
+    "1900": 242,
+    "2020": 100,
+    "name": "Piracés",
+    "percentage": 58.67
+  },
+  {
+    "1900": 1124,
+    "2020": 273,
+    "name": "Plan",
+    "percentage": 75.71
+  },
+  {
+    "1900": 512,
+    "2020": 210,
+    "name": "Poleñino",
+    "percentage": 58.98
+  },
+  {
+    "1900": 885,
+    "2020": 214,
+    "name": "Pozán de Vero",
+    "percentage": 75.81
+  },
+  {
+    "1900": 887,
+    "2020": 377,
+    "name": "La Puebla de Castro",
+    "percentage": 57.49
+  },
+  {
+    "1900": 822,
+    "2020": 93,
+    "name": "Puente de Montañana",
+    "percentage": 88.68
+  },
+  {
+    "1900": 1049,
+    "2020": 213,
+    "name": "Puértolas",
+    "percentage": 79.69
+  },
+  {
+    "1900": 492,
+    "2020": 161,
+    "name": "El Pueyo de Araguás",
+    "percentage": 67.27
+  },
+  {
+    "1900": 420,
+    "2020": 331,
+    "name": "Pueyo de Santa Cruz",
+    "percentage": 21.19
+  },
+  {
+    "1900": 1064,
+    "2020": 514,
+    "name": "Robres",
+    "percentage": 51.69
+  },
+  {
+    "1900": 871,
+    "2020": 303,
+    "name": "Sahún",
+    "percentage": 65.21
+  },
+  {
+    "1900": 998,
+    "2020": 306,
+    "name": "Salas Altas",
+    "percentage": 69.33
+  },
+  {
+    "1900": 601,
+    "2020": 185,
+    "name": "Salas Bajas",
+    "percentage": 69.21
+  },
+  {
+    "1900": 367,
+    "2020": 91,
+    "name": "Salillas",
+    "percentage": 75.2
+  },
+  {
+    "1900": 1532,
+    "2020": 547,
+    "name": "San Esteban de Litera",
+    "percentage": 64.29
+  },
+  {
+    "1900": 509,
+    "2020": 221,
+    "name": "Sangarrén",
+    "percentage": 56.58
+  },
+  {
+    "1900": 361,
+    "2020": 150,
+    "name": "San Juan de Plan",
+    "percentage": 58.44
+  },
+  {
+    "1900": 567,
+    "2020": 243,
+    "name": "Santa Cilia",
+    "percentage": 57.14
+  },
+  {
+    "1900": 422,
+    "2020": 188,
+    "name": "Santa Cruz de la Serós",
+    "percentage": 55.45
+  },
+  {
+    "1900": 366,
+    "2020": 80,
+    "name": "Santaliestra y San Quílez",
+    "percentage": 78.14
+  },
+  {
+    "1900": 850,
+    "2020": 140,
+    "name": "Secastilla",
+    "percentage": 83.52
+  },
+  {
+    "1900": 311,
+    "2020": 145,
+    "name": "Seira",
+    "percentage": 53.37
+  },
+  {
+    "1900": 1071,
+    "2020": 501,
+    "name": "Sena",
+    "percentage": 53.22
+  },
+  {
+    "1900": 143,
+    "2020": 40,
+    "name": "Senés de Alcubierre",
+    "percentage": 72.02
+  },
+  {
+    "1900": 881,
+    "2020": 154,
+    "name": "Sesa",
+    "percentage": 82.51
+  },
+  {
+    "1900": 360,
+    "2020": 122,
+    "name": "Sesué",
+    "percentage": 66.11
+  },
+  {
+    "1900": 1584,
+    "2020": 689,
+    "name": "Siétamo",
+    "percentage": 56.5
+  },
+  {
+    "1900": 889,
+    "2020": 91,
+    "name": "Sopeira",
+    "percentage": 89.76
+  },
+  {
+    "1900": 3517,
+    "2020": 3487,
+    "name": "Tamarite de Litera",
+    "percentage": ".85"
+  },
+  {
+    "1900": 1531,
+    "2020": 948,
+    "name": "Tardienta",
+    "percentage": 38.07
+  },
+  {
+    "1900": 717,
+    "2020": 225,
+    "name": "Tella-Sin",
+    "percentage": 68.61
+  },
+  {
+    "1900": 962,
+    "2020": 122,
+    "name": "Tolva",
+    "percentage": 87.31
+  },
+  {
+    "1900": 988,
+    "2020": 298,
+    "name": "Torla-Ordesa",
+    "percentage": 69.83
+  },
+  {
+    "1900": 443,
+    "2020": 113,
+    "name": "Torralba de Aragón",
+    "percentage": 74.49
+  },
+  {
+    "1900": 362,
+    "2020": 96,
+    "name": "Torre la Ribera",
+    "percentage": 73.48
+  },
+  {
+    "1900": 1382,
+    "2020": 1327,
+    "name": "Torrente de Cinca",
+    "percentage": 3.97
+  },
+  {
+    "1900": 499,
+    "2020": 82,
+    "name": "Torres de Alcanadre",
+    "percentage": 83.56
+  },
+  {
+    "1900": 111,
+    "2020": 98,
+    "name": "Tramaced",
+    "percentage": 11.71
+  },
+  {
+    "1900": 309,
+    "2020": 63,
+    "name": "Valfarta",
+    "percentage": 79.61
+  },
+  {
+    "1900": 221,
+    "2020": 40,
+    "name": "Valle de Bardají",
+    "percentage": 81.9
+  },
+  {
+    "1900": 212,
+    "2020": 51,
+    "name": "Valle de Lierp",
+    "percentage": 75.94
+  },
+  {
+    "1900": 1089,
+    "2020": 460,
+    "name": "Velilla de Cinca",
+    "percentage": 57.75
+  },
+  {
+    "1900": 651,
+    "2020": 75,
+    "name": "Beranuy",
+    "percentage": 88.47
+  },
+  {
+    "1900": 820,
+    "2020": 37,
+    "name": "Viacamp y Litera",
+    "percentage": 95.48
+  },
+  {
+    "1900": 374,
+    "2020": 110,
+    "name": "Vicién",
+    "percentage": 70.58
+  },
+  {
+    "1900": 279,
+    "2020": 174,
+    "name": "Villanova",
+    "percentage": 37.63
+  },
+  {
+    "1900": 959,
+    "2020": 451,
+    "name": "Villanúa",
+    "percentage": 52.97
+  },
+  {
+    "1900": 900,
+    "2020": 384,
+    "name": "Villanueva de Sigena",
+    "percentage": 57.33
+  },
+  {
+    "1900": 867,
+    "2020": 142,
+    "name": "Yebra de Basa",
+    "percentage": 83.62
+  },
+  {
+    "1900": 288,
+    "2020": 57,
+    "name": "Yésero",
+    "percentage": 80.2
+  },
+  {
+    "1900": 1907,
+    "2020": 1798,
+    "name": "Zaidín",
+    "percentage": 5.71
+  },
+  {
+    "1900": 2935,
+    "2020": 817,
+    "name": "Valle de Hecho",
+    "percentage": 72.16
+  },
+  {
+    "1900": 848,
+    "2020": 245,
+    "name": "Puente la Reina de Jaca",
+    "percentage": 71.1
+  },
+  {
+    "1900": 1922,
+    "2020": 780,
+    "name": "San Miguel del Cinca",
+    "percentage": 59.41
+  },
+  {
+    "1900": 3972,
+    "2020": 859,
+    "name": "La Sotonera",
+    "percentage": 78.37
+  },
+  {
+    "1900": 1138,
+    "2020": 335,
+    "name": "Lupiñén-Ortilla",
+    "percentage": 70.56
+  },
+  {
+    "1900": 644,
+    "2020": 205,
+    "name": "Santa María de Dulcis",
+    "percentage": 68.16
+  },
+  {
+    "1900": 3680,
+    "2020": 2242,
+    "name": "Aínsa-Sobrarbe",
+    "percentage": 39.07
+  },
+  {
+    "1900": 1390,
+    "2020": 221,
+    "name": "Hoz y Costean",
+    "percentage": 84.1
+  },
+  {
+    "1900": 633,
+    "2020": 92,
+    "name": "Abanto",
+    "percentage": 85.46
+  },
+  {
+    "1900": 745,
+    "2020": 158,
+    "name": "Acered",
+    "percentage": 78.79
+  },
+  {
+    "1900": 499,
+    "2020": 138,
+    "name": "Agón",
+    "percentage": 72.34
+  },
+  {
+    "1900": 2275,
+    "2020": 624,
+    "name": "Aguarón",
+    "percentage": 72.57
+  },
+  {
+    "1900": 982,
+    "2020": 233,
+    "name": "Aguilón",
+    "percentage": 76.27
+  },
+  {
+    "1900": 2061,
+    "2020": 1064,
+    "name": "Ainzón",
+    "percentage": 48.37
+  },
+  {
+    "1900": 353,
+    "2020": 52,
+    "name": "Aladrén",
+    "percentage": 85.26
+  },
+  {
+    "1900": 471,
+    "2020": 116,
+    "name": "Alarba",
+    "percentage": 75.37
+  },
+  {
+    "1900": 267,
+    "2020": 74,
+    "name": "Alberite de San Juan",
+    "percentage": 72.28
+  },
+  {
+    "1900": 318,
+    "2020": 134,
+    "name": "Albeta",
+    "percentage": 57.86
+  },
+  {
+    "1900": 464,
+    "2020": 107,
+    "name": "Alborge",
+    "percentage": 76.93
+  },
+  {
+    "1900": 386,
+    "2020": 245,
+    "name": "Alcalá de Ebro",
+    "percentage": 36.52
+  },
+  {
+    "1900": 370,
+    "2020": 143,
+    "name": "Alcalá de Moncayo",
+    "percentage": 61.35
+  },
+  {
+    "1900": 667,
+    "2020": 76,
+    "name": "Alconchel de Ariza",
+    "percentage": 88.6
+  },
+  {
+    "1900": 257,
+    "2020": 51,
+    "name": "Aldehuela de Liestos",
+    "percentage": 80.15
+  },
+  {
+    "1900": 387,
+    "2020": 65,
+    "name": "Alforque",
+    "percentage": 83.2
+  },
+  {
+    "1900": 1616,
+    "2020": 1011,
+    "name": "Alhama de Aragón",
+    "percentage": 37.43
+  },
+  {
+    "1900": 99,
+    "2020": 24,
+    "name": "Almochuel",
+    "percentage": 75.75
+  },
+  {
+    "1900": 1246,
+    "2020": 554,
+    "name": "La Almolda",
+    "percentage": 55.53
+  },
+  {
+    "1900": 667,
+    "2020": 230,
+    "name": "Almonacid de la Cuba",
+    "percentage": 65.51
+  },
+  {
+    "1900": 2725,
+    "2020": 753,
+    "name": "Almonacid de la Sierra",
+    "percentage": 72.36
+  },
+  {
+    "1900": 1042,
+    "2020": 568,
+    "name": "Alpartir",
+    "percentage": 45.48
+  },
+  {
+    "1900": 955,
+    "2020": 253,
+    "name": "Ambel",
+    "percentage": 73.5
+  },
+  {
+    "1900": 387,
+    "2020": 95,
+    "name": "Anento",
+    "percentage": 75.45
+  },
+  {
+    "1900": 1870,
+    "2020": 684,
+    "name": "Aniñón",
+    "percentage": 63.42
+  },
+  {
+    "1900": 1106,
+    "2020": 222,
+    "name": "Añón de Moncayo",
+    "percentage": 79.92
+  },
+  {
+    "1900": 1585,
+    "2020": 145,
+    "name": "Aranda de Moncayo",
+    "percentage": 90.85
+  },
+  {
+    "1900": 1121,
+    "2020": 278,
+    "name": "Arándiga",
+    "percentage": 75.2
+  },
+  {
+    "1900": 484,
+    "2020": 74,
+    "name": "Ardisa",
+    "percentage": 84.71
+  },
+  {
+    "1900": 1578,
+    "2020": 1100,
+    "name": "Ariza",
+    "percentage": 30.29
+  },
+  {
+    "1900": 269,
+    "2020": 80,
+    "name": "Artieda",
+    "percentage": 70.26
+  },
+  {
+    "1900": 336,
+    "2020": 98,
+    "name": "Asín",
+    "percentage": 70.83
+  },
+  {
+    "1900": 1225,
+    "2020": 147,
+    "name": "Atea",
+    "percentage": 88
+  },
+  {
+    "1900": 3126,
+    "2020": 1762,
+    "name": "Ateca",
+    "percentage": 43.63
+  },
+  {
+    "1900": 2388,
+    "2020": 529,
+    "name": "Azuara",
+    "percentage": 77.84
+  },
+  {
+    "1900": 440,
+    "2020": 78,
+    "name": "Badules",
+    "percentage": 82.27
+  },
+  {
+    "1900": 243,
+    "2020": 16,
+    "name": "Bagüés",
+    "percentage": 93.41
+  },
+  {
+    "1900": 178,
+    "2020": 20,
+    "name": "Balconchán",
+    "percentage": 88.76
+  },
+  {
+    "1900": 640,
+    "2020": 282,
+    "name": "Bárboles",
+    "percentage": 55.93
+  },
+  {
+    "1900": 834,
+    "2020": 254,
+    "name": "Bardallur",
+    "percentage": 69.54
+  },
+  {
+    "1900": 3333,
+    "2020": 1526,
+    "name": "Belchite",
+    "percentage": 54.21
+  },
+  {
+    "1900": 997,
+    "2020": 194,
+    "name": "Belmonte de Gracián",
+    "percentage": 80.54
+  },
+  {
+    "1900": 363,
+    "2020": 40,
+    "name": "Berdejo",
+    "percentage": 88.98
+  },
+  {
+    "1900": 232,
+    "2020": 32,
+    "name": "Berrueco",
+    "percentage": 86.2
+  },
+  {
+    "1900": 833,
+    "2020": 94,
+    "name": "Bijuesca",
+    "percentage": 88.71
+  },
+  {
+    "1900": 1383,
+    "2020": 930,
+    "name": "Biota",
+    "percentage": 32.75
+  },
+  {
+    "1900": 291,
+    "2020": 81,
+    "name": "Bisimbre",
+    "percentage": 72.16
+  },
+  {
+    "1900": 920,
+    "2020": 776,
+    "name": "Boquiñeni",
+    "percentage": 15.65
+  },
+  {
+    "1900": 520,
+    "2020": 52,
+    "name": "Bordalba",
+    "percentage": 90
+  },
+  {
+    "1900": 5667,
+    "2020": 4978,
+    "name": "Borja",
+    "percentage": 12.15
+  },
+  {
+    "1900": 914,
+    "2020": 65,
+    "name": "Bubierca",
+    "percentage": 92.88
+  },
+  {
+    "1900": 1510,
+    "2020": 980,
+    "name": "Bujaraloz",
+    "percentage": 35.09
+  },
+  {
+    "1900": 1052,
+    "2020": 220,
+    "name": "Bulbuente",
+    "percentage": 79.08
+  },
+  {
+    "1900": 685,
+    "2020": 206,
+    "name": "Bureta",
+    "percentage": 69.92
+  },
+  {
+    "1900": 428,
+    "2020": 71,
+    "name": "El Buste",
+    "percentage": 83.41
+  },
+  {
+    "1900": 474,
+    "2020": 53,
+    "name": "Cabolafuente",
+    "percentage": 88.81
+  },
+  {
+    "1900": 854,
+    "2020": 73,
+    "name": "Calcena",
+    "percentage": 91.45
+  },
+  {
+    "1900": 343,
+    "2020": 61,
+    "name": "Calmarza",
+    "percentage": 82.21
+  },
+  {
+    "1900": 701,
+    "2020": 146,
+    "name": "Campillo de Aragón",
+    "percentage": 79.17
+  },
+  {
+    "1900": 1181,
+    "2020": 189,
+    "name": "Carenas",
+    "percentage": 83.99
+  },
+  {
+    "1900": 294,
+    "2020": 88,
+    "name": "Castejón de Alarba",
+    "percentage": 70.06
+  },
+  {
+    "1900": 750,
+    "2020": 78,
+    "name": "Castejón de las Armas",
+    "percentage": 89.6
+  },
+  {
+    "1900": 1095,
+    "2020": 209,
+    "name": "Castejón de Valdejasa",
+    "percentage": 80.91
+  },
+  {
+    "1900": 823,
+    "2020": 254,
+    "name": "Castiliscar",
+    "percentage": 69.13
+  },
+  {
+    "1900": 904,
+    "2020": 260,
+    "name": "Cervera de la Cañada",
+    "percentage": 71.23
+  },
+  {
+    "1900": 443,
+    "2020": 34,
+    "name": "Cerveruela",
+    "percentage": 92.32
+  },
+  {
+    "1900": 1312,
+    "2020": 583,
+    "name": "Cetina",
+    "percentage": 55.56
+  },
+  {
+    "1900": 512,
+    "2020": 94,
+    "name": "Cimballa",
+    "percentage": 81.64
+  },
+  {
+    "1900": 570,
+    "2020": 102,
+    "name": "Cinco Olivas",
+    "percentage": 82.1
+  },
+  {
+    "1900": 444,
+    "2020": 67,
+    "name": "Clarés de Ribota",
+    "percentage": 84.9
+  },
+  {
+    "1900": 1026,
+    "2020": 199,
+    "name": "Codo",
+    "percentage": 80.6
+  },
+  {
+    "1900": 1122,
+    "2020": 248,
+    "name": "Codos",
+    "percentage": 77.89
+  },
+  {
+    "1900": 169,
+    "2020": 32,
+    "name": "Contamina",
+    "percentage": 81.06
+  },
+  {
+    "1900": 1304,
+    "2020": 337,
+    "name": "Cosuenda",
+    "percentage": 74.15
+  },
+  {
+    "1900": 505,
+    "2020": 155,
+    "name": "Cubel",
+    "percentage": 69.3
+  },
+  {
+    "1900": 316,
+    "2020": 41,
+    "name": "Las Cuerlas",
+    "percentage": 87.02
+  },
+  {
+    "1900": 1425,
+    "2020": 497,
+    "name": "Chiprana",
+    "percentage": 65.12
+  },
+  {
+    "1900": 483,
+    "2020": 104,
+    "name": "Chodes",
+    "percentage": 78.46
+  },
+  {
+    "1900": 3493,
+    "2020": 1965,
+    "name": "Daroca",
+    "percentage": 43.74
+  },
+  {
+    "1900": 498,
+    "2020": 35,
+    "name": "Embid de Ariza",
+    "percentage": 92.97
+  },
+  {
+    "1900": 1020,
+    "2020": 178,
+    "name": "Encinacorba",
+    "percentage": 82.54
+  },
+  {
+    "1900": 911,
+    "2020": 341,
+    "name": "Erla",
+    "percentage": 62.56
+  },
+  {
+    "1900": 2374,
+    "2020": 1067,
+    "name": "Escatrón",
+    "percentage": 55.05
+  },
+  {
+    "1900": 2089,
+    "2020": 1109,
+    "name": "Fabara",
+    "percentage": 46.91
+  },
+  {
+    "1900": 524,
+    "2020": 366,
+    "name": "Farlete",
+    "percentage": 30.15
+  },
+  {
+    "1900": 1306,
+    "2020": 380,
+    "name": "Fayón",
+    "percentage": 70.9
+  },
+  {
+    "1900": 521,
+    "2020": 131,
+    "name": "Los Fayos",
+    "percentage": 74.85
+  },
+  {
+    "1900": 226,
+    "2020": 60,
+    "name": "Fombuena",
+    "percentage": 73.45
+  },
+  {
+    "1900": 561,
+    "2020": 97,
+    "name": "El Frago",
+    "percentage": 82.7
+  },
+  {
+    "1900": 1551,
+    "2020": 379,
+    "name": "El Frasno",
+    "percentage": 75.56
+  },
+  {
+    "1900": 505,
+    "2020": 199,
+    "name": "Fréscano",
+    "percentage": 60.59
+  },
+  {
+    "1900": 1354,
+    "2020": 784,
+    "name": "Fuendejalón",
+    "percentage": 42.09
+  },
+  {
+    "1900": 540,
+    "2020": 145,
+    "name": "Fuendetodos",
+    "percentage": 73.14
+  },
+  {
+    "1900": 1099,
+    "2020": 229,
+    "name": "Fuentes de Jiloca",
+    "percentage": 79.16
+  },
+  {
+    "1900": 363,
+    "2020": 136,
+    "name": "Gallocanta",
+    "percentage": 62.53
+  },
+  {
+    "1900": 2847,
+    "2020": 2566,
+    "name": "Gallur",
+    "percentage": 9.87
+  },
+  {
+    "1900": 2096,
+    "2020": 996,
+    "name": "Gelsa",
+    "percentage": 52.48
+  },
+  {
+    "1900": 432,
+    "2020": 53,
+    "name": "Godojos",
+    "percentage": 87.73
+  },
+  {
+    "1900": 874,
+    "2020": 302,
+    "name": "Gotor",
+    "percentage": 65.44
+  },
+  {
+    "1900": 497,
+    "2020": 74,
+    "name": "Grisel",
+    "percentage": 85.11
+  },
+  {
+    "1900": 1873,
+    "2020": 489,
+    "name": "Herrera de los Navarros",
+    "percentage": 73.89
+  },
+  {
+    "1900": 1251,
+    "2020": 395,
+    "name": "Ibdes",
+    "percentage": 68.42
+  },
+  {
+    "1900": 347,
+    "2020": 31,
+    "name": "Isuerre",
+    "percentage": 91.06
+  },
+  {
+    "1900": 491,
+    "2020": 282,
+    "name": "Jaraba",
+    "percentage": 42.56
+  },
+  {
+    "1900": 1472,
+    "2020": 417,
+    "name": "Jarque de Moncayo",
+    "percentage": 71.67
+  },
+  {
+    "1900": 361,
+    "2020": 251,
+    "name": "Jaulín",
+    "percentage": 30.47
+  },
+  {
+    "1900": 503,
+    "2020": 109,
+    "name": "Lagata",
+    "percentage": 78.33
+  },
+  {
+    "1900": 599,
+    "2020": 122,
+    "name": "Langa del Castillo",
+    "percentage": 79.63
+  },
+  {
+    "1900": 343,
+    "2020": 94,
+    "name": "Layana",
+    "percentage": 72.59
+  },
+  {
+    "1900": 1997,
+    "2020": 631,
+    "name": "Lécera",
+    "percentage": 68.4
+  },
+  {
+    "1900": 1576,
+    "2020": 1146,
+    "name": "Leciñena",
+    "percentage": 27.28
+  },
+  {
+    "1900": 157,
+    "2020": 46,
+    "name": "Lechón",
+    "percentage": 70.7
+  },
+  {
+    "1900": 1074,
+    "2020": 342,
+    "name": "Letux",
+    "percentage": 68.15
+  },
+  {
+    "1900": 634,
+    "2020": 164,
+    "name": "Litago",
+    "percentage": 74.13
+  },
+  {
+    "1900": 363,
+    "2020": 123,
+    "name": "Lituénigo",
+    "percentage": 66.11
+  },
+  {
+    "1900": 496,
+    "2020": 26,
+    "name": "Lobera de Onsella",
+    "percentage": 94.75
+  },
+  {
+    "1900": 1306,
+    "2020": 883,
+    "name": "Longares",
+    "percentage": 32.38
+  },
+  {
+    "1900": 469,
+    "2020": 32,
+    "name": "Longás",
+    "percentage": 93.17
+  },
+  {
+    "1900": 469,
+    "2020": 232,
+    "name": "Lucena de Jalón",
+    "percentage": 50.53
+  },
+  {
+    "1900": 1573,
+    "2020": 297,
+    "name": "Luesia",
+    "percentage": 81.11
+  },
+  {
+    "1900": 331,
+    "2020": 37,
+    "name": "Luesma",
+    "percentage": 88.82
+  },
+  {
+    "1900": 1431,
+    "2020": 806,
+    "name": "Lumpiaque",
+    "percentage": 43.67
+  },
+  {
+    "1900": 1761,
+    "2020": 684,
+    "name": "Luna",
+    "percentage": 61.15
+  },
+  {
+    "1900": 3325,
+    "2020": 2008,
+    "name": "Maella",
+    "percentage": 39.6
+  },
+  {
+    "1900": 2822,
+    "2020": 1112,
+    "name": "Magallón",
+    "percentage": 60.59
+  },
+  {
+    "1900": 471,
+    "2020": 160,
+    "name": "Mainar",
+    "percentage": 66.02
+  },
+  {
+    "1900": 427,
+    "2020": 89,
+    "name": "Malanquilla",
+    "percentage": 79.15
+  },
+  {
+    "1900": 535,
+    "2020": 276,
+    "name": "Maleján",
+    "percentage": 48.41
+  },
+  {
+    "1900": 1230,
+    "2020": 369,
+    "name": "Malón",
+    "percentage": 70
+  },
+  {
+    "1900": 1400,
+    "2020": 937,
+    "name": "Maluenda",
+    "percentage": 33.07
+  },
+  {
+    "1900": 672,
+    "2020": 106,
+    "name": "Manchones",
+    "percentage": 84.22
+  },
+  {
+    "1900": 706,
+    "2020": 168,
+    "name": "Mara",
+    "percentage": 76.2
+  },
+  {
+    "1900": 1416,
+    "2020": 447,
+    "name": "Mediana de Aragón",
+    "percentage": 68.43
+  },
+  {
+    "1900": 2842,
+    "2020": 2279,
+    "name": "Mequinenza",
+    "percentage": 19.8
+  },
+  {
+    "1900": 613,
+    "2020": 257,
+    "name": "Mesones de Isuela",
+    "percentage": 58.07
+  },
+  {
+    "1900": 510,
+    "2020": 233,
+    "name": "Mezalocha",
+    "percentage": 54.31
+  },
+  {
+    "1900": 221,
+    "2020": 27,
+    "name": "Mianos",
+    "percentage": 87.78
+  },
+  {
+    "1900": 916,
+    "2020": 415,
+    "name": "Miedes de Aragón",
+    "percentage": 54.69
+  },
+  {
+    "1900": 824,
+    "2020": 394,
+    "name": "Monegrillo",
+    "percentage": 52.18
+  },
+  {
+    "1900": 636,
+    "2020": 114,
+    "name": "Moneva",
+    "percentage": 82.07
+  },
+  {
+    "1900": 680,
+    "2020": 189,
+    "name": "Monreal de Ariza",
+    "percentage": 72.2
+  },
+  {
+    "1900": 932,
+    "2020": 143,
+    "name": "Monterde",
+    "percentage": 84.65
+  },
+  {
+    "1900": 499,
+    "2020": 90,
+    "name": "Montón",
+    "percentage": 81.96
+  },
+  {
+    "1900": 2161,
+    "2020": 1066,
+    "name": "Morata de Jalón",
+    "percentage": 50.67
+  },
+  {
+    "1900": 897,
+    "2020": 276,
+    "name": "Morata de Jiloca",
+    "percentage": 69.23
+  },
+  {
+    "1900": 1168,
+    "2020": 321,
+    "name": "Morés",
+    "percentage": 72.51
+  },
+  {
+    "1900": 1209,
+    "2020": 319,
+    "name": "Moros",
+    "percentage": 73.61
+  },
+  {
+    "1900": 952,
+    "2020": 265,
+    "name": "Moyuela",
+    "percentage": 72.16
+  },
+  {
+    "1900": 378,
+    "2020": 120,
+    "name": "Mozota",
+    "percentage": 68.25
+  },
+  {
+    "1900": 1300,
+    "2020": 363,
+    "name": "Munébrega",
+    "percentage": 72.07
+  },
+  {
+    "1900": 519,
+    "2020": 96,
+    "name": "Murero",
+    "percentage": 81.5
+  },
+  {
+    "1900": 1159,
+    "2020": 191,
+    "name": "Murillo de Gállego",
+    "percentage": 83.52
+  },
+  {
+    "1900": 413,
+    "2020": 36,
+    "name": "Navardún",
+    "percentage": 91.28
+  },
+  {
+    "1900": 270,
+    "2020": 61,
+    "name": "Nigüella",
+    "percentage": 77.4
+  },
+  {
+    "1900": 262,
+    "2020": 31,
+    "name": "Nombrevilla",
+    "percentage": 88.16
+  },
+  {
+    "1900": 1681,
+    "2020": 978,
+    "name": "Nonaspe",
+    "percentage": 41.82
+  },
+  {
+    "1900": 1527,
+    "2020": 825,
+    "name": "Novallas",
+    "percentage": 45.97
+  },
+  {
+    "1900": 908,
+    "2020": 517,
+    "name": "Novillas",
+    "percentage": 43.06
+  },
+  {
+    "1900": 902,
+    "2020": 285,
+    "name": "Nuévalos",
+    "percentage": 68.4
+  },
+  {
+    "1900": 674,
+    "2020": 110,
+    "name": "Olvés",
+    "percentage": 83.67
+  },
+  {
+    "1900": 495,
+    "2020": 55,
+    "name": "Orcajo",
+    "percentage": 88.88
+  },
+  {
+    "1900": 411,
+    "2020": 111,
+    "name": "Orera",
+    "percentage": 72.99
+  },
+  {
+    "1900": 734,
+    "2020": 109,
+    "name": "Orés",
+    "percentage": 85.14
+  },
+  {
+    "1900": 346,
+    "2020": 47,
+    "name": "Oseja",
+    "percentage": 86.41
+  },
+  {
+    "1900": 497,
+    "2020": 383,
+    "name": "Osera de Ebro",
+    "percentage": 22.93
+  },
+  {
+    "1900": 1820,
+    "2020": 619,
+    "name": "Paniza",
+    "percentage": 65.98
+  },
+  {
+    "1900": 712,
+    "2020": 573,
+    "name": "Paracuellos de Jiloca",
+    "percentage": 19.52
+  },
+  {
+    "1900": 908,
+    "2020": 136,
+    "name": "Paracuellos de la Ribera",
+    "percentage": 85.02
+  },
+  {
+    "1900": 390,
+    "2020": 86,
+    "name": "Las Pedrosas",
+    "percentage": 77.94
+  },
+  {
+    "1900": 725,
+    "2020": 572,
+    "name": "Perdiguera",
+    "percentage": 21.1
+  },
+  {
+    "1900": 300,
+    "2020": 87,
+    "name": "Piedratajada",
+    "percentage": 71
+  },
+  {
+    "1900": 2409,
+    "2020": 2391,
+    "name": "Pina de Ebro",
+    "percentage": ".74"
+  },
+  {
+    "1900": 773,
+    "2020": 39,
+    "name": "Los Pintanos",
+    "percentage": 94.95
+  },
+  {
+    "1900": 875,
+    "2020": 308,
+    "name": "Plasencia de Jalón",
+    "percentage": 64.8
+  },
+  {
+    "1900": 154,
+    "2020": 33,
+    "name": "Pleitas",
+    "percentage": 78.57
+  },
+  {
+    "1900": 681,
+    "2020": 98,
+    "name": "Plenas",
+    "percentage": 85.6
+  },
+  {
+    "1900": 474,
+    "2020": 21,
+    "name": "Pomer",
+    "percentage": 95.56
+  },
+  {
+    "1900": 287,
+    "2020": 21,
+    "name": "Pozuel de Ariza",
+    "percentage": 92.68
+  },
+  {
+    "1900": 710,
+    "2020": 282,
+    "name": "Pozuelo de Aragón",
+    "percentage": 60.28
+  },
+  {
+    "1900": 688,
+    "2020": 540,
+    "name": "Pradilla de Ebro",
+    "percentage": 21.51
+  },
+  {
+    "1900": 631,
+    "2020": 120,
+    "name": "Puebla de Albortón",
+    "percentage": 80.98
+  },
+  {
+    "1900": 228,
+    "2020": 48,
+    "name": "Puendeluna",
+    "percentage": 78.94
+  },
+  {
+    "1900": 463,
+    "2020": 32,
+    "name": "Purujosa",
+    "percentage": 93.08
+  },
+  {
+    "1900": 2521,
+    "2020": 1949,
+    "name": "Quinto",
+    "percentage": 22.68
+  },
+  {
+    "1900": 180,
+    "2020": 62,
+    "name": "Retascón",
+    "percentage": 65.55
+  },
+  {
+    "1900": 321,
+    "2020": 125,
+    "name": "Romanos",
+    "percentage": 61.05
+  },
+  {
+    "1900": 896,
+    "2020": 312,
+    "name": "Rueda de Jalón",
+    "percentage": 65.17
+  },
+  {
+    "1900": 163,
+    "2020": 76,
+    "name": "Ruesca",
+    "percentage": 53.37
+  },
+  {
+    "1900": 1812,
+    "2020": 1311,
+    "name": "Sádaba",
+    "percentage": 27.64
+  },
+  {
+    "1900": 583,
+    "2020": 321,
+    "name": "Salillas de Jalón",
+    "percentage": 44.93
+  },
+  {
+    "1900": 1196,
+    "2020": 207,
+    "name": "Salvatierra de Esca",
+    "percentage": 82.69
+  },
+  {
+    "1900": 404,
+    "2020": 100,
+    "name": "Samper del Salz",
+    "percentage": 75.24
+  },
+  {
+    "1900": 385,
+    "2020": 270,
+    "name": "San Martín de la Virgen de Moncayo",
+    "percentage": 29.87
+  },
+  {
+    "1900": 929,
+    "2020": 105,
+    "name": "Santa Cruz de Grío",
+    "percentage": 88.69
+  },
+  {
+    "1900": 318,
+    "2020": 123,
+    "name": "Santa Cruz de Moncayo",
+    "percentage": 61.32
+  },
+  {
+    "1900": 924,
+    "2020": 97,
+    "name": "Santa Eulalia de Gállego",
+    "percentage": 89.5
+  },
+  {
+    "1900": 290,
+    "2020": 64,
+    "name": "Santed",
+    "percentage": 77.93
+  },
+  {
+    "1900": 2987,
+    "2020": 1119,
+    "name": "Sástago",
+    "percentage": 62.53
+  },
+  {
+    "1900": 1759,
+    "2020": 722,
+    "name": "Sabiñán",
+    "percentage": 58.95
+  },
+  {
+    "1900": 311,
+    "2020": 108,
+    "name": "Sediles",
+    "percentage": 65.27
+  },
+  {
+    "1900": 1298,
+    "2020": 344,
+    "name": "Sestrica",
+    "percentage": 73.49
+  },
+  {
+    "1900": 651,
+    "2020": 270,
+    "name": "Sierra de Luna",
+    "percentage": 58.52
+  },
+  {
+    "1900": 1638,
+    "2020": 79,
+    "name": "Sigüés",
+    "percentage": 95.17
+  },
+  {
+    "1900": 457,
+    "2020": 35,
+    "name": "Sisamón",
+    "percentage": 92.34
+  },
+  {
+    "1900": 3596,
+    "2020": 567,
+    "name": "Sos del Rey Católico",
+    "percentage": 84.23
+  },
+  {
+    "1900": 1379,
+    "2020": 321,
+    "name": "Tabuenca",
+    "percentage": 76.72
+  },
+  {
+    "1900": 471,
+    "2020": 61,
+    "name": "Talamantes",
+    "percentage": 87.04
+  },
+  {
+    "1900": 975,
+    "2020": 464,
+    "name": "Terrer",
+    "percentage": 52.41
+  },
+  {
+    "1900": 682,
+    "2020": 190,
+    "name": "Tierga",
+    "percentage": 72.14
+  },
+  {
+    "1900": 1002,
+    "2020": 230,
+    "name": "Tobed",
+    "percentage": 77.04
+  },
+  {
+    "1900": 530,
+    "2020": 76,
+    "name": "Torralba de los Frailes",
+    "percentage": 85.66
+  },
+  {
+    "1900": 654,
+    "2020": 169,
+    "name": "Torralba de Ribota",
+    "percentage": 74.15
+  },
+  {
+    "1900": 393,
+    "2020": 59,
+    "name": "Torralbilla",
+    "percentage": 84.98
+  },
+  {
+    "1900": 258,
+    "2020": 69,
+    "name": "Torrehermosa",
+    "percentage": 73.25
+  },
+  {
+    "1900": 310,
+    "2020": 35,
+    "name": "Torrelapaja",
+    "percentage": 88.7
+  },
+  {
+    "1900": 860,
+    "2020": 246,
+    "name": "Torrellas",
+    "percentage": 71.39
+  },
+  {
+    "1900": 2007,
+    "2020": 197,
+    "name": "Torrijo de la Cañada",
+    "percentage": 90.18
+  },
+  {
+    "1900": 841,
+    "2020": 183,
+    "name": "Tosos",
+    "percentage": 78.24
+  },
+  {
+    "1900": 341,
+    "2020": 88,
+    "name": "Trasmoz",
+    "percentage": 74.19
+  },
+  {
+    "1900": 531,
+    "2020": 115,
+    "name": "Trasobares",
+    "percentage": 78.34
+  },
+  {
+    "1900": 2758,
+    "2020": 621,
+    "name": "Uncastillo",
+    "percentage": 77.48
+  },
+  {
+    "1900": 485,
+    "2020": 57,
+    "name": "Undués de Lerda",
+    "percentage": 88.24
+  },
+  {
+    "1900": 801,
+    "2020": 435,
+    "name": "Urrea de Jalón",
+    "percentage": 45.69
+  },
+  {
+    "1900": 1111,
+    "2020": 43,
+    "name": "Urriés",
+    "percentage": 96.12
+  },
+  {
+    "1900": 1432,
+    "2020": 256,
+    "name": "Used",
+    "percentage": 82.12
+  },
+  {
+    "1900": 236,
+    "2020": 33,
+    "name": "Valdehorna",
+    "percentage": 86.01
+  },
+  {
+    "1900": 345,
+    "2020": 61,
+    "name": "Val de San Martín",
+    "percentage": 82.31
+  },
+  {
+    "1900": 202,
+    "2020": 112,
+    "name": "Valmadrid",
+    "percentage": 44.55
+  },
+  {
+    "1900": 415,
+    "2020": 137,
+    "name": "Valpalmas",
+    "percentage": 66.98
+  },
+  {
+    "1900": 293,
+    "2020": 61,
+    "name": "Valtorres",
+    "percentage": 79.18
+  },
+  {
+    "1900": 1027,
+    "2020": 203,
+    "name": "Velilla de Ebro",
+    "percentage": 80.23
+  },
+  {
+    "1900": 486,
+    "2020": 81,
+    "name": "Velilla de Jiloca",
+    "percentage": 83.33
+  },
+  {
+    "1900": 1329,
+    "2020": 322,
+    "name": "Vera de Moncayo",
+    "percentage": 75.77
+  },
+  {
+    "1900": 230,
+    "2020": 82,
+    "name": "Vierlas",
+    "percentage": 64.34
+  },
+  {
+    "1900": 401,
+    "2020": 62,
+    "name": "La Vilueña",
+    "percentage": 84.53
+  },
+  {
+    "1900": 266,
+    "2020": 95,
+    "name": "Villadoz",
+    "percentage": 64.28
+  },
+  {
+    "1900": 1374,
+    "2020": 154,
+    "name": "Villafeliche",
+    "percentage": 88.79
+  },
+  {
+    "1900": 266,
+    "2020": 96,
+    "name": "Villalba de Perejil",
+    "percentage": 63.9
+  },
+  {
+    "1900": 1384,
+    "2020": 293,
+    "name": "Villalengua",
+    "percentage": 78.82
+  },
+  {
+    "1900": 545,
+    "2020": 52,
+    "name": "Villanueva de Jiloca",
+    "percentage": 90.45
+  },
+  {
+    "1900": 922,
+    "2020": 434,
+    "name": "Villanueva de Huerva",
+    "percentage": 52.92
+  },
+  {
+    "1900": 984,
+    "2020": 113,
+    "name": "Villar de los Navarros",
+    "percentage": 88.51
+  },
+  {
+    "1900": 469,
+    "2020": 273,
+    "name": "Villarreal de Huerva",
+    "percentage": 41.79
+  },
+  {
+    "1900": 2405,
+    "2020": 435,
+    "name": "Villarroya de la Sierra",
+    "percentage": 81.91
+  },
+  {
+    "1900": 229,
+    "2020": 89,
+    "name": "Villarroya del Campo",
+    "percentage": 61.13
+  },
+  {
+    "1900": 495,
+    "2020": 48,
+    "name": "Vistabella",
+    "percentage": 90.3
+  },
+  {
+    "1900": 1659,
+    "2020": 155,
+    "name": "Biel",
+    "percentage": 90.65
+  },
+  {
+    "1900": 154,
+    "2020": 84,
+    "name": "Marracos",
+    "percentage": 45.45
+  }
+]

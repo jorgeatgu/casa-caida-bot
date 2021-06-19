@@ -1,6 +1,7 @@
 const Twit = require('twit');
 const config = require('./config');
 const fs = require('fs');
+const datos = require('../data/aragon-municipios-densidad-inferior.json');
 const bot = new Twit(config);
 const stream = bot.stream('statuses/filter', { track: '@casacaida' });
 const municipalitiesAraEsp = require("./shared/aragones.js")
@@ -36,7 +37,9 @@ function parseTweet(message) {
 
   if (nameOfTheMunicipality === 'aleatorio') {
     nameOfTheMunicipality = randomMunicipality('aleatorio')
-  } else if (nameOfTheMunicipality === 'densidad') {
+  }
+
+  if (nameOfTheMunicipality === 'densidad') {
     nameOfTheMunicipality = randomMunicipality('densidad')
   }
 
@@ -143,7 +146,7 @@ function randomMunicipality(arrayValue) {
 function statsMunicipalities(municipality) {
   const streamFile = fs.createWriteStream("stats.txt", {flags:'a'});
   streamFile.once('open', function(fd) {
-    streamFile.write(`${randomMunicipality}\n`);
+    streamFile.write(`${municipality}\n`);
     streamFile.end();
   });
 }
