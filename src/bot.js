@@ -1,65 +1,30 @@
 const Twit = require('twit');
 const config = require('./config');
 const fs = require('fs');
-const datos = require('../data/aragon-municipios-densidad-inferior.json');
+const data = require('../data/2020/aragon-1900-2020.json');
 const bot = new Twit(config);
-const stream = bot.stream('statuses/filter', { track: '@casacaida' });
-const municipalitiesAraEsp = require("./shared/aragones.js")
-const municipalitiesEspAra = require("./shared/aragones-esp.js")
-const municipalitiesCatEsp = require("./shared/catalan.js")
-const municipalitiesEspCat = require("./shared/catalan-esp.js")
-const municipalities = require("./shared/municipality.js")
-const municipalitiesDemographic = require("./shared/densidad.js")
 
-stream.on('tweet', parseTweet)
+data.map((municipality, index) => {
+  setTimeout(() => {
+    createImages(municipality)
+  }, index * 600000)
+})
 
-function parseTweet(message) {
-  const {
-    in_reply_to_screen_name: replyTo,
-    text: text,
-    user: {
-      screen_name: userName
-    }
-  } = message
+function createImages(element) {
+  const { milnovecientos, dosmilveinte, name, percentage, province } = element
 
-  let nameOfTheMunicipality = text.replace(/@casacaida /g,'');
-  let nameOfTheMunicipalityAraCat = ''
-
-  if (municipalitiesAraEsp.find(d => d === nameOfTheMunicipality)) {
-    nameOfTheMunicipalityAraCat = nameOfTheMunicipality
-    const indexAra = municipalitiesAraEsp.findIndex(d => d === nameOfTheMunicipality)
-    nameOfTheMunicipality = municipalitiesEspAra[indexAra]
-  } else if (municipalitiesCatEsp.find(d => d === nameOfTheMunicipality)) {
-    nameOfTheMunicipalityAraCat = nameOfTheMunicipality
-    const indexCat = municipalitiesCatEsp.findIndex(d => d === nameOfTheMunicipality)
-    nameOfTheMunicipality = municipalitiesEspCat[indexCat]
-  }
-
-  if (nameOfTheMunicipality === 'aleatorio') {
-    nameOfTheMunicipality = randomMunicipality('aleatorio')
-  }
-
-  if (nameOfTheMunicipality === 'densidad') {
-    nameOfTheMunicipality = randomMunicipality('densidad')
-  }
-
-  if (replyTo === 'casacaida') {
-    createImagesTweet(nameOfTheMunicipality, userName, nameOfTheMunicipalityAraCat)
-  }
-}
-
-function createImagesTweet(nameOfTheMunicipality, userName, nameOfTheMunicipalityAraCat = '') {
-  if(!municipalities.some(d => d === nameOfTheMunicipality)) {
-    const params = {
-      status: `@${userName} ¡Jodoooo! !Vaya garrampazo! No encuentro el nombre del municipio. Igual lo has escrito mal 🤖`
-    };
-    createTweet(params)
-    return
-  }
-  statsMunicipalities(nameOfTheMunicipality)
-
-  const municipality = parseNameOfTheMunicipality(nameOfTheMunicipality);
-  const munipalityName = nameOfTheMunicipalityAraCat !== '' ? nameOfTheMunicipalityAraCat : nameOfTheMunicipality
+  const municipality = parseNameOfTheMunicipality(name);
+    const tweetText = `${name} en la provincia de #${
+      province
+  }.
+En el año 1900 tenía ${milnovecientos} habitantes.
+En el año 2020 tenía ${
+      dosmilveinte
+  } habitantes.
+Ha perdido el ${
+      percentage
+  }% de sus habitantes.
+#despoblacion #EspañaVaciada`;
 
   const charts = ['densidad','evolucion', 'evolucion2010', 'habitantes']
 
@@ -79,7 +44,7 @@ function createImagesTweet(nameOfTheMunicipality, userName, nameOfTheMunicipalit
       if(stringImages.length === 4) {
         let media_ids_string = []
         for (let index = 0; index < stringImages.length; index++) {
-          const altText = createAltText(item, munipalityName)
+          const altText = createAltText(item, municipality)
           let meta_params = {
             media_id: stringImages[index],
             alt_text: { text: altText }
@@ -93,7 +58,7 @@ function createImagesTweet(nameOfTheMunicipality, userName, nameOfTheMunicipalit
               media_ids_string.push(meta_params.media_id)
               if (media_ids_string.length === 4) {
                 const params = {
-                  status: `@${userName} Aquí tienes cuatro gráficas de ${munipalityName} #Aragón`,
+                  status: tweetText,
                   media_ids: media_ids_string
                 };
                 createTweet(params)
@@ -136,17 +101,4 @@ function createAltText(item, municipality) {
   } else if (item === 'habitantes') {
     return `Gráfica con los diferentes grupos de edad en ${municipality}`
   }
-}
-
-function randomMunicipality(arrayValue) {
-  const selectArray = arrayValue === 'aleatorio' ? municipalities : municipalitiesDemographic
-  return selectArray[Math.floor(Math.random() * selectArray.length)]
-}
-
-function statsMunicipalities(municipality) {
-  const streamFile = fs.createWriteStream("stats.txt", {flags:'a'});
-  streamFile.once('open', function(fd) {
-    streamFile.write(`${municipality}\n`);
-    streamFile.end();
-  });
 }

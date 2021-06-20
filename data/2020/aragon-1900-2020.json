@@ -1,3926 +1,4580 @@
 [
   {
-    "1900": 459,
-    "2020": 77,
+    "milnovecientos": 459,
+    "dosmilveinte": 77,
     "name": "Ababuj",
-    "percentage": 83.22
+    "percentage": 83.22,
+    "province": "Teruel"
   },
   {
-    "1900": 698,
+    "milnovecientos": 698,
     "2020": 50,
     "name": "Abejuela",
-    "percentage": 92.83
+    "percentage": 92.83,
+    "province": "Teruel"
   },
   {
-    "1900": 181,
+    "milnovecientos": 181,
     "2020": 19,
     "name": "Aguatón",
-    "percentage": 89.5
+    "percentage": 89.5,
+    "province": "Teruel"
   },
   {
-    "1900": 1781,
+    "milnovecientos": 1781,
     "2020": 516,
     "name": "Aguaviva",
-    "percentage": 71.02
+    "percentage": 71.02,
+    "province": "Teruel"
   },
   {
-    "1900": 524,
+    "milnovecientos": 524,
     "2020": 69,
     "name": "Aguilar del Alfambra",
-    "percentage": 86.83
+    "percentage": 86.83,
+    "province": "Teruel"
   },
   {
-    "1900": 931,
+    "milnovecientos": 931,
     "2020": 238,
     "name": "Alacón",
-    "percentage": 74.43
+    "percentage": 74.43,
+    "province": "Teruel"
   },
   {
-    "1900": 634,
+    "milnovecientos": 634,
     "2020": 165,
     "name": "Alba",
-    "percentage": 73.97
+    "percentage": 73.97,
+    "province": "Teruel"
   },
   {
-    "1900": 4291,
+    "milnovecientos": 4291,
     "2020": 1972,
     "name": "Albalate del Arzobispo",
-    "percentage": 54.04
+    "percentage": 54.04,
+    "province": "Teruel"
   },
   {
-    "1900": 1932,
+    "milnovecientos": 1932,
     "2020": 1006,
     "name": "Albarracín",
-    "percentage": 47.92
+    "percentage": 47.92,
+    "province": "Teruel"
   },
   {
-    "1900": 1003,
+    "milnovecientos": 1003,
     "2020": 289,
     "name": "Albentosa",
-    "percentage": 71.18
+    "percentage": 71.18,
+    "province": "Teruel"
   },
   {
-    "1900": 1103,
+    "milnovecientos": 1103,
     "2020": 53,
     "name": "Alcaine",
-    "percentage": 95.19
+    "percentage": 95.19,
+    "province": "Teruel"
   },
   {
-    "1900": 1648,
+    "milnovecientos": 1648,
     "2020": 331,
     "name": "Alcalá de la Selva",
-    "percentage": 79.91
+    "percentage": 79.91,
+    "province": "Teruel"
   },
   {
-    "1900": 1355,
+    "milnovecientos": 1355,
     "2020": 482,
     "name": "Alfambra",
-    "percentage": 64.42
+    "percentage": 64.42,
+    "province": "Teruel"
   },
   {
-    "1900": 1754,
+    "milnovecientos": 1754,
     "2020": 326,
     "name": "Aliaga",
-    "percentage": 81.41
+    "percentage": 81.41,
+    "province": "Teruel"
   },
   {
-    "1900": 243,
+    "milnovecientos": 243,
     "2020": 124,
     "name": "Almohaja",
-    "percentage": 48.97
+    "percentage": 48.97,
+    "province": "Teruel"
   },
   {
-    "1900": 224,
+    "milnovecientos": 224,
     "2020": 24,
     "name": "Alpeñés",
-    "percentage": 89.28
+    "percentage": 89.28,
+    "province": "Teruel"
   },
   {
-    "1900": 1040,
+    "milnovecientos": 1040,
     "2020": 14,
     "name": "Allepuz",
-    "percentage": 98.65
+    "percentage": 98.65,
+    "province": "Teruel"
   },
   {
-    "1900": 1773,
+    "milnovecientos": 1773,
     "2020": 64,
     "name": "Alloza",
-    "percentage": 96.39
+    "percentage": 96.39,
+    "province": "Teruel"
   },
   {
-    "1900": 216,
+    "milnovecientos": 216,
     "2020": 21,
     "name": "Allueva",
-    "percentage": 90.27
+    "percentage": 90.27,
+    "province": "Teruel"
   },
   {
-    "1900": 355,
+    "milnovecientos": 355,
     "2020": 32,
     "name": "Anadón",
-    "percentage": 90.98
+    "percentage": 90.98,
+    "province": "Teruel"
   },
   {
-    "1900": 1353,
+    "milnovecientos": 1353,
     "2020": 118,
     "name": "Arcos de las Salinas",
-    "percentage": 91.27
+    "percentage": 91.27,
+    "province": "Teruel"
   },
   {
-    "1900": 759,
+    "milnovecientos": 759,
     "2020": 205,
     "name": "Arens de Lledó",
-    "percentage": 72.99
+    "percentage": 72.99,
+    "province": "Teruel"
   },
   {
-    "1900": 716,
+    "milnovecientos": 716,
     "2020": 193,
     "name": "Argente",
-    "percentage": 73.04
+    "percentage": 73.04,
+    "province": "Teruel"
   },
   {
-    "1900": 1366,
+    "milnovecientos": 1366,
     "2020": 714,
     "name": "Ariño",
-    "percentage": 47.73
+    "percentage": 47.73,
+    "province": "Teruel"
   },
   {
-    "1900": 742,
+    "milnovecientos": 742,
     "2020": 93,
     "name": "Azaila",
-    "percentage": 87.46
+    "percentage": 87.46,
+    "province": "Teruel"
   },
   {
-    "1900": 454,
+    "milnovecientos": 454,
     "2020": 19,
     "name": "Bádenas",
-    "percentage": 95.81
+    "percentage": 95.81,
+    "province": "Teruel"
   },
   {
-    "1900": 1420,
+    "milnovecientos": 1420,
     "2020": 285,
     "name": "Báguena",
-    "percentage": 79.92
+    "percentage": 79.92,
+    "province": "Teruel"
   },
   {
-    "1900": 693,
+    "milnovecientos": 693,
     "2020": 146,
     "name": "Bañón",
-    "percentage": 78.93
+    "percentage": 78.93,
+    "province": "Teruel"
   },
   {
-    "1900": 697,
+    "milnovecientos": 697,
     "2020": 109,
     "name": "Barrachina",
-    "percentage": 84.36
+    "percentage": 84.36,
+    "province": "Teruel"
   },
   {
-    "1900": 170,
+    "milnovecientos": 170,
     "2020": 29,
     "name": "Bea",
-    "percentage": 82.94
+    "percentage": 82.94,
+    "province": "Teruel"
   },
   {
-    "1900": 2252,
+    "milnovecientos": 2252,
     "2020": 531,
     "name": "Beceite",
-    "percentage": 76.42
+    "percentage": 76.42,
+    "province": "Teruel"
   },
   {
-    "1900": 817,
+    "milnovecientos": 817,
     "2020": 219,
     "name": "Belmonte de San José",
-    "percentage": 73.19
+    "percentage": 73.19,
+    "province": "Teruel"
   },
   {
-    "1900": 989,
+    "milnovecientos": 989,
     "2020": 123,
     "name": "Bello",
-    "percentage": 87.56
+    "percentage": 87.56,
+    "province": "Teruel"
   },
   {
-    "1900": 816,
+    "milnovecientos": 816,
     "2020": 241,
     "name": "Berge",
-    "percentage": 70.46
+    "percentage": 70.46,
+    "province": "Teruel"
   },
   {
-    "1900": 357,
+    "milnovecientos": 357,
     "2020": 67,
     "name": "Bezas",
-    "percentage": 81.23
+    "percentage": 81.23,
+    "province": "Teruel"
   },
   {
-    "1900": 859,
+    "milnovecientos": 859,
     "2020": 125,
     "name": "Blancas",
-    "percentage": 85.44
+    "percentage": 85.44,
+    "province": "Teruel"
   },
   {
-    "1900": 1325,
+    "milnovecientos": 1325,
     "2020": 92,
     "name": "Blesa",
-    "percentage": 93.05
+    "percentage": 93.05,
+    "province": "Teruel"
   },
   {
-    "1900": 586,
+    "milnovecientos": 586,
     "2020": 105,
     "name": "Bordón",
-    "percentage": 82.08
+    "percentage": 82.08,
+    "province": "Teruel"
   },
   {
-    "1900": 950,
+    "milnovecientos": 950,
     "2020": 417,
     "name": "Bronchales",
-    "percentage": 56.1
+    "percentage": 56.1,
+    "province": "Teruel"
   },
   {
-    "1900": 352,
+    "milnovecientos": 352,
     "2020": 49,
     "name": "Bueña",
-    "percentage": 86.07
+    "percentage": 86.07,
+    "province": "Teruel"
   },
   {
-    "1900": 1350,
+    "milnovecientos": 1350,
     "2020": 211,
     "name": "Burbáguena",
-    "percentage": 84.37
+    "percentage": 84.37,
+    "province": "Teruel"
   },
   {
-    "1900": 563,
+    "milnovecientos": 563,
     "2020": 51,
     "name": "Cabra de Mora",
-    "percentage": 90.94
+    "percentage": 90.94,
+    "province": "Teruel"
   },
   {
-    "1900": 2579,
+    "milnovecientos": 2579,
     "2020": 978,
     "name": "Calaceite",
-    "percentage": 62.07
+    "percentage": 62.07,
+    "province": "Teruel"
   },
   {
-    "1900": 6017,
+    "milnovecientos": 6017,
     "2020": 4429,
     "name": "Calamocha",
-    "percentage": 26.39
+    "percentage": 26.39,
+    "province": "Teruel"
   },
   {
-    "1900": 3924,
+    "milnovecientos": 3924,
     "2020": 3822,
     "name": "Calanda",
-    "percentage": 2.59
+    "percentage": 2.59,
+    "province": "Teruel"
   },
   {
-    "1900": 422,
+    "milnovecientos": 422,
     "2020": 74,
     "name": "Calomarde",
-    "percentage": 82.46
+    "percentage": 82.46,
+    "province": "Teruel"
   },
   {
-    "1900": 450,
+    "milnovecientos": 450,
     "2020": 133,
     "name": "Camañas",
-    "percentage": 70.44
+    "percentage": 70.44,
+    "province": "Teruel"
   },
   {
-    "1900": 882,
+    "milnovecientos": 882,
     "2020": 107,
     "name": "Camarena de la Sierra",
-    "percentage": 87.86
+    "percentage": 87.86,
+    "province": "Teruel"
   },
   {
-    "1900": 816,
+    "milnovecientos": 816,
     "2020": 92,
     "name": "Camarillas",
-    "percentage": 88.72
+    "percentage": 88.72,
+    "province": "Teruel"
   },
   {
-    "1900": 1349,
+    "milnovecientos": 1349,
     "2020": 615,
     "name": "Caminreal",
-    "percentage": 54.41
+    "percentage": 54.41,
+    "province": "Teruel"
   },
   {
-    "1900": 1962,
+    "milnovecientos": 1962,
     "2020": 729,
     "name": "Cantavieja",
-    "percentage": 62.84
+    "percentage": 62.84,
+    "province": "Teruel"
   },
   {
-    "1900": 642,
+    "milnovecientos": 642,
     "2020": 33,
     "name": "Cañada de Benatanduz",
-    "percentage": 94.85
+    "percentage": 94.85,
+    "province": "Teruel"
   },
   {
-    "1900": 287,
+    "milnovecientos": 287,
     "2020": 92,
     "name": "La Cañada de Verich",
-    "percentage": 67.94
+    "percentage": 67.94,
+    "province": "Teruel"
   },
   {
-    "1900": 201,
+    "milnovecientos": 201,
     "2020": 36,
     "name": "Cañada Vellida",
-    "percentage": 82.08
+    "percentage": 82.08,
+    "province": "Teruel"
   },
   {
-    "1900": 507,
+    "milnovecientos": 507,
     "2020": 100,
     "name": "Cañizar del Olivar",
-    "percentage": 80.27
+    "percentage": 80.27,
+    "province": "Teruel"
   },
   {
-    "1900": 574,
+    "milnovecientos": 574,
     "2020": 67,
     "name": "Cascante del Río",
-    "percentage": 88.32
+    "percentage": 88.32,
+    "province": "Teruel"
   },
   {
-    "1900": 475,
+    "milnovecientos": 475,
     "2020": 55,
     "name": "Castejón de Tornos",
-    "percentage": 88.42
+    "percentage": 88.42,
+    "province": "Teruel"
   },
   {
-    "1900": 623,
+    "milnovecientos": 623,
     "2020": 93,
     "name": "Castel de Cabra",
-    "percentage": 85.07
+    "percentage": 85.07,
+    "province": "Teruel"
   },
   {
-    "1900": 680,
+    "milnovecientos": 680,
     "2020": 55,
     "name": "Castelnou",
-    "percentage": 91.91
+    "percentage": 91.91,
+    "province": "Teruel"
   },
   {
-    "1900": 2177,
+    "milnovecientos": 2177,
     "2020": 676,
     "name": "Castelserás",
-    "percentage": 68.94
+    "percentage": 68.94,
+    "province": "Teruel"
   },
   {
-    "1900": 489,
+    "milnovecientos": 489,
     "2020": 134,
     "name": "El Castellar",
-    "percentage": 72.59
+    "percentage": 72.59,
+    "province": "Teruel"
   },
   {
-    "1900": 5122,
+    "milnovecientos": 5122,
     "2020": 800,
     "name": "Castellote",
-    "percentage": 84.38
+    "percentage": 84.38,
+    "province": "Teruel"
   },
   {
-    "1900": 957,
+    "milnovecientos": 957,
     "2020": 639,
     "name": "Cedrillas",
-    "percentage": 33.22
+    "percentage": 33.22,
+    "province": "Teruel"
   },
   {
-    "1900": 876,
+    "milnovecientos": 876,
     "2020": 367,
     "name": "Celadas",
-    "percentage": 58.1
+    "percentage": 58.1,
+    "province": "Teruel"
   },
   {
-    "1900": 450,
+    "milnovecientos": 450,
     "2020": 88,
     "name": "La Cerollera",
-    "percentage": 80.44
+    "percentage": 80.44,
+    "province": "Teruel"
   },
   {
-    "1900": 1342,
+    "milnovecientos": 1342,
     "2020": 319,
     "name": "La Codoñera",
-    "percentage": 76.22
+    "percentage": 76.22,
+    "province": "Teruel"
   },
   {
-    "1900": 484,
+    "milnovecientos": 484,
     "2020": 109,
     "name": "Corbalán",
-    "percentage": 77.47
+    "percentage": 77.47,
+    "province": "Teruel"
   },
   {
-    "1900": 492,
+    "milnovecientos": 492,
     "2020": 60,
     "name": "Cortes de Aragón",
-    "percentage": 87.8
+    "percentage": 87.8,
+    "province": "Teruel"
   },
   {
-    "1900": 385,
+    "milnovecientos": 385,
     "2020": 51,
     "name": "Cosa",
-    "percentage": 86.75
+    "percentage": 86.75,
+    "province": "Teruel"
   },
   {
-    "1900": 1562,
+    "milnovecientos": 1562,
     "2020": 554,
     "name": "Cretas",
-    "percentage": 64.53
+    "percentage": 64.53,
+    "province": "Teruel"
   },
   {
-    "1900": 937,
+    "milnovecientos": 937,
     "2020": 86,
     "name": "Crivillén",
-    "percentage": 90.82
+    "percentage": 90.82,
+    "province": "Teruel"
   },
   {
-    "1900": 357,
+    "milnovecientos": 357,
     "2020": 43,
     "name": "La Cuba",
-    "percentage": 87.95
+    "percentage": 87.95,
+    "province": "Teruel"
   },
   {
-    "1900": 363,
+    "milnovecientos": 363,
     "2020": 55,
     "name": "Cubla",
-    "percentage": 84.84
+    "percentage": 84.84,
+    "province": "Teruel"
   },
   {
-    "1900": 525,
+    "milnovecientos": 525,
     "2020": 78,
     "name": "Cucalón",
-    "percentage": 85.14
+    "percentage": 85.14,
+    "province": "Teruel"
   },
   {
-    "1900": 576,
+    "milnovecientos": 576,
     "2020": 80,
     "name": "El Cuervo",
-    "percentage": 86.11
+    "percentage": 86.11,
+    "province": "Teruel"
   },
   {
-    "1900": 243,
+    "milnovecientos": 243,
     "2020": 118,
     "name": "Cuevas de Almudén",
-    "percentage": 51.44
+    "percentage": 51.44,
+    "province": "Teruel"
   },
   {
-    "1900": 401,
+    "milnovecientos": 401,
     "2020": 137,
     "name": "Cuevas Labradas",
-    "percentage": 65.83
+    "percentage": 65.83,
+    "province": "Teruel"
   },
   {
-    "1900": 1291,
+    "milnovecientos": 1291,
     "2020": 177,
     "name": "Ejulve",
-    "percentage": 86.28
+    "percentage": 86.28,
+    "province": "Teruel"
   },
   {
-    "1900": 493,
+    "milnovecientos": 493,
     "2020": 136,
     "name": "Escorihuela",
-    "percentage": 72.41
+    "percentage": 72.41,
+    "province": "Teruel"
   },
   {
-    "1900": 964,
+    "milnovecientos": 964,
     "2020": 205,
     "name": "Estercuel",
-    "percentage": 78.73
+    "percentage": 78.73,
+    "province": "Teruel"
   },
   {
-    "1900": 262,
+    "milnovecientos": 262,
     "2020": 64,
     "name": "Ferreruela de Huerva",
-    "percentage": 75.57
+    "percentage": 75.57,
+    "province": "Teruel"
   },
   {
-    "1900": 205,
+    "milnovecientos": 205,
     "2020": 26,
     "name": "Fonfría",
-    "percentage": 87.31
+    "percentage": 87.31,
+    "province": "Teruel"
   },
   {
-    "1900": 1029,
+    "milnovecientos": 1029,
     "2020": 148,
     "name": "Formiche Alto",
-    "percentage": 85.61
+    "percentage": 85.61,
+    "province": "Teruel"
   },
   {
-    "1900": 742,
+    "milnovecientos": 742,
     "2020": 74,
     "name": "Fórnoles",
-    "percentage": 90.02
+    "percentage": 90.02,
+    "province": "Teruel"
   },
   {
-    "1900": 1570,
+    "milnovecientos": 1570,
     "2020": 202,
     "name": "Fortanete",
-    "percentage": 87.13
+    "percentage": 87.13,
+    "province": "Teruel"
   },
   {
-    "1900": 786,
+    "milnovecientos": 786,
     "2020": 258,
     "name": "Foz-Calanda",
-    "percentage": 67.17
+    "percentage": 67.17,
+    "province": "Teruel"
   },
   {
-    "1900": 1799,
+    "milnovecientos": 1799,
     "2020": 443,
     "name": "La Fresneda",
-    "percentage": 75.37
+    "percentage": 75.37,
+    "province": "Teruel"
   },
   {
-    "1900": 665,
+    "milnovecientos": 665,
     "2020": 104,
     "name": "Frías de Albarracín",
-    "percentage": 84.36
+    "percentage": 84.36,
+    "province": "Teruel"
   },
   {
-    "1900": 402,
+    "milnovecientos": 402,
     "2020": 36,
     "name": "Fuenferrada",
-    "percentage": 91.04
+    "percentage": 91.04,
+    "province": "Teruel"
   },
   {
-    "1900": 243,
+    "milnovecientos": 243,
     "2020": 91,
     "name": "Fuentes Calientes",
-    "percentage": 62.55
+    "percentage": 62.55,
+    "province": "Teruel"
   },
   {
-    "1900": 1123,
+    "milnovecientos": 1123,
     "2020": 445,
     "name": "Fuentes Claras",
-    "percentage": 60.37
+    "percentage": 60.37,
+    "province": "Teruel"
   },
   {
-    "1900": 895,
+    "milnovecientos": 895,
     "2020": 124,
     "name": "Fuentes de Rubielos",
-    "percentage": 86.14
+    "percentage": 86.14,
+    "province": "Teruel"
   },
   {
-    "1900": 927,
+    "milnovecientos": 927,
     "2020": 282,
     "name": "Fuentespalda",
-    "percentage": 69.57
+    "percentage": 69.57,
+    "province": "Teruel"
   },
   {
-    "1900": 468,
+    "milnovecientos": 468,
     "2020": 160,
     "name": "Galve",
-    "percentage": 65.81
+    "percentage": 65.81,
+    "province": "Teruel"
   },
   {
-    "1900": 644,
+    "milnovecientos": 644,
     "2020": 97,
     "name": "Gargallo",
-    "percentage": 84.93
+    "percentage": 84.93,
+    "province": "Teruel"
   },
   {
-    "1900": 1168,
+    "milnovecientos": 1168,
     "2020": 370,
     "name": "Gea de Albarracín",
-    "percentage": 68.32
+    "percentage": 68.32,
+    "province": "Teruel"
   },
   {
-    "1900": 1116,
+    "milnovecientos": 1116,
     "2020": 197,
     "name": "La Ginebrosa",
-    "percentage": 82.34
+    "percentage": 82.34,
+    "province": "Teruel"
   },
   {
-    "1900": 415,
+    "milnovecientos": 415,
     "2020": 138,
     "name": "Griegos",
-    "percentage": 66.74
+    "percentage": 66.74,
+    "province": "Teruel"
   },
   {
-    "1900": 492,
+    "milnovecientos": 492,
     "2020": 244,
     "name": "Guadalaviar",
-    "percentage": 50.4
+    "percentage": 50.4,
+    "province": "Teruel"
   },
   {
-    "1900": 730,
+    "milnovecientos": 730,
     "2020": 77,
     "name": "Gúdar",
-    "percentage": 89.45
+    "percentage": 89.45,
+    "province": "Teruel"
   },
   {
-    "1900": 3330,
+    "milnovecientos": 3330,
     "2020": 1754,
     "name": "Híjar",
-    "percentage": 47.32
+    "percentage": 47.32,
+    "province": "Teruel"
   },
   {
-    "1900": 546,
+    "milnovecientos": 546,
     "2020": 112,
     "name": "Hinojosa de Jarque",
-    "percentage": 79.48
+    "percentage": 79.48,
+    "province": "Teruel"
   },
   {
-    "1900": 924,
+    "milnovecientos": 924,
     "2020": 81,
     "name": "La Hoz de la Vieja",
-    "percentage": 91.23
+    "percentage": 91.23,
+    "province": "Teruel"
   },
   {
-    "1900": 1284,
+    "milnovecientos": 1284,
     "2020": 69,
     "name": "Huesa del Común",
-    "percentage": 94.62
+    "percentage": 94.62,
+    "province": "Teruel"
   },
   {
-    "1900": 1485,
+    "milnovecientos": 1485,
     "2020": 402,
     "name": "La Iglesuela del Cid",
-    "percentage": 72.92
+    "percentage": 72.92,
+    "province": "Teruel"
   },
   {
-    "1900": 934,
+    "milnovecientos": 934,
     "2020": 59,
     "name": "Jabaloyas",
-    "percentage": 93.68
+    "percentage": 93.68,
+    "province": "Teruel"
   },
   {
-    "1900": 277,
+    "milnovecientos": 277,
     "2020": 62,
     "name": "Jarque de la Val",
-    "percentage": 77.61
+    "percentage": 77.61,
+    "province": "Teruel"
   },
   {
-    "1900": 255,
+    "milnovecientos": 255,
     "2020": 39,
     "name": "Jatiel",
-    "percentage": 84.7
+    "percentage": 84.7,
+    "province": "Teruel"
   },
   {
-    "1900": 462,
+    "milnovecientos": 462,
     "2020": 29,
     "name": "Jorcas",
-    "percentage": 93.72
+    "percentage": 93.72,
+    "province": "Teruel"
   },
   {
-    "1900": 615,
+    "milnovecientos": 615,
     "2020": 34,
     "name": "Josa",
-    "percentage": 94.47
+    "percentage": 94.47,
+    "province": "Teruel"
   },
   {
-    "1900": 252,
+    "milnovecientos": 252,
     "2020": 69,
     "name": "Lagueruela",
-    "percentage": 72.61
+    "percentage": 72.61,
+    "province": "Teruel"
   },
   {
-    "1900": 243,
+    "milnovecientos": 243,
     "2020": 22,
     "name": "Lanzuela",
-    "percentage": 90.94
+    "percentage": 90.94,
+    "province": "Teruel"
   },
   {
-    "1900": 607,
+    "milnovecientos": 607,
     "2020": 100,
     "name": "Libros",
-    "percentage": 83.52
+    "percentage": 83.52,
+    "province": "Teruel"
   },
   {
-    "1900": 308,
+    "milnovecientos": 308,
     "2020": 54,
     "name": "Lidón",
-    "percentage": 82.46
+    "percentage": 82.46,
+    "province": "Teruel"
   },
   {
-    "1900": 1592,
+    "milnovecientos": 1592,
     "2020": 225,
     "name": "Linares de Mora",
-    "percentage": 85.86
+    "percentage": 85.86,
+    "province": "Teruel"
   },
   {
-    "1900": 1507,
+    "milnovecientos": 1507,
     "2020": 155,
     "name": "Loscos",
-    "percentage": 89.71
+    "percentage": 89.71,
+    "province": "Teruel"
   },
   {
-    "1900": 580,
+    "milnovecientos": 580,
     "2020": 125,
     "name": "Lledó",
-    "percentage": 78.44
+    "percentage": 78.44,
+    "province": "Teruel"
   },
   {
-    "1900": 391,
+    "milnovecientos": 391,
     "2020": 31,
     "name": "Maicas",
-    "percentage": 92.07
+    "percentage": 92.07,
+    "province": "Teruel"
   },
   {
-    "1900": 2750,
+    "milnovecientos": 2750,
     "2020": 516,
     "name": "Manzanera",
-    "percentage": 81.23
+    "percentage": 81.23,
+    "province": "Teruel"
   },
   {
-    "1900": 729,
+    "milnovecientos": 729,
     "2020": 387,
     "name": "Martín del Río",
-    "percentage": 46.91
+    "percentage": 46.91,
+    "province": "Teruel"
   },
   {
-    "1900": 1981,
+    "milnovecientos": 1981,
     "2020": 1258,
     "name": "Mas de las Matas",
-    "percentage": 36.49
+    "percentage": 36.49,
+    "province": "Teruel"
   },
   {
-    "1900": 458,
+    "milnovecientos": 458,
     "2020": 261,
     "name": "La Mata de los Olmos",
-    "percentage": 43.01
+    "percentage": 43.01,
+    "province": "Teruel"
   },
   {
-    "1900": 1403,
+    "milnovecientos": 1403,
     "2020": 511,
     "name": "Mazaleón",
-    "percentage": 63.57
+    "percentage": 63.57,
+    "province": "Teruel"
   },
   {
-    "1900": 327,
+    "milnovecientos": 327,
     "2020": 89,
     "name": "Mezquita de Jarque",
-    "percentage": 72.78
+    "percentage": 72.78,
+    "province": "Teruel"
   },
   {
-    "1900": 835,
+    "milnovecientos": 835,
     "2020": 116,
     "name": "Mirambel",
-    "percentage": 86.1
+    "percentage": 86.1,
+    "province": "Teruel"
   },
   {
-    "1900": 486,
+    "milnovecientos": 486,
     "2020": 38,
     "name": "Miravete de la Sierra",
-    "percentage": 92.18
+    "percentage": 92.18,
+    "province": "Teruel"
   },
   {
-    "1900": 1405,
+    "milnovecientos": 1405,
     "2020": 222,
     "name": "Molinos",
-    "percentage": 84.19
+    "percentage": 84.19,
+    "province": "Teruel"
   },
   {
-    "1900": 694,
+    "milnovecientos": 694,
     "2020": 71,
     "name": "Monforte de Moyuela",
-    "percentage": 89.76
+    "percentage": 89.76,
+    "province": "Teruel"
   },
   {
-    "1900": 1284,
+    "milnovecientos": 1284,
     "2020": 332,
     "name": "Monroyo",
-    "percentage": 74.14
+    "percentage": 74.14,
+    "province": "Teruel"
   },
   {
-    "1900": 2020,
+    "milnovecientos": 2020,
     "2020": 1245,
     "name": "Montalbán",
-    "percentage": 38.36
+    "percentage": 38.36,
+    "province": "Teruel"
   },
   {
-    "1900": 489,
+    "milnovecientos": 489,
     "2020": 49,
     "name": "Monteagudo del Castillo",
-    "percentage": 89.97
+    "percentage": 89.97,
+    "province": "Teruel"
   },
   {
-    "1900": 488,
+    "milnovecientos": 488,
     "2020": 56,
     "name": "Monterde de Albarracín",
-    "percentage": 88.52
+    "percentage": 88.52,
+    "province": "Teruel"
   },
   {
-    "1900": 3213,
+    "milnovecientos": 3213,
     "2020": 1512,
     "name": "Mora de Rubielos",
-    "percentage": 52.94
+    "percentage": 52.94,
+    "province": "Teruel"
   },
   {
-    "1900": 494,
+    "milnovecientos": 494,
     "2020": 55,
     "name": "Moscardón",
-    "percentage": 88.86
+    "percentage": 88.86,
+    "province": "Teruel"
   },
   {
-    "1900": 3103,
+    "milnovecientos": 3103,
     "2020": 532,
     "name": "Mosqueruela",
-    "percentage": 82.85
+    "percentage": 82.85,
+    "province": "Teruel"
   },
   {
-    "1900": 1860,
+    "milnovecientos": 1860,
     "2020": 583,
     "name": "Muniesa",
-    "percentage": 68.65
+    "percentage": 68.65,
+    "province": "Teruel"
   },
   {
-    "1900": 489,
+    "milnovecientos": 489,
     "2020": 139,
     "name": "Noguera de Albarracín",
-    "percentage": 71.57
+    "percentage": 71.57,
+    "province": "Teruel"
   },
   {
-    "1900": 359,
+    "milnovecientos": 359,
     "2020": 21,
     "name": "Nogueras",
-    "percentage": 94.15
+    "percentage": 94.15,
+    "province": "Teruel"
   },
   {
-    "1900": 1156,
+    "milnovecientos": 1156,
     "2020": 210,
     "name": "Nogueruelas",
-    "percentage": 81.83
+    "percentage": 81.83,
+    "province": "Teruel"
   },
   {
-    "1900": 1257,
+    "milnovecientos": 1257,
     "2020": 34,
     "name": "Obón",
-    "percentage": 97.29
+    "percentage": 97.29,
+    "province": "Teruel"
   },
   {
-    "1900": 974,
+    "milnovecientos": 974,
     "2020": 203,
     "name": "Odón",
-    "percentage": 79.15
+    "percentage": 79.15,
+    "province": "Teruel"
   },
   {
-    "1900": 1436,
+    "milnovecientos": 1436,
     "2020": 341,
     "name": "Ojos Negros",
-    "percentage": 76.25
+    "percentage": 76.25,
+    "province": "Teruel"
   },
   {
-    "1900": 1802,
+    "milnovecientos": 1802,
     "2020": 233,
     "name": "Olba",
-    "percentage": 87.06
+    "percentage": 87.06,
+    "province": "Teruel"
   },
   {
-    "1900": 2146,
+    "milnovecientos": 2146,
     "2020": 343,
     "name": "Oliete",
-    "percentage": 84.01
+    "percentage": 84.01,
+    "province": "Teruel"
   },
   {
-    "1900": 600,
+    "milnovecientos": 600,
     "2020": 118,
     "name": "Los Olmos",
-    "percentage": 80.33
+    "percentage": 80.33,
+    "province": "Teruel"
   },
   {
-    "1900": 945,
+    "milnovecientos": 945,
     "2020": 450,
     "name": "Orihuela del Tremedal",
-    "percentage": 52.38
+    "percentage": 52.38,
+    "province": "Teruel"
   },
   {
-    "1900": 430,
+    "milnovecientos": 430,
     "2020": 128,
     "name": "Orrios",
-    "percentage": 70.23
+    "percentage": 70.23,
+    "province": "Teruel"
   },
   {
-    "1900": 612,
+    "milnovecientos": 612,
     "2020": 170,
     "name": "Palomar de Arroyos",
-    "percentage": 72.22
+    "percentage": 72.22,
+    "province": "Teruel"
   },
   {
-    "1900": 1000,
+    "milnovecientos": 1000,
     "2020": 119,
     "name": "Pancrudo",
-    "percentage": 88.1
+    "percentage": 88.1,
+    "province": "Teruel"
   },
   {
-    "1900": 1107,
+    "milnovecientos": 1107,
     "2020": 55,
     "name": "Las Parras de Castellote",
-    "percentage": 95.03
+    "percentage": 95.03,
+    "province": "Teruel"
   },
   {
-    "1900": 1702,
+    "milnovecientos": 1702,
     "2020": 446,
     "name": "Peñarroya de Tastavins",
-    "percentage": 73.79
+    "percentage": 73.79,
+    "province": "Teruel"
   },
   {
-    "1900": 385,
+    "milnovecientos": 385,
     "2020": 77,
     "name": "Peracense",
-    "percentage": 80
+    "percentage": 80,
+    "province": "Teruel"
   },
   {
-    "1900": 286,
+    "milnovecientos": 286,
     "2020": 83,
     "name": "Peralejos",
-    "percentage": 70.97
+    "percentage": 70.97,
+    "province": "Teruel"
   },
   {
-    "1900": 817,
+    "milnovecientos": 817,
     "2020": 236,
     "name": "Perales del Alfambra",
-    "percentage": 71.11
+    "percentage": 71.11,
+    "province": "Teruel"
   },
   {
-    "1900": 938,
+    "milnovecientos": 938,
     "2020": 68,
     "name": "Pitarque",
-    "percentage": 92.75
+    "percentage": 92.75,
+    "province": "Teruel"
   },
   {
-    "1900": 529,
+    "milnovecientos": 529,
     "2020": 50,
     "name": "Plou",
-    "percentage": 90.54
+    "percentage": 90.54,
+    "province": "Teruel"
   },
   {
-    "1900": 497,
+    "milnovecientos": 497,
     "2020": 108,
     "name": "El Pobo",
-    "percentage": 78.26
+    "percentage": 78.26,
+    "province": "Teruel"
   },
   {
-    "1900": 860,
+    "milnovecientos": 860,
     "2020": 236,
     "name": "La Portellada",
-    "percentage": 72.55
+    "percentage": 72.55,
+    "province": "Teruel"
   },
   {
-    "1900": 539,
+    "milnovecientos": 539,
     "2020": 43,
     "name": "Pozondón",
-    "percentage": 92.02
+    "percentage": 92.02,
+    "province": "Teruel"
   },
   {
-    "1900": 598,
+    "milnovecientos": 598,
     "2020": 63,
     "name": "Pozuel del Campo",
-    "percentage": 89.46
+    "percentage": 89.46,
+    "province": "Teruel"
   },
   {
-    "1900": 1921,
+    "milnovecientos": 1921,
     "2020": 899,
     "name": "La Puebla de Híjar",
-    "percentage": 53.2
+    "percentage": 53.2,
+    "province": "Teruel"
   },
   {
-    "1900": 1982,
+    "milnovecientos": 1982,
     "2020": 451,
     "name": "La Puebla de Valverde",
-    "percentage": 77.24
+    "percentage": 77.24,
+    "province": "Teruel"
   },
   {
-    "1900": 1271,
+    "milnovecientos": 1271,
     "2020": 117,
     "name": "Puertomingalvo",
-    "percentage": 90.79
+    "percentage": 90.79,
+    "province": "Teruel"
   },
   {
-    "1900": 859,
+    "milnovecientos": 859,
     "2020": 139,
     "name": "Ráfales",
-    "percentage": 83.81
+    "percentage": 83.81,
+    "province": "Teruel"
   },
   {
-    "1900": 502,
+    "milnovecientos": 502,
     "2020": 85,
     "name": "Rillo",
-    "percentage": 83.06
+    "percentage": 83.06,
+    "province": "Teruel"
   },
   {
-    "1900": 716,
+    "milnovecientos": 716,
     "2020": 134,
     "name": "Riodeva",
-    "percentage": 81.28
+    "percentage": 81.28,
+    "province": "Teruel"
   },
   {
-    "1900": 415,
+    "milnovecientos": 415,
     "2020": 62,
     "name": "Ródenas",
-    "percentage": 85.06
+    "percentage": 85.06,
+    "province": "Teruel"
   },
   {
-    "1900": 459,
+    "milnovecientos": 459,
     "2020": 210,
     "name": "Royuela",
-    "percentage": 54.24
+    "percentage": 54.24,
+    "province": "Teruel"
   },
   {
-    "1900": 290,
+    "milnovecientos": 290,
     "2020": 49,
     "name": "Rubiales",
-    "percentage": 83.1
+    "percentage": 83.1,
+    "province": "Teruel"
   },
   {
-    "1900": 501,
+    "milnovecientos": 501,
     "2020": 39,
     "name": "Rubielos de la Cérida",
-    "percentage": 92.21
+    "percentage": 92.21,
+    "province": "Teruel"
   },
   {
-    "1900": 2284,
+    "milnovecientos": 2284,
     "2020": 635,
     "name": "Rubielos de Mora",
-    "percentage": 72.19
+    "percentage": 72.19,
+    "province": "Teruel"
   },
   {
-    "1900": 155,
+    "milnovecientos": 155,
     "2020": 11,
     "name": "Salcedillo",
-    "percentage": 92.9
+    "percentage": 92.9,
+    "province": "Teruel"
   },
   {
-    "1900": 435,
+    "milnovecientos": 435,
     "2020": 24,
     "name": "Saldón",
-    "percentage": 94.48
+    "percentage": 94.48,
+    "province": "Teruel"
   },
   {
-    "1900": 2647,
+    "milnovecientos": 2647,
     "2020": 721,
     "name": "Samper de Calanda",
-    "percentage": 72.76
+    "percentage": 72.76,
+    "province": "Teruel"
   },
   {
-    "1900": 1204,
+    "milnovecientos": 1204,
     "2020": 123,
     "name": "San Agustín",
-    "percentage": 89.78
+    "percentage": 89.78,
+    "province": "Teruel"
   },
   {
-    "1900": 1330,
+    "milnovecientos": 1330,
     "2020": 132,
     "name": "San Martín del Río",
-    "percentage": 90.07
+    "percentage": 90.07,
+    "province": "Teruel"
   },
   {
-    "1900": 346,
+    "milnovecientos": 346,
     "2020": 30,
     "name": "Santa Cruz de Nogueras",
-    "percentage": 91.32
+    "percentage": 91.32,
+    "province": "Teruel"
   },
   {
-    "1900": 1164,
+    "milnovecientos": 1164,
     "2020": 1050,
     "name": "Santa Eulalia",
-    "percentage": 9.79
+    "percentage": 9.79,
+    "province": "Teruel"
   },
   {
-    "1900": 2233,
+    "milnovecientos": 2233,
     "2020": 1148,
     "name": "Sarrión",
-    "percentage": 48.58
+    "percentage": 48.58,
+    "province": "Teruel"
   },
   {
-    "1900": 795,
+    "milnovecientos": 795,
     "2020": 41,
     "name": "Segura de los Baños",
-    "percentage": 94.84
+    "percentage": 94.84,
+    "province": "Teruel"
   },
   {
-    "1900": 453,
+    "milnovecientos": 453,
     "2020": 39,
     "name": "Seno",
-    "percentage": 91.39
+    "percentage": 91.39,
+    "province": "Teruel"
   },
   {
-    "1900": 399,
+    "milnovecientos": 399,
     "2020": 83,
     "name": "Singra",
-    "percentage": 79.19
+    "percentage": 79.19,
+    "province": "Teruel"
   },
   {
-    "1900": 1109,
+    "milnovecientos": 1109,
     "2020": 180,
     "name": "Terriente",
-    "percentage": 83.76
+    "percentage": 83.76,
+    "province": "Teruel"
   },
   {
-    "1900": 366,
+    "milnovecientos": 366,
     "2020": 33,
     "name": "Toril y Masegoso",
-    "percentage": 90.98
+    "percentage": 90.98,
+    "province": "Teruel"
   },
   {
-    "1900": 303,
+    "milnovecientos": 303,
     "2020": 25,
     "name": "Tormón",
-    "percentage": 91.74
+    "percentage": 91.74,
+    "province": "Teruel"
   },
   {
-    "1900": 578,
+    "milnovecientos": 578,
     "2020": 202,
     "name": "Tornos",
-    "percentage": 65.05
+    "percentage": 65.05,
+    "province": "Teruel"
   },
   {
-    "1900": 608,
+    "milnovecientos": 608,
     "2020": 157,
     "name": "Torralba de los Sisones",
-    "percentage": 74.17
+    "percentage": 74.17,
+    "province": "Teruel"
   },
   {
-    "1900": 1105,
+    "milnovecientos": 1105,
     "2020": 94,
     "name": "Torrecilla de Alcañiz",
-    "percentage": 91.49
+    "percentage": 91.49,
+    "province": "Teruel"
   },
   {
-    "1900": 891,
+    "milnovecientos": 891,
     "2020": 29,
     "name": "Torrecilla del Rebollar",
-    "percentage": 96.74
+    "percentage": 96.74,
+    "province": "Teruel"
   },
   {
-    "1900": 485,
+    "milnovecientos": 485,
     "2020": 117,
     "name": "Torre de Arcas",
-    "percentage": 75.87
+    "percentage": 75.87,
+    "province": "Teruel"
   },
   {
-    "1900": 545,
+    "milnovecientos": 545,
     "2020": 83,
     "name": "Torre de las Arcas",
-    "percentage": 84.77
+    "percentage": 84.77,
+    "province": "Teruel"
   },
   {
-    "1900": 748,
+    "milnovecientos": 748,
     "2020": 439,
     "name": "Torre del Compte",
-    "percentage": 41.31
+    "percentage": 41.31,
+    "province": "Teruel"
   },
   {
-    "1900": 521,
+    "milnovecientos": 521,
     "2020": 123,
     "name": "Torrelacárcel",
-    "percentage": 76.39
+    "percentage": 76.39,
+    "province": "Teruel"
   },
   {
-    "1900": 456,
+    "milnovecientos": 456,
     "2020": 143,
     "name": "Torre los Negros",
-    "percentage": 68.64
+    "percentage": 68.64,
+    "province": "Teruel"
   },
   {
-    "1900": 420,
+    "milnovecientos": 420,
     "2020": 107,
     "name": "Torremocha de Jiloca",
-    "percentage": 74.52
+    "percentage": 74.52,
+    "province": "Teruel"
   },
   {
-    "1900": 591,
+    "milnovecientos": 591,
     "2020": 185,
     "name": "Torres de Albarracín",
-    "percentage": 68.69
+    "percentage": 68.69,
+    "province": "Teruel"
   },
   {
-    "1900": 776,
+    "milnovecientos": 776,
     "2020": 170,
     "name": "Torrevelilla",
-    "percentage": 78.09
+    "percentage": 78.09,
+    "province": "Teruel"
   },
   {
-    "1900": 689,
+    "milnovecientos": 689,
     "2020": 43,
     "name": "Torrijas",
-    "percentage": 93.75
+    "percentage": 93.75,
+    "province": "Teruel"
   },
   {
-    "1900": 1308,
+    "milnovecientos": 1308,
     "2020": 447,
     "name": "Torrijo del Campo",
-    "percentage": 65.82
+    "percentage": 65.82,
+    "province": "Teruel"
   },
   {
-    "1900": 668,
+    "milnovecientos": 668,
     "2020": 67,
     "name": "Tramacastiel",
-    "percentage": 89.97
+    "percentage": 89.97,
+    "province": "Teruel"
   },
   {
-    "1900": 455,
+    "milnovecientos": 455,
     "2020": 104,
     "name": "Tramacastilla",
-    "percentage": 77.14
+    "percentage": 77.14,
+    "province": "Teruel"
   },
   {
-    "1900": 997,
+    "milnovecientos": 997,
     "2020": 68,
     "name": "Tronchón",
-    "percentage": 93.17
+    "percentage": 93.17,
+    "province": "Teruel"
   },
   {
-    "1900": 1195,
+    "milnovecientos": 1195,
     "2020": 427,
     "name": "Urrea de Gaén",
-    "percentage": 64.26
+    "percentage": 64.26,
+    "province": "Teruel"
   },
   {
-    "1900": 219,
+    "milnovecientos": 219,
     "2020": 20,
     "name": "Valacloche",
-    "percentage": 90.86
+    "percentage": 90.86,
+    "province": "Teruel"
   },
   {
-    "1900": 675,
+    "milnovecientos": 675,
     "2020": 172,
     "name": "Valbona",
-    "percentage": 74.51
+    "percentage": 74.51,
+    "province": "Teruel"
   },
   {
-    "1900": 1665,
+    "milnovecientos": 1665,
     "2020": 595,
     "name": "Valdealgorfa",
-    "percentage": 64.26
+    "percentage": 64.26,
+    "province": "Teruel"
   },
   {
-    "1900": 320,
+    "milnovecientos": 320,
     "2020": 32,
     "name": "Valdecuenca",
-    "percentage": 90
+    "percentage": 90,
+    "province": "Teruel"
   },
   {
-    "1900": 825,
+    "milnovecientos": 825,
     "2020": 92,
     "name": "Valdelinares",
-    "percentage": 88.84
+    "percentage": 88.84,
+    "province": "Teruel"
   },
   {
-    "1900": 699,
+    "milnovecientos": 699,
     "2020": 281,
     "name": "Valdeltormo",
-    "percentage": 59.79
+    "percentage": 59.79,
+    "province": "Teruel"
   },
   {
-    "1900": 3058,
+    "milnovecientos": 3058,
     "2020": 2435,
     "name": "Valderrobres",
-    "percentage": 20.37
+    "percentage": 20.37,
+    "province": "Teruel"
   },
   {
-    "1900": 1225,
+    "milnovecientos": 1225,
     "2020": 338,
     "name": "Valjunquera",
-    "percentage": 72.4
+    "percentage": 72.4,
+    "province": "Teruel"
   },
   {
-    "1900": 467,
+    "milnovecientos": 467,
     "2020": 44,
     "name": "El Vallecillo",
-    "percentage": 90.57
+    "percentage": 90.57,
+    "province": "Teruel"
   },
   {
-    "1900": 292,
+    "milnovecientos": 292,
     "2020": 21,
     "name": "Veguillas de la Sierra",
-    "percentage": 92.8
+    "percentage": 92.8,
+    "province": "Teruel"
   },
   {
-    "1900": 988,
+    "milnovecientos": 988,
     "2020": 285,
     "name": "Villafranca del Campo",
-    "percentage": 71.15
+    "percentage": 71.15,
+    "province": "Teruel"
   },
   {
-    "1900": 236,
+    "milnovecientos": 236,
     "2020": 83,
     "name": "Villahermosa del Campo",
-    "percentage": 64.83
+    "percentage": 64.83,
+    "province": "Teruel"
   },
   {
-    "1900": 309,
+    "milnovecientos": 309,
     "2020": 42,
     "name": "Villanueva del Rebollar de la Sierra",
-    "percentage": 86.4
+    "percentage": 86.4,
+    "province": "Teruel"
   },
   {
-    "1900": 596,
+    "milnovecientos": 596,
     "2020": 160,
     "name": "Villar del Cobo",
-    "percentage": 73.15
+    "percentage": 73.15,
+    "province": "Teruel"
   },
   {
-    "1900": 412,
+    "milnovecientos": 412,
     "2020": 61,
     "name": "Villar del Salz",
-    "percentage": 85.19
+    "percentage": 85.19,
+    "province": "Teruel"
   },
   {
-    "1900": 2128,
+    "milnovecientos": 2128,
     "2020": 171,
     "name": "Villarluengo",
-    "percentage": 91.96
+    "percentage": 91.96,
+    "province": "Teruel"
   },
   {
-    "1900": 872,
+    "milnovecientos": 872,
     "2020": 841,
     "name": "Villarquemado",
-    "percentage": 3.55
+    "percentage": 3.55,
+    "province": "Teruel"
   },
   {
-    "1900": 1095,
+    "milnovecientos": 1095,
     "2020": 161,
     "name": "Villarroya de los Pinares",
-    "percentage": 85.29
+    "percentage": 85.29,
+    "province": "Teruel"
   },
   {
-    "1900": 737,
+    "milnovecientos": 737,
     "2020": 507,
     "name": "Villastar",
-    "percentage": 31.2
+    "percentage": 31.2,
+    "province": "Teruel"
   },
   {
-    "1900": 1182,
+    "milnovecientos": 1182,
     "2020": 333,
     "name": "Villel",
-    "percentage": 71.82
+    "percentage": 71.82,
+    "province": "Teruel"
   },
   {
-    "1900": 544,
+    "milnovecientos": 544,
     "2020": 231,
     "name": "Vinaceite",
-    "percentage": 57.53
+    "percentage": 57.53,
+    "province": "Teruel"
   },
   {
-    "1900": 656,
+    "milnovecientos": 656,
     "2020": 131,
     "name": "Visiedo",
-    "percentage": 80.03
+    "percentage": 80.03,
+    "province": "Teruel"
   },
   {
-    "1900": 946,
+    "milnovecientos": 946,
     "2020": 72,
     "name": "Vivel del Río Martín",
-    "percentage": 92.38
+    "percentage": 92.38,
+    "province": "Teruel"
   },
   {
-    "1900": 181,
+    "milnovecientos": 181,
     "2020": 32,
     "name": "La Zoma",
-    "percentage": 82.32
+    "percentage": 82.32,
+    "province": "Teruel"
   },
   {
-    "1900": 1383,
+    "milnovecientos": 1383,
     "2020": 258,
     "name": "Abiego",
-    "percentage": 81.34
+    "percentage": 81.34,
+    "province": "Huesca"
   },
   {
-    "1900": 463,
+    "milnovecientos": 463,
     "2020": 139,
     "name": "Abizanda",
-    "percentage": 69.97
+    "percentage": 69.97,
+    "province": "Huesca"
   },
   {
-    "1900": 725,
+    "milnovecientos": 725,
     "2020": 180,
     "name": "Adahuesca",
-    "percentage": 75.17
+    "percentage": 75.17,
+    "province": "Huesca"
   },
   {
-    "1900": 1182,
+    "milnovecientos": 1182,
     "2020": 125,
     "name": "Agüero",
-    "percentage": 89.42
+    "percentage": 89.42,
+    "province": "Huesca"
   },
   {
-    "1900": 733,
+    "milnovecientos": 733,
     "2020": 313,
     "name": "Aisa",
-    "percentage": 57.29
+    "percentage": 57.29,
+    "province": "Huesca"
   },
   {
-    "1900": 1519,
+    "milnovecientos": 1519,
     "2020": 1099,
     "name": "Albalate de Cinca",
-    "percentage": 27.64
+    "percentage": 27.64,
+    "province": "Huesca"
   },
   {
-    "1900": 464,
+    "milnovecientos": 464,
     "2020": 163,
     "name": "Albalatillo",
-    "percentage": 64.87
+    "percentage": 64.87,
+    "province": "Huesca"
   },
   {
-    "1900": 1213,
+    "milnovecientos": 1213,
     "2020": 708,
     "name": "Albelda",
-    "percentage": 41.63
+    "percentage": 41.63,
+    "province": "Huesca"
   },
   {
-    "1900": 360,
+    "milnovecientos": 360,
     "2020": 120,
     "name": "Albero Alto",
-    "percentage": 66.66
+    "percentage": 66.66,
+    "province": "Huesca"
   },
   {
-    "1900": 205,
+    "milnovecientos": 205,
     "2020": 132,
     "name": "Albero Bajo",
-    "percentage": 35.6
+    "percentage": 35.6,
+    "province": "Huesca"
   },
   {
-    "1900": 638,
+    "milnovecientos": 638,
     "2020": 239,
     "name": "Alcalá de Gurrea",
-    "percentage": 62.53
+    "percentage": 62.53,
+    "province": "Huesca"
   },
   {
-    "1900": 1328,
+    "milnovecientos": 1328,
     "2020": 298,
     "name": "Alcalá del Obispo",
-    "percentage": 77.56
+    "percentage": 77.56,
+    "province": "Huesca"
   },
   {
-    "1900": 1983,
+    "milnovecientos": 1983,
     "2020": 623,
     "name": "Alcampell",
-    "percentage": 68.58
+    "percentage": 68.58,
+    "province": "Huesca"
   },
   {
-    "1900": 2409,
+    "milnovecientos": 2409,
     "2020": 1177,
     "name": "Alcolea de Cinca",
-    "percentage": 51.14
+    "percentage": 51.14,
+    "province": "Huesca"
   },
   {
-    "1900": 1530,
+    "milnovecientos": 1530,
     "2020": 362,
     "name": "Alcubierre",
-    "percentage": 76.33
+    "percentage": 76.33,
+    "province": "Huesca"
   },
   {
-    "1900": 227,
+    "milnovecientos": 227,
     "2020": 200,
     "name": "Alerre",
-    "percentage": 11.89
+    "percentage": 11.89,
+    "province": "Huesca"
   },
   {
-    "1900": 309,
+    "milnovecientos": 309,
     "2020": 130,
     "name": "Alfántega",
-    "percentage": 57.92
+    "percentage": 57.92,
+    "province": "Huesca"
   },
   {
-    "1900": 2983,
+    "milnovecientos": 2983,
     "2020": 2377,
     "name": "Almudévar",
-    "percentage": 20.31
+    "percentage": 20.31,
+    "province": "Huesca"
   },
   {
-    "1900": 954,
+    "milnovecientos": 954,
     "2020": 666,
     "name": "Almunia de San Juan",
-    "percentage": 30.18
+    "percentage": 30.18,
+    "province": "Huesca"
   },
   {
-    "1900": 512,
+    "milnovecientos": 512,
     "2020": 457,
     "name": "Almuniente",
-    "percentage": 10.74
+    "percentage": 10.74,
+    "province": "Huesca"
   },
   {
-    "1900": 1313,
+    "milnovecientos": 1313,
     "2020": 312,
     "name": "Alquézar",
-    "percentage": 76.23
+    "percentage": 76.23,
+    "province": "Huesca"
   },
   {
-    "1900": 1912,
+    "milnovecientos": 1912,
     "2020": 353,
     "name": "Angüés",
-    "percentage": 81.53
+    "percentage": 81.53,
+    "province": "Huesca"
   },
   {
-    "1900": 1549,
+    "milnovecientos": 1549,
     "2020": 386,
     "name": "Ansó",
-    "percentage": 75.08
+    "percentage": 75.08,
+    "province": "Huesca"
   },
   {
-    "1900": 393,
+    "milnovecientos": 393,
     "2020": 135,
     "name": "Antillón",
-    "percentage": 65.64
+    "percentage": 65.64,
+    "province": "Huesca"
   },
   {
-    "1900": 546,
+    "milnovecientos": 546,
     "2020": 111,
     "name": "Aragüés del Puerto",
-    "percentage": 79.67
+    "percentage": 79.67,
+    "province": "Huesca"
   },
   {
-    "1900": 2119,
+    "milnovecientos": 2119,
     "2020": 308,
     "name": "Arén",
-    "percentage": 85.46
+    "percentage": 85.46,
+    "province": "Huesca"
   },
   {
-    "1900": 322,
+    "milnovecientos": 322,
     "2020": 95,
     "name": "Argavieso",
-    "percentage": 70.49
+    "percentage": 70.49,
+    "province": "Huesca"
   },
   {
-    "1900": 570,
+    "milnovecientos": 570,
     "2020": 125,
     "name": "Arguis",
-    "percentage": 78.07
+    "percentage": 78.07,
+    "province": "Huesca"
   },
   {
-    "1900": 2609,
+    "milnovecientos": 2609,
     "2020": 1017,
     "name": "Ayerbe",
-    "percentage": 61.01
+    "percentage": 61.01,
+    "province": "Huesca"
   },
   {
-    "1900": 1221,
+    "milnovecientos": 1221,
     "2020": 170,
     "name": "Azanuy-Alins",
-    "percentage": 86.07
+    "percentage": 86.07,
+    "province": "Huesca"
   },
   {
-    "1900": 513,
+    "milnovecientos": 513,
     "2020": 157,
     "name": "Azara",
-    "percentage": 69.39
+    "percentage": 69.39,
+    "province": "Huesca"
   },
   {
-    "1900": 537,
+    "milnovecientos": 537,
     "2020": 138,
     "name": "Azlor",
-    "percentage": 74.3
+    "percentage": 74.3,
+    "province": "Huesca"
   },
   {
-    "1900": 737,
+    "milnovecientos": 737,
     "2020": 97,
     "name": "Baélls",
-    "percentage": 86.83
+    "percentage": 86.83,
+    "province": "Huesca"
   },
   {
-    "1900": 1488,
+    "milnovecientos": 1488,
     "2020": 261,
     "name": "Bailo",
-    "percentage": 82.45
+    "percentage": 82.45,
+    "province": "Huesca"
   },
   {
-    "1900": 813,
+    "milnovecientos": 813,
     "2020": 64,
     "name": "Baldellou",
-    "percentage": 92.12
+    "percentage": 92.12,
+    "province": "Huesca"
   },
   {
-    "1900": 2333,
+    "milnovecientos": 2333,
     "2020": 833,
     "name": "Ballobar",
-    "percentage": 64.29
+    "percentage": 64.29,
+    "province": "Huesca"
   },
   {
-    "1900": 218,
+    "milnovecientos": 218,
     "2020": 86,
     "name": "Barbués",
-    "percentage": 60.55
+    "percentage": 60.55,
+    "province": "Huesca"
   },
   {
-    "1900": 425,
+    "milnovecientos": 425,
     "2020": 96,
     "name": "Barbuñales",
-    "percentage": 77.41
+    "percentage": 77.41,
+    "province": "Huesca"
   },
   {
-    "1900": 829,
+    "milnovecientos": 829,
     "2020": 102,
     "name": "Bárcabo",
-    "percentage": 87.69
+    "percentage": 87.69,
+    "province": "Huesca"
   },
   {
-    "1900": 1666,
+    "milnovecientos": 1666,
     "2020": 1301,
     "name": "Belver de Cinca",
-    "percentage": 21.9
+    "percentage": 21.9,
+    "province": "Huesca"
   },
   {
-    "1900": 2887,
+    "milnovecientos": 2887,
     "2020": 1142,
     "name": "Benabarre",
-    "percentage": 60.44
+    "percentage": 60.44,
+    "province": "Huesca"
   },
   {
-    "1900": 1109,
+    "milnovecientos": 1109,
     "2020": 327,
     "name": "Berbegal",
-    "percentage": 70.51
+    "percentage": 70.51,
+    "province": "Huesca"
   },
   {
-    "1900": 971,
+    "milnovecientos": 971,
     "2020": 448,
     "name": "Bielsa",
-    "percentage": 53.86
+    "percentage": 53.86,
+    "province": "Huesca"
   },
   {
-    "1900": 1581,
+    "milnovecientos": 1581,
     "2020": 252,
     "name": "Bierge",
-    "percentage": 84.06
+    "percentage": 84.06,
+    "province": "Huesca"
   },
   {
-    "1900": 3509,
+    "milnovecientos": 3509,
     "2020": 1474,
     "name": "Biescas",
-    "percentage": 57.99
+    "percentage": 57.99,
+    "province": "Huesca"
   },
   {
-    "1900": 1774,
+    "milnovecientos": 1774,
     "2020": 1605,
     "name": "Binaced",
-    "percentage": 9.52
+    "percentage": 9.52,
+    "province": "Huesca"
   },
   {
-    "1900": 813,
+    "milnovecientos": 813,
     "2020": 171,
     "name": "Bisaurri",
-    "percentage": 78.96
+    "percentage": 78.96,
+    "province": "Huesca"
   },
   {
-    "1900": 810,
+    "milnovecientos": 810,
     "2020": 182,
     "name": "Biscarrués",
-    "percentage": 77.53
+    "percentage": 77.53,
+    "province": "Huesca"
   },
   {
-    "1900": 769,
+    "milnovecientos": 769,
     "2020": 173,
     "name": "Blecua y Torres",
-    "percentage": 77.5
+    "percentage": 77.5,
+    "province": "Huesca"
   },
   {
-    "1900": 1926,
+    "milnovecientos": 1926,
     "2020": 1045,
     "name": "Boltaña",
-    "percentage": 45.74
+    "percentage": 45.74,
+    "province": "Huesca"
   },
   {
-    "1900": 421,
+    "milnovecientos": 421,
     "2020": 87,
     "name": "Bonansa",
-    "percentage": 79.33
+    "percentage": 79.33,
+    "province": "Huesca"
   },
   {
-    "1900": 460,
+    "milnovecientos": 460,
     "2020": 70,
     "name": "Borau",
-    "percentage": 84.78
+    "percentage": 84.78,
+    "province": "Huesca"
   },
   {
-    "1900": 1758,
+    "milnovecientos": 1758,
     "2020": 538,
     "name": "Broto",
-    "percentage": 69.39
+    "percentage": 69.39,
+    "province": "Huesca"
   },
   {
-    "1900": 1483,
+    "milnovecientos": 1483,
     "2020": 226,
     "name": "Caldearenas",
-    "percentage": 84.76
+    "percentage": 84.76,
+    "province": "Huesca"
   },
   {
-    "1900": 806,
+    "milnovecientos": 806,
     "2020": 436,
     "name": "Campo",
-    "percentage": 45.9
+    "percentage": 45.9,
+    "province": "Huesca"
   },
   {
-    "1900": 997,
+    "milnovecientos": 997,
     "2020": 127,
     "name": "Camporrélls",
-    "percentage": 87.26
+    "percentage": 87.26,
+    "province": "Huesca"
   },
   {
-    "1900": 2022,
+    "milnovecientos": 2022,
     "2020": 323,
     "name": "Canal de Berdún",
-    "percentage": 84.02
+    "percentage": 84.02,
+    "province": "Huesca"
   },
   {
-    "1900": 1063,
+    "milnovecientos": 1063,
     "2020": 419,
     "name": "Candasnos",
-    "percentage": 60.58
+    "percentage": 60.58,
+    "province": "Huesca"
   },
   {
-    "1900": 770,
+    "milnovecientos": 770,
     "2020": 558,
     "name": "Canfranc",
-    "percentage": 27.53
+    "percentage": 27.53,
+    "province": "Huesca"
   },
   {
-    "1900": 490,
+    "milnovecientos": 490,
     "2020": 211,
     "name": "Capdesaso",
-    "percentage": 56.93
+    "percentage": 56.93,
+    "province": "Huesca"
   },
   {
-    "1900": 1008,
+    "milnovecientos": 1008,
     "2020": 360,
     "name": "Capella",
-    "percentage": 64.28
+    "percentage": 64.28,
+    "province": "Huesca"
   },
   {
-    "1900": 2195,
+    "milnovecientos": 2195,
     "2020": 275,
     "name": "Casbas de Huesca",
-    "percentage": 87.47
+    "percentage": 87.47,
+    "province": "Huesca"
   },
   {
-    "1900": 621,
+    "milnovecientos": 621,
     "2020": 312,
     "name": "Castejón del Puente",
-    "percentage": 49.75
+    "percentage": 49.75,
+    "province": "Huesca"
   },
   {
-    "1900": 1594,
+    "milnovecientos": 1594,
     "2020": 510,
     "name": "Castejón de Monegros",
-    "percentage": 68
+    "percentage": 68,
+    "province": "Huesca"
   },
   {
-    "1900": 813,
+    "milnovecientos": 813,
     "2020": 764,
     "name": "Castejón de Sos",
-    "percentage": 6.02
+    "percentage": 6.02,
+    "province": "Huesca"
   },
   {
-    "1900": 247,
+    "milnovecientos": 247,
     "2020": 103,
     "name": "Castelflorite",
-    "percentage": 58.29
+    "percentage": 58.29,
+    "province": "Huesca"
   },
   {
-    "1900": 523,
+    "milnovecientos": 523,
     "2020": 221,
     "name": "Castiello de Jaca",
-    "percentage": 57.74
+    "percentage": 57.74,
+    "province": "Huesca"
   },
   {
-    "1900": 266,
+    "milnovecientos": 266,
     "2020": 79,
     "name": "Castigaleu",
-    "percentage": 70.3
+    "percentage": 70.3,
+    "province": "Huesca"
   },
   {
-    "1900": 757,
+    "milnovecientos": 757,
     "2020": 153,
     "name": "Castillazuelo",
-    "percentage": 79.78
+    "percentage": 79.78,
+    "province": "Huesca"
   },
   {
-    "1900": 863,
+    "milnovecientos": 863,
     "2020": 318,
     "name": "Castillonroy",
-    "percentage": 63.15
+    "percentage": 63.15,
+    "province": "Huesca"
   },
   {
-    "1900": 702,
+    "milnovecientos": 702,
     "2020": 117,
     "name": "Colungo",
-    "percentage": 83.33
+    "percentage": 83.33,
+    "province": "Huesca"
   },
   {
-    "1900": 427,
+    "milnovecientos": 427,
     "2020": 113,
     "name": "Chalamera",
-    "percentage": 73.53
+    "percentage": 73.53,
+    "province": "Huesca"
   },
   {
-    "1900": 602,
+    "milnovecientos": 602,
     "2020": 83,
     "name": "Chía",
-    "percentage": 86.21
+    "percentage": 86.21,
+    "province": "Huesca"
   },
   {
-    "1900": 524,
+    "milnovecientos": 524,
     "2020": 199,
     "name": "Estada",
-    "percentage": 62.02
+    "percentage": 62.02,
+    "province": "Huesca"
   },
   {
-    "1900": 1752,
+    "milnovecientos": 1752,
     "2020": 796,
     "name": "Estadilla",
-    "percentage": 54.56
+    "percentage": 54.56,
+    "province": "Huesca"
   },
   {
-    "1900": 1486,
+    "milnovecientos": 1486,
     "2020": 121,
     "name": "Estopiñán del Castillo",
-    "percentage": 91.85
+    "percentage": 91.85,
+    "province": "Huesca"
   },
   {
-    "1900": 419,
+    "milnovecientos": 419,
     "2020": 20,
     "name": "Fago",
-    "percentage": 95.22
+    "percentage": 95.22,
+    "province": "Huesca"
   },
   {
-    "1900": 1065,
+    "milnovecientos": 1065,
     "2020": 100,
     "name": "Fanlo",
-    "percentage": 90.61
+    "percentage": 90.61,
+    "province": "Huesca"
   },
   {
-    "1900": 2505,
+    "milnovecientos": 2505,
     "2020": 331,
     "name": "Fiscal",
-    "percentage": 86.78
+    "percentage": 86.78,
+    "province": "Huesca"
   },
   {
-    "1900": 2006,
+    "milnovecientos": 2006,
     "2020": 851,
     "name": "Fonz",
-    "percentage": 57.57
+    "percentage": 57.57,
+    "province": "Huesca"
   },
   {
-    "1900": 665,
+    "milnovecientos": 665,
     "2020": 162,
     "name": "Foradada del Toscar",
-    "percentage": 75.63
+    "percentage": 75.63,
+    "province": "Huesca"
   },
   {
-    "1900": 2691,
+    "milnovecientos": 2691,
     "2020": 600,
     "name": "La Fueva",
-    "percentage": 77.7
+    "percentage": 77.7,
+    "province": "Huesca"
   },
   {
-    "1900": 444,
+    "milnovecientos": 444,
     "2020": 147,
     "name": "Gistaín",
-    "percentage": 66.89
+    "percentage": 66.89,
+    "province": "Huesca"
   },
   {
-    "1900": 1605,
+    "milnovecientos": 1605,
     "2020": 395,
     "name": "El Grado",
-    "percentage": 75.38
+    "percentage": 75.38,
+    "province": "Huesca"
   },
   {
-    "1900": 6259,
+    "milnovecientos": 6259,
     "2020": 3365,
     "name": "Graus",
-    "percentage": 46.23
+    "percentage": 46.23,
+    "province": "Huesca"
   },
   {
-    "1900": 160,
+    "milnovecientos": 160,
     "2020": 73,
     "name": "Hoz de Jaca",
-    "percentage": 54.37
+    "percentage": 54.37,
+    "province": "Huesca"
   },
   {
-    "1900": 970,
+    "milnovecientos": 970,
     "2020": 213,
     "name": "Huerto",
-    "percentage": 78.04
+    "percentage": 78.04,
+    "province": "Huesca"
   },
   {
-    "1900": 417,
+    "milnovecientos": 417,
     "2020": 100,
     "name": "Ibieca",
-    "percentage": 76.01
+    "percentage": 76.01,
+    "province": "Huesca"
   },
   {
-    "1900": 720,
+    "milnovecientos": 720,
     "2020": 197,
     "name": "Ilche",
-    "percentage": 72.63
+    "percentage": 72.63,
+    "province": "Huesca"
   },
   {
-    "1900": 1246,
+    "milnovecientos": 1246,
     "2020": 231,
     "name": "Isábena",
-    "percentage": 81.46
+    "percentage": 81.46,
+    "province": "Huesca"
   },
   {
-    "1900": 467,
+    "milnovecientos": 467,
     "2020": 96,
     "name": "Jasa",
-    "percentage": 79.44
+    "percentage": 79.44,
+    "province": "Huesca"
   },
   {
-    "1900": 425,
+    "milnovecientos": 425,
     "2020": 155,
     "name": "Labuerda",
-    "percentage": 63.52
+    "percentage": 63.52,
+    "province": "Huesca"
   },
   {
-    "1900": 794,
+    "milnovecientos": 794,
     "2020": 191,
     "name": "Laluenga",
-    "percentage": 75.94
+    "percentage": 75.94,
+    "province": "Huesca"
   },
   {
-    "1900": 1839,
+    "milnovecientos": 1839,
     "2020": 1163,
     "name": "Lanaja",
-    "percentage": 36.75
+    "percentage": 36.75,
+    "province": "Huesca"
   },
   {
-    "1900": 369,
+    "milnovecientos": 369,
     "2020": 92,
     "name": "Laperdiguera",
-    "percentage": 75.06
+    "percentage": 75.06,
+    "province": "Huesca"
   },
   {
-    "1900": 996,
+    "milnovecientos": 996,
     "2020": 130,
     "name": "Lascellas-Ponzano",
-    "percentage": 86.94
+    "percentage": 86.94,
+    "province": "Huesca"
   },
   {
-    "1900": 581,
+    "milnovecientos": 581,
     "2020": 139,
     "name": "Lascuarre",
-    "percentage": 76.07
+    "percentage": 76.07,
+    "province": "Huesca"
   },
   {
-    "1900": 1065,
+    "milnovecientos": 1065,
     "2020": 205,
     "name": "Laspaúles",
-    "percentage": 80.75
+    "percentage": 80.75,
+    "province": "Huesca"
   },
   {
-    "1900": 501,
+    "milnovecientos": 501,
     "2020": 297,
     "name": "Laspuña",
-    "percentage": 40.71
+    "percentage": 40.71,
+    "province": "Huesca"
   },
   {
-    "1900": 1771,
+    "milnovecientos": 1771,
     "2020": 323,
     "name": "Loarre",
-    "percentage": 81.76
+    "percentage": 81.76,
+    "province": "Huesca"
   },
   {
-    "1900": 3139,
+    "milnovecientos": 3139,
     "2020": 514,
     "name": "Loporzano",
-    "percentage": 83.62
+    "percentage": 83.62,
+    "province": "Huesca"
   },
   {
-    "1900": 371,
+    "milnovecientos": 371,
     "2020": 93,
     "name": "Loscorrales",
-    "percentage": 74.93
+    "percentage": 74.93,
+    "province": "Huesca"
   },
   {
-    "1900": 513,
+    "milnovecientos": 513,
     "2020": 72,
     "name": "Monesma y Cajigar",
-    "percentage": 85.96
+    "percentage": 85.96,
+    "province": "Huesca"
   },
   {
-    "1900": 452,
+    "milnovecientos": 452,
     "2020": 405,
     "name": "Monflorite-Lascasas",
-    "percentage": 10.39
+    "percentage": 10.39,
+    "province": "Huesca"
   },
   {
-    "1900": 1395,
+    "milnovecientos": 1395,
     "2020": 210,
     "name": "Montanuy",
-    "percentage": 84.94
+    "percentage": 84.94,
+    "province": "Huesca"
   },
   {
-    "1900": 1550,
+    "milnovecientos": 1550,
     "2020": 265,
     "name": "Naval",
-    "percentage": 82.9
+    "percentage": 82.9,
+    "province": "Huesca"
   },
   {
-    "1900": 400,
+    "milnovecientos": 400,
     "2020": 152,
     "name": "Novales",
-    "percentage": 62
+    "percentage": 62,
+    "province": "Huesca"
   },
   {
-    "1900": 1249,
+    "milnovecientos": 1249,
     "2020": 546,
     "name": "Nueno",
-    "percentage": 56.28
+    "percentage": 56.28,
+    "province": "Huesca"
   },
   {
-    "1900": 384,
+    "milnovecientos": 384,
     "2020": 56,
     "name": "Olvena",
-    "percentage": 85.41
+    "percentage": 85.41,
+    "province": "Huesca"
   },
   {
-    "1900": 1862,
+    "milnovecientos": 1862,
     "2020": 508,
     "name": "Ontiñena",
-    "percentage": 72.71
+    "percentage": 72.71,
+    "province": "Huesca"
   },
   {
-    "1900": 728,
+    "milnovecientos": 728,
     "2020": 678,
     "name": "Osso de Cinca",
-    "percentage": 6.86
+    "percentage": 6.86,
+    "province": "Huesca"
   },
   {
-    "1900": 288,
+    "milnovecientos": 288,
     "2020": 26,
     "name": "Palo",
-    "percentage": 90.97
+    "percentage": 90.97,
+    "province": "Huesca"
   },
   {
-    "1900": 889,
+    "milnovecientos": 889,
     "2020": 800,
     "name": "Panticosa",
-    "percentage": 10.01
+    "percentage": 10.01,
+    "province": "Huesca"
   },
   {
-    "1900": 1158,
+    "milnovecientos": 1158,
     "2020": 644,
     "name": "Peñalba",
-    "percentage": 44.38
+    "percentage": 44.38,
+    "province": "Huesca"
   },
   {
-    "1900": 2226,
+    "milnovecientos": 2226,
     "2020": 247,
     "name": "Las Peñas de Riglos",
-    "percentage": 88.9
+    "percentage": 88.9,
+    "province": "Huesca"
   },
   {
-    "1900": 2207,
+    "milnovecientos": 2207,
     "2020": 563,
     "name": "Peralta de Alcofea",
-    "percentage": 74.49
+    "percentage": 74.49,
+    "province": "Huesca"
   },
   {
-    "1900": 2404,
+    "milnovecientos": 2404,
     "2020": 210,
     "name": "Peralta de Calasanz",
-    "percentage": 91.26
+    "percentage": 91.26,
+    "province": "Huesca"
   },
   {
-    "1900": 439,
+    "milnovecientos": 439,
     "2020": 209,
     "name": "Peraltilla",
-    "percentage": 52.39
+    "percentage": 52.39,
+    "province": "Huesca"
   },
   {
-    "1900": 689,
+    "milnovecientos": 689,
     "2020": 106,
     "name": "Perarrúa",
-    "percentage": 84.61
+    "percentage": 84.61,
+    "province": "Huesca"
   },
   {
-    "1900": 705,
+    "milnovecientos": 705,
     "2020": 120,
     "name": "Pertusa",
-    "percentage": 82.97
+    "percentage": 82.97,
+    "province": "Huesca"
   },
   {
-    "1900": 242,
+    "milnovecientos": 242,
     "2020": 100,
     "name": "Piracés",
-    "percentage": 58.67
+    "percentage": 58.67,
+    "province": "Huesca"
   },
   {
-    "1900": 1124,
+    "milnovecientos": 1124,
     "2020": 273,
     "name": "Plan",
-    "percentage": 75.71
+    "percentage": 75.71,
+    "province": "Huesca"
   },
   {
-    "1900": 512,
+    "milnovecientos": 512,
     "2020": 210,
     "name": "Poleñino",
-    "percentage": 58.98
+    "percentage": 58.98,
+    "province": "Huesca"
   },
   {
-    "1900": 885,
+    "milnovecientos": 885,
     "2020": 214,
     "name": "Pozán de Vero",
-    "percentage": 75.81
+    "percentage": 75.81,
+    "province": "Huesca"
   },
   {
-    "1900": 887,
+    "milnovecientos": 887,
     "2020": 377,
     "name": "La Puebla de Castro",
-    "percentage": 57.49
+    "percentage": 57.49,
+    "province": "Huesca"
   },
   {
-    "1900": 822,
+    "milnovecientos": 822,
     "2020": 93,
     "name": "Puente de Montañana",
-    "percentage": 88.68
+    "percentage": 88.68,
+    "province": "Huesca"
   },
   {
-    "1900": 1049,
+    "milnovecientos": 1049,
     "2020": 213,
     "name": "Puértolas",
-    "percentage": 79.69
+    "percentage": 79.69,
+    "province": "Huesca"
   },
   {
-    "1900": 492,
+    "milnovecientos": 492,
     "2020": 161,
     "name": "El Pueyo de Araguás",
-    "percentage": 67.27
+    "percentage": 67.27,
+    "province": "Huesca"
   },
   {
-    "1900": 420,
+    "milnovecientos": 420,
     "2020": 331,
     "name": "Pueyo de Santa Cruz",
-    "percentage": 21.19
+    "percentage": 21.19,
+    "province": "Huesca"
   },
   {
-    "1900": 1064,
+    "milnovecientos": 1064,
     "2020": 514,
     "name": "Robres",
-    "percentage": 51.69
+    "percentage": 51.69,
+    "province": "Huesca"
   },
   {
-    "1900": 871,
+    "milnovecientos": 871,
     "2020": 303,
     "name": "Sahún",
-    "percentage": 65.21
+    "percentage": 65.21,
+    "province": "Huesca"
   },
   {
-    "1900": 998,
+    "milnovecientos": 998,
     "2020": 306,
     "name": "Salas Altas",
-    "percentage": 69.33
+    "percentage": 69.33,
+    "province": "Huesca"
   },
   {
-    "1900": 601,
+    "milnovecientos": 601,
     "2020": 185,
     "name": "Salas Bajas",
-    "percentage": 69.21
+    "percentage": 69.21,
+    "province": "Huesca"
   },
   {
-    "1900": 367,
+    "milnovecientos": 367,
     "2020": 91,
     "name": "Salillas",
-    "percentage": 75.2
+    "percentage": 75.2,
+    "province": "Huesca"
   },
   {
-    "1900": 1532,
+    "milnovecientos": 1532,
     "2020": 547,
     "name": "San Esteban de Litera",
-    "percentage": 64.29
+    "percentage": 64.29,
+    "province": "Huesca"
   },
   {
-    "1900": 509,
+    "milnovecientos": 509,
     "2020": 221,
     "name": "Sangarrén",
-    "percentage": 56.58
+    "percentage": 56.58,
+    "province": "Huesca"
   },
   {
-    "1900": 361,
+    "milnovecientos": 361,
     "2020": 150,
     "name": "San Juan de Plan",
-    "percentage": 58.44
+    "percentage": 58.44,
+    "province": "Huesca"
   },
   {
-    "1900": 567,
+    "milnovecientos": 567,
     "2020": 243,
     "name": "Santa Cilia",
-    "percentage": 57.14
+    "percentage": 57.14,
+    "province": "Huesca"
   },
   {
-    "1900": 422,
+    "milnovecientos": 422,
     "2020": 188,
     "name": "Santa Cruz de la Serós",
-    "percentage": 55.45
+    "percentage": 55.45,
+    "province": "Huesca"
   },
   {
-    "1900": 366,
+    "milnovecientos": 366,
     "2020": 80,
     "name": "Santaliestra y San Quílez",
-    "percentage": 78.14
+    "percentage": 78.14,
+    "province": "Huesca"
   },
   {
-    "1900": 850,
+    "milnovecientos": 850,
     "2020": 140,
     "name": "Secastilla",
-    "percentage": 83.52
+    "percentage": 83.52,
+    "province": "Huesca"
   },
   {
-    "1900": 311,
+    "milnovecientos": 311,
     "2020": 145,
     "name": "Seira",
-    "percentage": 53.37
+    "percentage": 53.37,
+    "province": "Huesca"
   },
   {
-    "1900": 1071,
+    "milnovecientos": 1071,
     "2020": 501,
     "name": "Sena",
-    "percentage": 53.22
+    "percentage": 53.22,
+    "province": "Huesca"
   },
   {
-    "1900": 143,
+    "milnovecientos": 143,
     "2020": 40,
     "name": "Senés de Alcubierre",
-    "percentage": 72.02
+    "percentage": 72.02,
+    "province": "Huesca"
   },
   {
-    "1900": 881,
+    "milnovecientos": 881,
     "2020": 154,
     "name": "Sesa",
-    "percentage": 82.51
+    "percentage": 82.51,
+    "province": "Huesca"
   },
   {
-    "1900": 360,
+    "milnovecientos": 360,
     "2020": 122,
     "name": "Sesué",
-    "percentage": 66.11
+    "percentage": 66.11,
+    "province": "Huesca"
   },
   {
-    "1900": 1584,
+    "milnovecientos": 1584,
     "2020": 689,
     "name": "Siétamo",
-    "percentage": 56.5
+    "percentage": 56.5,
+    "province": "Huesca"
   },
   {
-    "1900": 889,
+    "milnovecientos": 889,
     "2020": 91,
     "name": "Sopeira",
-    "percentage": 89.76
+    "percentage": 89.76,
+    "province": "Huesca"
   },
   {
-    "1900": 3517,
+    "milnovecientos": 3517,
     "2020": 3487,
     "name": "Tamarite de Litera",
-    "percentage": ".85"
+    "percentage": ".85",
+    "province": "Huesca"
   },
   {
-    "1900": 1531,
+    "milnovecientos": 1531,
     "2020": 948,
     "name": "Tardienta",
-    "percentage": 38.07
+    "percentage": 38.07,
+    "province": "Huesca"
   },
   {
-    "1900": 717,
+    "milnovecientos": 717,
     "2020": 225,
     "name": "Tella-Sin",
-    "percentage": 68.61
+    "percentage": 68.61,
+    "province": "Huesca"
   },
   {
-    "1900": 962,
+    "milnovecientos": 962,
     "2020": 122,
     "name": "Tolva",
-    "percentage": 87.31
+    "percentage": 87.31,
+    "province": "Huesca"
   },
   {
-    "1900": 988,
+    "milnovecientos": 988,
     "2020": 298,
     "name": "Torla-Ordesa",
-    "percentage": 69.83
+    "percentage": 69.83,
+    "province": "Huesca"
   },
   {
-    "1900": 443,
+    "milnovecientos": 443,
     "2020": 113,
     "name": "Torralba de Aragón",
-    "percentage": 74.49
+    "percentage": 74.49,
+    "province": "Huesca"
   },
   {
-    "1900": 362,
+    "milnovecientos": 362,
     "2020": 96,
     "name": "Torre la Ribera",
-    "percentage": 73.48
+    "percentage": 73.48,
+    "province": "Huesca"
   },
   {
-    "1900": 1382,
+    "milnovecientos": 1382,
     "2020": 1327,
     "name": "Torrente de Cinca",
-    "percentage": 3.97
+    "percentage": 3.97,
+    "province": "Huesca"
   },
   {
-    "1900": 499,
+    "milnovecientos": 499,
     "2020": 82,
     "name": "Torres de Alcanadre",
-    "percentage": 83.56
+    "percentage": 83.56,
+    "province": "Huesca"
   },
   {
-    "1900": 111,
+    "milnovecientos": 111,
     "2020": 98,
     "name": "Tramaced",
-    "percentage": 11.71
+    "percentage": 11.71,
+    "province": "Huesca"
   },
   {
-    "1900": 309,
+    "milnovecientos": 309,
     "2020": 63,
     "name": "Valfarta",
-    "percentage": 79.61
+    "percentage": 79.61,
+    "province": "Huesca"
   },
   {
-    "1900": 221,
+    "milnovecientos": 221,
     "2020": 40,
     "name": "Valle de Bardají",
-    "percentage": 81.9
+    "percentage": 81.9,
+    "province": "Huesca"
   },
   {
-    "1900": 212,
+    "milnovecientos": 212,
     "2020": 51,
     "name": "Valle de Lierp",
-    "percentage": 75.94
+    "percentage": 75.94,
+    "province": "Huesca"
   },
   {
-    "1900": 1089,
+    "milnovecientos": 1089,
     "2020": 460,
     "name": "Velilla de Cinca",
-    "percentage": 57.75
+    "percentage": 57.75,
+    "province": "Huesca"
   },
   {
-    "1900": 651,
+    "milnovecientos": 651,
     "2020": 75,
     "name": "Beranuy",
-    "percentage": 88.47
+    "percentage": 88.47,
+    "province": "Huesca"
   },
   {
-    "1900": 820,
+    "milnovecientos": 820,
     "2020": 37,
     "name": "Viacamp y Litera",
-    "percentage": 95.48
+    "percentage": 95.48,
+    "province": "Huesca"
   },
   {
-    "1900": 374,
+    "milnovecientos": 374,
     "2020": 110,
     "name": "Vicién",
-    "percentage": 70.58
+    "percentage": 70.58,
+    "province": "Huesca"
   },
   {
-    "1900": 279,
+    "milnovecientos": 279,
     "2020": 174,
     "name": "Villanova",
-    "percentage": 37.63
+    "percentage": 37.63,
+    "province": "Huesca"
   },
   {
-    "1900": 959,
+    "milnovecientos": 959,
     "2020": 451,
     "name": "Villanúa",
-    "percentage": 52.97
+    "percentage": 52.97,
+    "province": "Huesca"
   },
   {
-    "1900": 900,
+    "milnovecientos": 900,
     "2020": 384,
     "name": "Villanueva de Sigena",
-    "percentage": 57.33
+    "percentage": 57.33,
+    "province": "Huesca"
   },
   {
-    "1900": 867,
+    "milnovecientos": 867,
     "2020": 142,
     "name": "Yebra de Basa",
-    "percentage": 83.62
+    "percentage": 83.62,
+    "province": "Huesca"
   },
   {
-    "1900": 288,
+    "milnovecientos": 288,
     "2020": 57,
     "name": "Yésero",
-    "percentage": 80.2
+    "percentage": 80.2,
+    "province": "Huesca"
   },
   {
-    "1900": 1907,
+    "milnovecientos": 1907,
     "2020": 1798,
     "name": "Zaidín",
-    "percentage": 5.71
+    "percentage": 5.71,
+    "province": "Huesca"
   },
   {
-    "1900": 2935,
+    "milnovecientos": 2935,
     "2020": 817,
     "name": "Valle de Hecho",
-    "percentage": 72.16
+    "percentage": 72.16,
+    "province": "Huesca"
   },
   {
-    "1900": 848,
+    "milnovecientos": 848,
     "2020": 245,
     "name": "Puente la Reina de Jaca",
-    "percentage": 71.1
+    "percentage": 71.1,
+    "province": "Huesca"
   },
   {
-    "1900": 1922,
+    "milnovecientos": 1922,
     "2020": 780,
     "name": "San Miguel del Cinca",
-    "percentage": 59.41
+    "percentage": 59.41,
+    "province": "Huesca"
   },
   {
-    "1900": 3972,
+    "milnovecientos": 3972,
     "2020": 859,
     "name": "La Sotonera",
-    "percentage": 78.37
+    "percentage": 78.37,
+    "province": "Huesca"
   },
   {
-    "1900": 1138,
+    "milnovecientos": 1138,
     "2020": 335,
     "name": "Lupiñén-Ortilla",
-    "percentage": 70.56
+    "percentage": 70.56,
+    "province": "Huesca"
   },
   {
-    "1900": 644,
+    "milnovecientos": 644,
     "2020": 205,
     "name": "Santa María de Dulcis",
-    "percentage": 68.16
+    "percentage": 68.16,
+    "province": "Huesca"
   },
   {
-    "1900": 3680,
+    "milnovecientos": 3680,
     "2020": 2242,
     "name": "Aínsa-Sobrarbe",
-    "percentage": 39.07
+    "percentage": 39.07,
+    "province": "Huesca"
   },
   {
-    "1900": 1390,
+    "milnovecientos": 1390,
     "2020": 221,
     "name": "Hoz y Costean",
-    "percentage": 84.1
+    "percentage": 84.1,
+    "province": "Huesca"
   },
   {
-    "1900": 633,
+    "milnovecientos": 633,
     "2020": 92,
     "name": "Abanto",
-    "percentage": 85.46
+    "percentage": 85.46,
+    "province": "Zaragoza"
   },
   {
-    "1900": 745,
+    "milnovecientos": 745,
     "2020": 158,
     "name": "Acered",
-    "percentage": 78.79
+    "percentage": 78.79,
+    "province": "Zaragoza"
   },
   {
-    "1900": 499,
+    "milnovecientos": 499,
     "2020": 138,
     "name": "Agón",
-    "percentage": 72.34
+    "percentage": 72.34,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2275,
+    "milnovecientos": 2275,
     "2020": 624,
     "name": "Aguarón",
-    "percentage": 72.57
+    "percentage": 72.57,
+    "province": "Zaragoza"
   },
   {
-    "1900": 982,
+    "milnovecientos": 982,
     "2020": 233,
     "name": "Aguilón",
-    "percentage": 76.27
+    "percentage": 76.27,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2061,
+    "milnovecientos": 2061,
     "2020": 1064,
     "name": "Ainzón",
-    "percentage": 48.37
+    "percentage": 48.37,
+    "province": "Zaragoza"
   },
   {
-    "1900": 353,
+    "milnovecientos": 353,
     "2020": 52,
     "name": "Aladrén",
-    "percentage": 85.26
+    "percentage": 85.26,
+    "province": "Zaragoza"
   },
   {
-    "1900": 471,
+    "milnovecientos": 471,
     "2020": 116,
     "name": "Alarba",
-    "percentage": 75.37
+    "percentage": 75.37,
+    "province": "Zaragoza"
   },
   {
-    "1900": 267,
+    "milnovecientos": 267,
     "2020": 74,
     "name": "Alberite de San Juan",
-    "percentage": 72.28
+    "percentage": 72.28,
+    "province": "Zaragoza"
   },
   {
-    "1900": 318,
+    "milnovecientos": 318,
     "2020": 134,
     "name": "Albeta",
-    "percentage": 57.86
+    "percentage": 57.86,
+    "province": "Zaragoza"
   },
   {
-    "1900": 464,
+    "milnovecientos": 464,
     "2020": 107,
     "name": "Alborge",
-    "percentage": 76.93
+    "percentage": 76.93,
+    "province": "Zaragoza"
   },
   {
-    "1900": 386,
+    "milnovecientos": 386,
     "2020": 245,
     "name": "Alcalá de Ebro",
-    "percentage": 36.52
+    "percentage": 36.52,
+    "province": "Zaragoza"
   },
   {
-    "1900": 370,
+    "milnovecientos": 370,
     "2020": 143,
     "name": "Alcalá de Moncayo",
-    "percentage": 61.35
+    "percentage": 61.35,
+    "province": "Zaragoza"
   },
   {
-    "1900": 667,
+    "milnovecientos": 667,
     "2020": 76,
     "name": "Alconchel de Ariza",
-    "percentage": 88.6
+    "percentage": 88.6,
+    "province": "Zaragoza"
   },
   {
-    "1900": 257,
+    "milnovecientos": 257,
     "2020": 51,
     "name": "Aldehuela de Liestos",
-    "percentage": 80.15
+    "percentage": 80.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 387,
+    "milnovecientos": 387,
     "2020": 65,
     "name": "Alforque",
-    "percentage": 83.2
+    "percentage": 83.2,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1616,
+    "milnovecientos": 1616,
     "2020": 1011,
     "name": "Alhama de Aragón",
-    "percentage": 37.43
+    "percentage": 37.43,
+    "province": "Zaragoza"
   },
   {
-    "1900": 99,
+    "milnovecientos": 99,
     "2020": 24,
     "name": "Almochuel",
-    "percentage": 75.75
+    "percentage": 75.75,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1246,
+    "milnovecientos": 1246,
     "2020": 554,
     "name": "La Almolda",
-    "percentage": 55.53
+    "percentage": 55.53,
+    "province": "Zaragoza"
   },
   {
-    "1900": 667,
+    "milnovecientos": 667,
     "2020": 230,
     "name": "Almonacid de la Cuba",
-    "percentage": 65.51
+    "percentage": 65.51,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2725,
+    "milnovecientos": 2725,
     "2020": 753,
     "name": "Almonacid de la Sierra",
-    "percentage": 72.36
+    "percentage": 72.36,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1042,
+    "milnovecientos": 1042,
     "2020": 568,
     "name": "Alpartir",
-    "percentage": 45.48
+    "percentage": 45.48,
+    "province": "Zaragoza"
   },
   {
-    "1900": 955,
+    "milnovecientos": 955,
     "2020": 253,
     "name": "Ambel",
-    "percentage": 73.5
+    "percentage": 73.5,
+    "province": "Zaragoza"
   },
   {
-    "1900": 387,
+    "milnovecientos": 387,
     "2020": 95,
     "name": "Anento",
-    "percentage": 75.45
+    "percentage": 75.45,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1870,
+    "milnovecientos": 1870,
     "2020": 684,
     "name": "Aniñón",
-    "percentage": 63.42
+    "percentage": 63.42,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1106,
+    "milnovecientos": 1106,
     "2020": 222,
     "name": "Añón de Moncayo",
-    "percentage": 79.92
+    "percentage": 79.92,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1585,
+    "milnovecientos": 1585,
     "2020": 145,
     "name": "Aranda de Moncayo",
-    "percentage": 90.85
+    "percentage": 90.85,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1121,
+    "milnovecientos": 1121,
     "2020": 278,
     "name": "Arándiga",
-    "percentage": 75.2
+    "percentage": 75.2,
+    "province": "Zaragoza"
   },
   {
-    "1900": 484,
+    "milnovecientos": 484,
     "2020": 74,
     "name": "Ardisa",
-    "percentage": 84.71
+    "percentage": 84.71,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1578,
+    "milnovecientos": 1578,
     "2020": 1100,
     "name": "Ariza",
-    "percentage": 30.29
+    "percentage": 30.29,
+    "province": "Zaragoza"
   },
   {
-    "1900": 269,
+    "milnovecientos": 269,
     "2020": 80,
     "name": "Artieda",
-    "percentage": 70.26
+    "percentage": 70.26,
+    "province": "Zaragoza"
   },
   {
-    "1900": 336,
+    "milnovecientos": 336,
     "2020": 98,
     "name": "Asín",
-    "percentage": 70.83
+    "percentage": 70.83,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1225,
+    "milnovecientos": 1225,
     "2020": 147,
     "name": "Atea",
-    "percentage": 88
+    "percentage": 88,
+    "province": "Zaragoza"
   },
   {
-    "1900": 3126,
+    "milnovecientos": 3126,
     "2020": 1762,
     "name": "Ateca",
-    "percentage": 43.63
+    "percentage": 43.63,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2388,
+    "milnovecientos": 2388,
     "2020": 529,
     "name": "Azuara",
-    "percentage": 77.84
+    "percentage": 77.84,
+    "province": "Zaragoza"
   },
   {
-    "1900": 440,
+    "milnovecientos": 440,
     "2020": 78,
     "name": "Badules",
-    "percentage": 82.27
+    "percentage": 82.27,
+    "province": "Zaragoza"
   },
   {
-    "1900": 243,
+    "milnovecientos": 243,
     "2020": 16,
     "name": "Bagüés",
-    "percentage": 93.41
+    "percentage": 93.41,
+    "province": "Zaragoza"
   },
   {
-    "1900": 178,
+    "milnovecientos": 178,
     "2020": 20,
     "name": "Balconchán",
-    "percentage": 88.76
+    "percentage": 88.76,
+    "province": "Zaragoza"
   },
   {
-    "1900": 640,
+    "milnovecientos": 640,
     "2020": 282,
     "name": "Bárboles",
-    "percentage": 55.93
+    "percentage": 55.93,
+    "province": "Zaragoza"
   },
   {
-    "1900": 834,
+    "milnovecientos": 834,
     "2020": 254,
     "name": "Bardallur",
-    "percentage": 69.54
+    "percentage": 69.54,
+    "province": "Zaragoza"
   },
   {
-    "1900": 3333,
+    "milnovecientos": 3333,
     "2020": 1526,
     "name": "Belchite",
-    "percentage": 54.21
+    "percentage": 54.21,
+    "province": "Zaragoza"
   },
   {
-    "1900": 997,
+    "milnovecientos": 997,
     "2020": 194,
     "name": "Belmonte de Gracián",
-    "percentage": 80.54
+    "percentage": 80.54,
+    "province": "Zaragoza"
   },
   {
-    "1900": 363,
+    "milnovecientos": 363,
     "2020": 40,
     "name": "Berdejo",
-    "percentage": 88.98
+    "percentage": 88.98,
+    "province": "Zaragoza"
   },
   {
-    "1900": 232,
+    "milnovecientos": 232,
     "2020": 32,
     "name": "Berrueco",
-    "percentage": 86.2
+    "percentage": 86.2,
+    "province": "Zaragoza"
   },
   {
-    "1900": 833,
+    "milnovecientos": 833,
     "2020": 94,
     "name": "Bijuesca",
-    "percentage": 88.71
+    "percentage": 88.71,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1383,
+    "milnovecientos": 1383,
     "2020": 930,
     "name": "Biota",
-    "percentage": 32.75
+    "percentage": 32.75,
+    "province": "Zaragoza"
   },
   {
-    "1900": 291,
+    "milnovecientos": 291,
     "2020": 81,
     "name": "Bisimbre",
-    "percentage": 72.16
+    "percentage": 72.16,
+    "province": "Zaragoza"
   },
   {
-    "1900": 920,
+    "milnovecientos": 920,
     "2020": 776,
     "name": "Boquiñeni",
-    "percentage": 15.65
+    "percentage": 15.65,
+    "province": "Zaragoza"
   },
   {
-    "1900": 520,
+    "milnovecientos": 520,
     "2020": 52,
     "name": "Bordalba",
-    "percentage": 90
+    "percentage": 90,
+    "province": "Zaragoza"
   },
   {
-    "1900": 5667,
+    "milnovecientos": 5667,
     "2020": 4978,
     "name": "Borja",
-    "percentage": 12.15
+    "percentage": 12.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 914,
+    "milnovecientos": 914,
     "2020": 65,
     "name": "Bubierca",
-    "percentage": 92.88
+    "percentage": 92.88,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1510,
+    "milnovecientos": 1510,
     "2020": 980,
     "name": "Bujaraloz",
-    "percentage": 35.09
+    "percentage": 35.09,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1052,
+    "milnovecientos": 1052,
     "2020": 220,
     "name": "Bulbuente",
-    "percentage": 79.08
+    "percentage": 79.08,
+    "province": "Zaragoza"
   },
   {
-    "1900": 685,
+    "milnovecientos": 685,
     "2020": 206,
     "name": "Bureta",
-    "percentage": 69.92
+    "percentage": 69.92,
+    "province": "Zaragoza"
   },
   {
-    "1900": 428,
+    "milnovecientos": 428,
     "2020": 71,
     "name": "El Buste",
-    "percentage": 83.41
+    "percentage": 83.41,
+    "province": "Zaragoza"
   },
   {
-    "1900": 474,
+    "milnovecientos": 474,
     "2020": 53,
     "name": "Cabolafuente",
-    "percentage": 88.81
+    "percentage": 88.81,
+    "province": "Zaragoza"
   },
   {
-    "1900": 854,
+    "milnovecientos": 854,
     "2020": 73,
     "name": "Calcena",
-    "percentage": 91.45
+    "percentage": 91.45,
+    "province": "Zaragoza"
   },
   {
-    "1900": 343,
+    "milnovecientos": 343,
     "2020": 61,
     "name": "Calmarza",
-    "percentage": 82.21
+    "percentage": 82.21,
+    "province": "Zaragoza"
   },
   {
-    "1900": 701,
+    "milnovecientos": 701,
     "2020": 146,
     "name": "Campillo de Aragón",
-    "percentage": 79.17
+    "percentage": 79.17,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1181,
+    "milnovecientos": 1181,
     "2020": 189,
     "name": "Carenas",
-    "percentage": 83.99
+    "percentage": 83.99,
+    "province": "Zaragoza"
   },
   {
-    "1900": 294,
+    "milnovecientos": 294,
     "2020": 88,
     "name": "Castejón de Alarba",
-    "percentage": 70.06
+    "percentage": 70.06,
+    "province": "Zaragoza"
   },
   {
-    "1900": 750,
+    "milnovecientos": 750,
     "2020": 78,
     "name": "Castejón de las Armas",
-    "percentage": 89.6
+    "percentage": 89.6,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1095,
+    "milnovecientos": 1095,
     "2020": 209,
     "name": "Castejón de Valdejasa",
-    "percentage": 80.91
+    "percentage": 80.91,
+    "province": "Zaragoza"
   },
   {
-    "1900": 823,
+    "milnovecientos": 823,
     "2020": 254,
     "name": "Castiliscar",
-    "percentage": 69.13
+    "percentage": 69.13,
+    "province": "Zaragoza"
   },
   {
-    "1900": 904,
+    "milnovecientos": 904,
     "2020": 260,
     "name": "Cervera de la Cañada",
-    "percentage": 71.23
+    "percentage": 71.23,
+    "province": "Zaragoza"
   },
   {
-    "1900": 443,
+    "milnovecientos": 443,
     "2020": 34,
     "name": "Cerveruela",
-    "percentage": 92.32
+    "percentage": 92.32,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1312,
+    "milnovecientos": 1312,
     "2020": 583,
     "name": "Cetina",
-    "percentage": 55.56
+    "percentage": 55.56,
+    "province": "Zaragoza"
   },
   {
-    "1900": 512,
+    "milnovecientos": 512,
     "2020": 94,
     "name": "Cimballa",
-    "percentage": 81.64
+    "percentage": 81.64,
+    "province": "Zaragoza"
   },
   {
-    "1900": 570,
+    "milnovecientos": 570,
     "2020": 102,
     "name": "Cinco Olivas",
-    "percentage": 82.1
+    "percentage": 82.1,
+    "province": "Zaragoza"
   },
   {
-    "1900": 444,
+    "milnovecientos": 444,
     "2020": 67,
     "name": "Clarés de Ribota",
-    "percentage": 84.9
+    "percentage": 84.9,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1026,
+    "milnovecientos": 1026,
     "2020": 199,
     "name": "Codo",
-    "percentage": 80.6
+    "percentage": 80.6,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1122,
+    "milnovecientos": 1122,
     "2020": 248,
     "name": "Codos",
-    "percentage": 77.89
+    "percentage": 77.89,
+    "province": "Zaragoza"
   },
   {
-    "1900": 169,
+    "milnovecientos": 169,
     "2020": 32,
     "name": "Contamina",
-    "percentage": 81.06
+    "percentage": 81.06,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1304,
+    "milnovecientos": 1304,
     "2020": 337,
     "name": "Cosuenda",
-    "percentage": 74.15
+    "percentage": 74.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 505,
+    "milnovecientos": 505,
     "2020": 155,
     "name": "Cubel",
-    "percentage": 69.3
+    "percentage": 69.3,
+    "province": "Zaragoza"
   },
   {
-    "1900": 316,
+    "milnovecientos": 316,
     "2020": 41,
     "name": "Las Cuerlas",
-    "percentage": 87.02
+    "percentage": 87.02,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1425,
+    "milnovecientos": 1425,
     "2020": 497,
     "name": "Chiprana",
-    "percentage": 65.12
+    "percentage": 65.12,
+    "province": "Zaragoza"
   },
   {
-    "1900": 483,
+    "milnovecientos": 483,
     "2020": 104,
     "name": "Chodes",
-    "percentage": 78.46
+    "percentage": 78.46,
+    "province": "Zaragoza"
   },
   {
-    "1900": 3493,
+    "milnovecientos": 3493,
     "2020": 1965,
     "name": "Daroca",
-    "percentage": 43.74
+    "percentage": 43.74,
+    "province": "Zaragoza"
   },
   {
-    "1900": 498,
+    "milnovecientos": 498,
     "2020": 35,
     "name": "Embid de Ariza",
-    "percentage": 92.97
+    "percentage": 92.97,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1020,
+    "milnovecientos": 1020,
     "2020": 178,
     "name": "Encinacorba",
-    "percentage": 82.54
+    "percentage": 82.54,
+    "province": "Zaragoza"
   },
   {
-    "1900": 911,
+    "milnovecientos": 911,
     "2020": 341,
     "name": "Erla",
-    "percentage": 62.56
+    "percentage": 62.56,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2374,
+    "milnovecientos": 2374,
     "2020": 1067,
     "name": "Escatrón",
-    "percentage": 55.05
+    "percentage": 55.05,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2089,
+    "milnovecientos": 2089,
     "2020": 1109,
     "name": "Fabara",
-    "percentage": 46.91
+    "percentage": 46.91,
+    "province": "Zaragoza"
   },
   {
-    "1900": 524,
+    "milnovecientos": 524,
     "2020": 366,
     "name": "Farlete",
-    "percentage": 30.15
+    "percentage": 30.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1306,
+    "milnovecientos": 1306,
     "2020": 380,
     "name": "Fayón",
-    "percentage": 70.9
+    "percentage": 70.9,
+    "province": "Zaragoza"
   },
   {
-    "1900": 521,
+    "milnovecientos": 521,
     "2020": 131,
     "name": "Los Fayos",
-    "percentage": 74.85
+    "percentage": 74.85,
+    "province": "Zaragoza"
   },
   {
-    "1900": 226,
+    "milnovecientos": 226,
     "2020": 60,
     "name": "Fombuena",
-    "percentage": 73.45
+    "percentage": 73.45,
+    "province": "Zaragoza"
   },
   {
-    "1900": 561,
+    "milnovecientos": 561,
     "2020": 97,
     "name": "El Frago",
-    "percentage": 82.7
+    "percentage": 82.7,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1551,
+    "milnovecientos": 1551,
     "2020": 379,
     "name": "El Frasno",
-    "percentage": 75.56
+    "percentage": 75.56,
+    "province": "Zaragoza"
   },
   {
-    "1900": 505,
+    "milnovecientos": 505,
     "2020": 199,
     "name": "Fréscano",
-    "percentage": 60.59
+    "percentage": 60.59,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1354,
+    "milnovecientos": 1354,
     "2020": 784,
     "name": "Fuendejalón",
-    "percentage": 42.09
+    "percentage": 42.09,
+    "province": "Zaragoza"
   },
   {
-    "1900": 540,
+    "milnovecientos": 540,
     "2020": 145,
     "name": "Fuendetodos",
-    "percentage": 73.14
+    "percentage": 73.14,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1099,
+    "milnovecientos": 1099,
     "2020": 229,
     "name": "Fuentes de Jiloca",
-    "percentage": 79.16
+    "percentage": 79.16,
+    "province": "Zaragoza"
   },
   {
-    "1900": 363,
+    "milnovecientos": 363,
     "2020": 136,
     "name": "Gallocanta",
-    "percentage": 62.53
+    "percentage": 62.53,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2847,
+    "milnovecientos": 2847,
     "2020": 2566,
     "name": "Gallur",
-    "percentage": 9.87
+    "percentage": 9.87,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2096,
+    "milnovecientos": 2096,
     "2020": 996,
     "name": "Gelsa",
-    "percentage": 52.48
+    "percentage": 52.48,
+    "province": "Zaragoza"
   },
   {
-    "1900": 432,
+    "milnovecientos": 432,
     "2020": 53,
     "name": "Godojos",
-    "percentage": 87.73
+    "percentage": 87.73,
+    "province": "Zaragoza"
   },
   {
-    "1900": 874,
+    "milnovecientos": 874,
     "2020": 302,
     "name": "Gotor",
-    "percentage": 65.44
+    "percentage": 65.44,
+    "province": "Zaragoza"
   },
   {
-    "1900": 497,
+    "milnovecientos": 497,
     "2020": 74,
     "name": "Grisel",
-    "percentage": 85.11
+    "percentage": 85.11,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1873,
+    "milnovecientos": 1873,
     "2020": 489,
     "name": "Herrera de los Navarros",
-    "percentage": 73.89
+    "percentage": 73.89,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1251,
+    "milnovecientos": 1251,
     "2020": 395,
     "name": "Ibdes",
-    "percentage": 68.42
+    "percentage": 68.42,
+    "province": "Zaragoza"
   },
   {
-    "1900": 347,
+    "milnovecientos": 347,
     "2020": 31,
     "name": "Isuerre",
-    "percentage": 91.06
+    "percentage": 91.06,
+    "province": "Zaragoza"
   },
   {
-    "1900": 491,
+    "milnovecientos": 491,
     "2020": 282,
     "name": "Jaraba",
-    "percentage": 42.56
+    "percentage": 42.56,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1472,
+    "milnovecientos": 1472,
     "2020": 417,
     "name": "Jarque de Moncayo",
-    "percentage": 71.67
+    "percentage": 71.67,
+    "province": "Zaragoza"
   },
   {
-    "1900": 361,
+    "milnovecientos": 361,
     "2020": 251,
     "name": "Jaulín",
-    "percentage": 30.47
+    "percentage": 30.47,
+    "province": "Zaragoza"
   },
   {
-    "1900": 503,
+    "milnovecientos": 503,
     "2020": 109,
     "name": "Lagata",
-    "percentage": 78.33
+    "percentage": 78.33,
+    "province": "Zaragoza"
   },
   {
-    "1900": 599,
+    "milnovecientos": 599,
     "2020": 122,
     "name": "Langa del Castillo",
-    "percentage": 79.63
+    "percentage": 79.63,
+    "province": "Zaragoza"
   },
   {
-    "1900": 343,
+    "milnovecientos": 343,
     "2020": 94,
     "name": "Layana",
-    "percentage": 72.59
+    "percentage": 72.59,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1997,
+    "milnovecientos": 1997,
     "2020": 631,
     "name": "Lécera",
-    "percentage": 68.4
+    "percentage": 68.4,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1576,
+    "milnovecientos": 1576,
     "2020": 1146,
     "name": "Leciñena",
-    "percentage": 27.28
+    "percentage": 27.28,
+    "province": "Zaragoza"
   },
   {
-    "1900": 157,
+    "milnovecientos": 157,
     "2020": 46,
     "name": "Lechón",
-    "percentage": 70.7
+    "percentage": 70.7,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1074,
+    "milnovecientos": 1074,
     "2020": 342,
     "name": "Letux",
-    "percentage": 68.15
+    "percentage": 68.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 634,
+    "milnovecientos": 634,
     "2020": 164,
     "name": "Litago",
-    "percentage": 74.13
+    "percentage": 74.13,
+    "province": "Zaragoza"
   },
   {
-    "1900": 363,
+    "milnovecientos": 363,
     "2020": 123,
     "name": "Lituénigo",
-    "percentage": 66.11
+    "percentage": 66.11,
+    "province": "Zaragoza"
   },
   {
-    "1900": 496,
+    "milnovecientos": 496,
     "2020": 26,
     "name": "Lobera de Onsella",
-    "percentage": 94.75
+    "percentage": 94.75,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1306,
+    "milnovecientos": 1306,
     "2020": 883,
     "name": "Longares",
-    "percentage": 32.38
+    "percentage": 32.38,
+    "province": "Zaragoza"
   },
   {
-    "1900": 469,
+    "milnovecientos": 469,
     "2020": 32,
     "name": "Longás",
-    "percentage": 93.17
+    "percentage": 93.17,
+    "province": "Zaragoza"
   },
   {
-    "1900": 469,
+    "milnovecientos": 469,
     "2020": 232,
     "name": "Lucena de Jalón",
-    "percentage": 50.53
+    "percentage": 50.53,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1573,
+    "milnovecientos": 1573,
     "2020": 297,
     "name": "Luesia",
-    "percentage": 81.11
+    "percentage": 81.11,
+    "province": "Zaragoza"
   },
   {
-    "1900": 331,
+    "milnovecientos": 331,
     "2020": 37,
     "name": "Luesma",
-    "percentage": 88.82
+    "percentage": 88.82,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1431,
+    "milnovecientos": 1431,
     "2020": 806,
     "name": "Lumpiaque",
-    "percentage": 43.67
+    "percentage": 43.67,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1761,
+    "milnovecientos": 1761,
     "2020": 684,
     "name": "Luna",
-    "percentage": 61.15
+    "percentage": 61.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 3325,
+    "milnovecientos": 3325,
     "2020": 2008,
     "name": "Maella",
-    "percentage": 39.6
+    "percentage": 39.6,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2822,
+    "milnovecientos": 2822,
     "2020": 1112,
     "name": "Magallón",
-    "percentage": 60.59
+    "percentage": 60.59,
+    "province": "Zaragoza"
   },
   {
-    "1900": 471,
+    "milnovecientos": 471,
     "2020": 160,
     "name": "Mainar",
-    "percentage": 66.02
+    "percentage": 66.02,
+    "province": "Zaragoza"
   },
   {
-    "1900": 427,
+    "milnovecientos": 427,
     "2020": 89,
     "name": "Malanquilla",
-    "percentage": 79.15
+    "percentage": 79.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 535,
+    "milnovecientos": 535,
     "2020": 276,
     "name": "Maleján",
-    "percentage": 48.41
+    "percentage": 48.41,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1230,
+    "milnovecientos": 1230,
     "2020": 369,
     "name": "Malón",
-    "percentage": 70
+    "percentage": 70,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1400,
+    "milnovecientos": 1400,
     "2020": 937,
     "name": "Maluenda",
-    "percentage": 33.07
+    "percentage": 33.07,
+    "province": "Zaragoza"
   },
   {
-    "1900": 672,
+    "milnovecientos": 672,
     "2020": 106,
     "name": "Manchones",
-    "percentage": 84.22
+    "percentage": 84.22,
+    "province": "Zaragoza"
   },
   {
-    "1900": 706,
+    "milnovecientos": 706,
     "2020": 168,
     "name": "Mara",
-    "percentage": 76.2
+    "percentage": 76.2,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1416,
+    "milnovecientos": 1416,
     "2020": 447,
     "name": "Mediana de Aragón",
-    "percentage": 68.43
+    "percentage": 68.43,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2842,
+    "milnovecientos": 2842,
     "2020": 2279,
     "name": "Mequinenza",
-    "percentage": 19.8
+    "percentage": 19.8,
+    "province": "Zaragoza"
   },
   {
-    "1900": 613,
+    "milnovecientos": 613,
     "2020": 257,
     "name": "Mesones de Isuela",
-    "percentage": 58.07
+    "percentage": 58.07,
+    "province": "Zaragoza"
   },
   {
-    "1900": 510,
+    "milnovecientos": 510,
     "2020": 233,
     "name": "Mezalocha",
-    "percentage": 54.31
+    "percentage": 54.31,
+    "province": "Zaragoza"
   },
   {
-    "1900": 221,
+    "milnovecientos": 221,
     "2020": 27,
     "name": "Mianos",
-    "percentage": 87.78
+    "percentage": 87.78,
+    "province": "Zaragoza"
   },
   {
-    "1900": 916,
+    "milnovecientos": 916,
     "2020": 415,
     "name": "Miedes de Aragón",
-    "percentage": 54.69
+    "percentage": 54.69,
+    "province": "Zaragoza"
   },
   {
-    "1900": 824,
+    "milnovecientos": 824,
     "2020": 394,
     "name": "Monegrillo",
-    "percentage": 52.18
+    "percentage": 52.18,
+    "province": "Zaragoza"
   },
   {
-    "1900": 636,
+    "milnovecientos": 636,
     "2020": 114,
     "name": "Moneva",
-    "percentage": 82.07
+    "percentage": 82.07,
+    "province": "Zaragoza"
   },
   {
-    "1900": 680,
+    "milnovecientos": 680,
     "2020": 189,
     "name": "Monreal de Ariza",
-    "percentage": 72.2
+    "percentage": 72.2,
+    "province": "Zaragoza"
   },
   {
-    "1900": 932,
+    "milnovecientos": 932,
     "2020": 143,
     "name": "Monterde",
-    "percentage": 84.65
+    "percentage": 84.65,
+    "province": "Zaragoza"
   },
   {
-    "1900": 499,
+    "milnovecientos": 499,
     "2020": 90,
     "name": "Montón",
-    "percentage": 81.96
+    "percentage": 81.96,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2161,
+    "milnovecientos": 2161,
     "2020": 1066,
     "name": "Morata de Jalón",
-    "percentage": 50.67
+    "percentage": 50.67,
+    "province": "Zaragoza"
   },
   {
-    "1900": 897,
+    "milnovecientos": 897,
     "2020": 276,
     "name": "Morata de Jiloca",
-    "percentage": 69.23
+    "percentage": 69.23,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1168,
+    "milnovecientos": 1168,
     "2020": 321,
     "name": "Morés",
-    "percentage": 72.51
+    "percentage": 72.51,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1209,
+    "milnovecientos": 1209,
     "2020": 319,
     "name": "Moros",
-    "percentage": 73.61
+    "percentage": 73.61,
+    "province": "Zaragoza"
   },
   {
-    "1900": 952,
+    "milnovecientos": 952,
     "2020": 265,
     "name": "Moyuela",
-    "percentage": 72.16
+    "percentage": 72.16,
+    "province": "Zaragoza"
   },
   {
-    "1900": 378,
+    "milnovecientos": 378,
     "2020": 120,
     "name": "Mozota",
-    "percentage": 68.25
+    "percentage": 68.25,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1300,
+    "milnovecientos": 1300,
     "2020": 363,
     "name": "Munébrega",
-    "percentage": 72.07
+    "percentage": 72.07,
+    "province": "Zaragoza"
   },
   {
-    "1900": 519,
+    "milnovecientos": 519,
     "2020": 96,
     "name": "Murero",
-    "percentage": 81.5
+    "percentage": 81.5,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1159,
+    "milnovecientos": 1159,
     "2020": 191,
     "name": "Murillo de Gállego",
-    "percentage": 83.52
+    "percentage": 83.52,
+    "province": "Zaragoza"
   },
   {
-    "1900": 413,
+    "milnovecientos": 413,
     "2020": 36,
     "name": "Navardún",
-    "percentage": 91.28
+    "percentage": 91.28,
+    "province": "Zaragoza"
   },
   {
-    "1900": 270,
+    "milnovecientos": 270,
     "2020": 61,
     "name": "Nigüella",
-    "percentage": 77.4
+    "percentage": 77.4,
+    "province": "Zaragoza"
   },
   {
-    "1900": 262,
+    "milnovecientos": 262,
     "2020": 31,
     "name": "Nombrevilla",
-    "percentage": 88.16
+    "percentage": 88.16,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1681,
+    "milnovecientos": 1681,
     "2020": 978,
     "name": "Nonaspe",
-    "percentage": 41.82
+    "percentage": 41.82,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1527,
+    "milnovecientos": 1527,
     "2020": 825,
     "name": "Novallas",
-    "percentage": 45.97
+    "percentage": 45.97,
+    "province": "Zaragoza"
   },
   {
-    "1900": 908,
+    "milnovecientos": 908,
     "2020": 517,
     "name": "Novillas",
-    "percentage": 43.06
+    "percentage": 43.06,
+    "province": "Zaragoza"
   },
   {
-    "1900": 902,
+    "milnovecientos": 902,
     "2020": 285,
     "name": "Nuévalos",
-    "percentage": 68.4
+    "percentage": 68.4,
+    "province": "Zaragoza"
   },
   {
-    "1900": 674,
+    "milnovecientos": 674,
     "2020": 110,
     "name": "Olvés",
-    "percentage": 83.67
+    "percentage": 83.67,
+    "province": "Zaragoza"
   },
   {
-    "1900": 495,
+    "milnovecientos": 495,
     "2020": 55,
     "name": "Orcajo",
-    "percentage": 88.88
+    "percentage": 88.88,
+    "province": "Zaragoza"
   },
   {
-    "1900": 411,
+    "milnovecientos": 411,
     "2020": 111,
     "name": "Orera",
-    "percentage": 72.99
+    "percentage": 72.99,
+    "province": "Zaragoza"
   },
   {
-    "1900": 734,
+    "milnovecientos": 734,
     "2020": 109,
     "name": "Orés",
-    "percentage": 85.14
+    "percentage": 85.14,
+    "province": "Zaragoza"
   },
   {
-    "1900": 346,
+    "milnovecientos": 346,
     "2020": 47,
     "name": "Oseja",
-    "percentage": 86.41
+    "percentage": 86.41,
+    "province": "Zaragoza"
   },
   {
-    "1900": 497,
+    "milnovecientos": 497,
     "2020": 383,
     "name": "Osera de Ebro",
-    "percentage": 22.93
+    "percentage": 22.93,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1820,
+    "milnovecientos": 1820,
     "2020": 619,
     "name": "Paniza",
-    "percentage": 65.98
+    "percentage": 65.98,
+    "province": "Zaragoza"
   },
   {
-    "1900": 712,
+    "milnovecientos": 712,
     "2020": 573,
     "name": "Paracuellos de Jiloca",
-    "percentage": 19.52
+    "percentage": 19.52,
+    "province": "Zaragoza"
   },
   {
-    "1900": 908,
+    "milnovecientos": 908,
     "2020": 136,
     "name": "Paracuellos de la Ribera",
-    "percentage": 85.02
+    "percentage": 85.02,
+    "province": "Zaragoza"
   },
   {
-    "1900": 390,
+    "milnovecientos": 390,
     "2020": 86,
     "name": "Las Pedrosas",
-    "percentage": 77.94
+    "percentage": 77.94,
+    "province": "Zaragoza"
   },
   {
-    "1900": 725,
+    "milnovecientos": 725,
     "2020": 572,
     "name": "Perdiguera",
-    "percentage": 21.1
+    "percentage": 21.1,
+    "province": "Zaragoza"
   },
   {
-    "1900": 300,
+    "milnovecientos": 300,
     "2020": 87,
     "name": "Piedratajada",
-    "percentage": 71
+    "percentage": 71,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2409,
+    "milnovecientos": 2409,
     "2020": 2391,
     "name": "Pina de Ebro",
-    "percentage": ".74"
+    "percentage": ".74",
+    "province": "Zaragoza"
   },
   {
-    "1900": 773,
+    "milnovecientos": 773,
     "2020": 39,
     "name": "Los Pintanos",
-    "percentage": 94.95
+    "percentage": 94.95,
+    "province": "Zaragoza"
   },
   {
-    "1900": 875,
+    "milnovecientos": 875,
     "2020": 308,
     "name": "Plasencia de Jalón",
-    "percentage": 64.8
+    "percentage": 64.8,
+    "province": "Zaragoza"
   },
   {
-    "1900": 154,
+    "milnovecientos": 154,
     "2020": 33,
     "name": "Pleitas",
-    "percentage": 78.57
+    "percentage": 78.57,
+    "province": "Zaragoza"
   },
   {
-    "1900": 681,
+    "milnovecientos": 681,
     "2020": 98,
     "name": "Plenas",
-    "percentage": 85.6
+    "percentage": 85.6,
+    "province": "Zaragoza"
   },
   {
-    "1900": 474,
+    "milnovecientos": 474,
     "2020": 21,
     "name": "Pomer",
-    "percentage": 95.56
+    "percentage": 95.56,
+    "province": "Zaragoza"
   },
   {
-    "1900": 287,
+    "milnovecientos": 287,
     "2020": 21,
     "name": "Pozuel de Ariza",
-    "percentage": 92.68
+    "percentage": 92.68,
+    "province": "Zaragoza"
   },
   {
-    "1900": 710,
+    "milnovecientos": 710,
     "2020": 282,
     "name": "Pozuelo de Aragón",
-    "percentage": 60.28
+    "percentage": 60.28,
+    "province": "Zaragoza"
   },
   {
-    "1900": 688,
+    "milnovecientos": 688,
     "2020": 540,
     "name": "Pradilla de Ebro",
-    "percentage": 21.51
+    "percentage": 21.51,
+    "province": "Zaragoza"
   },
   {
-    "1900": 631,
+    "milnovecientos": 631,
     "2020": 120,
     "name": "Puebla de Albortón",
-    "percentage": 80.98
+    "percentage": 80.98,
+    "province": "Zaragoza"
   },
   {
-    "1900": 228,
+    "milnovecientos": 228,
     "2020": 48,
     "name": "Puendeluna",
-    "percentage": 78.94
+    "percentage": 78.94,
+    "province": "Zaragoza"
   },
   {
-    "1900": 463,
+    "milnovecientos": 463,
     "2020": 32,
     "name": "Purujosa",
-    "percentage": 93.08
+    "percentage": 93.08,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2521,
+    "milnovecientos": 2521,
     "2020": 1949,
     "name": "Quinto",
-    "percentage": 22.68
+    "percentage": 22.68,
+    "province": "Zaragoza"
   },
   {
-    "1900": 180,
+    "milnovecientos": 180,
     "2020": 62,
     "name": "Retascón",
-    "percentage": 65.55
+    "percentage": 65.55,
+    "province": "Zaragoza"
   },
   {
-    "1900": 321,
+    "milnovecientos": 321,
     "2020": 125,
     "name": "Romanos",
-    "percentage": 61.05
+    "percentage": 61.05,
+    "province": "Zaragoza"
   },
   {
-    "1900": 896,
+    "milnovecientos": 896,
     "2020": 312,
     "name": "Rueda de Jalón",
-    "percentage": 65.17
+    "percentage": 65.17,
+    "province": "Zaragoza"
   },
   {
-    "1900": 163,
+    "milnovecientos": 163,
     "2020": 76,
     "name": "Ruesca",
-    "percentage": 53.37
+    "percentage": 53.37,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1812,
+    "milnovecientos": 1812,
     "2020": 1311,
     "name": "Sádaba",
-    "percentage": 27.64
+    "percentage": 27.64,
+    "province": "Zaragoza"
   },
   {
-    "1900": 583,
+    "milnovecientos": 583,
     "2020": 321,
     "name": "Salillas de Jalón",
-    "percentage": 44.93
+    "percentage": 44.93,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1196,
+    "milnovecientos": 1196,
     "2020": 207,
     "name": "Salvatierra de Esca",
-    "percentage": 82.69
+    "percentage": 82.69,
+    "province": "Zaragoza"
   },
   {
-    "1900": 404,
+    "milnovecientos": 404,
     "2020": 100,
     "name": "Samper del Salz",
-    "percentage": 75.24
+    "percentage": 75.24,
+    "province": "Zaragoza"
   },
   {
-    "1900": 385,
+    "milnovecientos": 385,
     "2020": 270,
     "name": "San Martín de la Virgen de Moncayo",
-    "percentage": 29.87
+    "percentage": 29.87,
+    "province": "Zaragoza"
   },
   {
-    "1900": 929,
+    "milnovecientos": 929,
     "2020": 105,
     "name": "Santa Cruz de Grío",
-    "percentage": 88.69
+    "percentage": 88.69,
+    "province": "Zaragoza"
   },
   {
-    "1900": 318,
+    "milnovecientos": 318,
     "2020": 123,
     "name": "Santa Cruz de Moncayo",
-    "percentage": 61.32
+    "percentage": 61.32,
+    "province": "Zaragoza"
   },
   {
-    "1900": 924,
+    "milnovecientos": 924,
     "2020": 97,
     "name": "Santa Eulalia de Gállego",
-    "percentage": 89.5
+    "percentage": 89.5,
+    "province": "Zaragoza"
   },
   {
-    "1900": 290,
+    "milnovecientos": 290,
     "2020": 64,
     "name": "Santed",
-    "percentage": 77.93
+    "percentage": 77.93,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2987,
+    "milnovecientos": 2987,
     "2020": 1119,
     "name": "Sástago",
-    "percentage": 62.53
+    "percentage": 62.53,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1759,
+    "milnovecientos": 1759,
     "2020": 722,
     "name": "Sabiñán",
-    "percentage": 58.95
+    "percentage": 58.95,
+    "province": "Zaragoza"
   },
   {
-    "1900": 311,
+    "milnovecientos": 311,
     "2020": 108,
     "name": "Sediles",
-    "percentage": 65.27
+    "percentage": 65.27,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1298,
+    "milnovecientos": 1298,
     "2020": 344,
     "name": "Sestrica",
-    "percentage": 73.49
+    "percentage": 73.49,
+    "province": "Zaragoza"
   },
   {
-    "1900": 651,
+    "milnovecientos": 651,
     "2020": 270,
     "name": "Sierra de Luna",
-    "percentage": 58.52
+    "percentage": 58.52,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1638,
+    "milnovecientos": 1638,
     "2020": 79,
     "name": "Sigüés",
-    "percentage": 95.17
+    "percentage": 95.17,
+    "province": "Zaragoza"
   },
   {
-    "1900": 457,
+    "milnovecientos": 457,
     "2020": 35,
     "name": "Sisamón",
-    "percentage": 92.34
+    "percentage": 92.34,
+    "province": "Zaragoza"
   },
   {
-    "1900": 3596,
+    "milnovecientos": 3596,
     "2020": 567,
     "name": "Sos del Rey Católico",
-    "percentage": 84.23
+    "percentage": 84.23,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1379,
+    "milnovecientos": 1379,
     "2020": 321,
     "name": "Tabuenca",
-    "percentage": 76.72
+    "percentage": 76.72,
+    "province": "Zaragoza"
   },
   {
-    "1900": 471,
+    "milnovecientos": 471,
     "2020": 61,
     "name": "Talamantes",
-    "percentage": 87.04
+    "percentage": 87.04,
+    "province": "Zaragoza"
   },
   {
-    "1900": 975,
+    "milnovecientos": 975,
     "2020": 464,
     "name": "Terrer",
-    "percentage": 52.41
+    "percentage": 52.41,
+    "province": "Zaragoza"
   },
   {
-    "1900": 682,
+    "milnovecientos": 682,
     "2020": 190,
     "name": "Tierga",
-    "percentage": 72.14
+    "percentage": 72.14,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1002,
+    "milnovecientos": 1002,
     "2020": 230,
     "name": "Tobed",
-    "percentage": 77.04
+    "percentage": 77.04,
+    "province": "Zaragoza"
   },
   {
-    "1900": 530,
+    "milnovecientos": 530,
     "2020": 76,
     "name": "Torralba de los Frailes",
-    "percentage": 85.66
+    "percentage": 85.66,
+    "province": "Zaragoza"
   },
   {
-    "1900": 654,
+    "milnovecientos": 654,
     "2020": 169,
     "name": "Torralba de Ribota",
-    "percentage": 74.15
+    "percentage": 74.15,
+    "province": "Zaragoza"
   },
   {
-    "1900": 393,
+    "milnovecientos": 393,
     "2020": 59,
     "name": "Torralbilla",
-    "percentage": 84.98
+    "percentage": 84.98,
+    "province": "Zaragoza"
   },
   {
-    "1900": 258,
+    "milnovecientos": 258,
     "2020": 69,
     "name": "Torrehermosa",
-    "percentage": 73.25
+    "percentage": 73.25,
+    "province": "Zaragoza"
   },
   {
-    "1900": 310,
+    "milnovecientos": 310,
     "2020": 35,
     "name": "Torrelapaja",
-    "percentage": 88.7
+    "percentage": 88.7,
+    "province": "Zaragoza"
   },
   {
-    "1900": 860,
+    "milnovecientos": 860,
     "2020": 246,
     "name": "Torrellas",
-    "percentage": 71.39
+    "percentage": 71.39,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2007,
+    "milnovecientos": 2007,
     "2020": 197,
     "name": "Torrijo de la Cañada",
-    "percentage": 90.18
+    "percentage": 90.18,
+    "province": "Zaragoza"
   },
   {
-    "1900": 841,
+    "milnovecientos": 841,
     "2020": 183,
     "name": "Tosos",
-    "percentage": 78.24
+    "percentage": 78.24,
+    "province": "Zaragoza"
   },
   {
-    "1900": 341,
+    "milnovecientos": 341,
     "2020": 88,
     "name": "Trasmoz",
-    "percentage": 74.19
+    "percentage": 74.19,
+    "province": "Zaragoza"
   },
   {
-    "1900": 531,
+    "milnovecientos": 531,
     "2020": 115,
     "name": "Trasobares",
-    "percentage": 78.34
+    "percentage": 78.34,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2758,
+    "milnovecientos": 2758,
     "2020": 621,
     "name": "Uncastillo",
-    "percentage": 77.48
+    "percentage": 77.48,
+    "province": "Zaragoza"
   },
   {
-    "1900": 485,
+    "milnovecientos": 485,
     "2020": 57,
     "name": "Undués de Lerda",
-    "percentage": 88.24
+    "percentage": 88.24,
+    "province": "Zaragoza"
   },
   {
-    "1900": 801,
+    "milnovecientos": 801,
     "2020": 435,
     "name": "Urrea de Jalón",
-    "percentage": 45.69
+    "percentage": 45.69,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1111,
+    "milnovecientos": 1111,
     "2020": 43,
     "name": "Urriés",
-    "percentage": 96.12
+    "percentage": 96.12,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1432,
+    "milnovecientos": 1432,
     "2020": 256,
     "name": "Used",
-    "percentage": 82.12
+    "percentage": 82.12,
+    "province": "Zaragoza"
   },
   {
-    "1900": 236,
+    "milnovecientos": 236,
     "2020": 33,
     "name": "Valdehorna",
-    "percentage": 86.01
+    "percentage": 86.01,
+    "province": "Zaragoza"
   },
   {
-    "1900": 345,
+    "milnovecientos": 345,
     "2020": 61,
     "name": "Val de San Martín",
-    "percentage": 82.31
+    "percentage": 82.31,
+    "province": "Zaragoza"
   },
   {
-    "1900": 202,
+    "milnovecientos": 202,
     "2020": 112,
     "name": "Valmadrid",
-    "percentage": 44.55
+    "percentage": 44.55,
+    "province": "Zaragoza"
   },
   {
-    "1900": 415,
+    "milnovecientos": 415,
     "2020": 137,
     "name": "Valpalmas",
-    "percentage": 66.98
+    "percentage": 66.98,
+    "province": "Zaragoza"
   },
   {
-    "1900": 293,
+    "milnovecientos": 293,
     "2020": 61,
     "name": "Valtorres",
-    "percentage": 79.18
+    "percentage": 79.18,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1027,
+    "milnovecientos": 1027,
     "2020": 203,
     "name": "Velilla de Ebro",
-    "percentage": 80.23
+    "percentage": 80.23,
+    "province": "Zaragoza"
   },
   {
-    "1900": 486,
+    "milnovecientos": 486,
     "2020": 81,
     "name": "Velilla de Jiloca",
-    "percentage": 83.33
+    "percentage": 83.33,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1329,
+    "milnovecientos": 1329,
     "2020": 322,
     "name": "Vera de Moncayo",
-    "percentage": 75.77
+    "percentage": 75.77,
+    "province": "Zaragoza"
   },
   {
-    "1900": 230,
+    "milnovecientos": 230,
     "2020": 82,
     "name": "Vierlas",
-    "percentage": 64.34
+    "percentage": 64.34,
+    "province": "Zaragoza"
   },
   {
-    "1900": 401,
+    "milnovecientos": 401,
     "2020": 62,
     "name": "La Vilueña",
-    "percentage": 84.53
+    "percentage": 84.53,
+    "province": "Zaragoza"
   },
   {
-    "1900": 266,
+    "milnovecientos": 266,
     "2020": 95,
     "name": "Villadoz",
-    "percentage": 64.28
+    "percentage": 64.28,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1374,
+    "milnovecientos": 1374,
     "2020": 154,
     "name": "Villafeliche",
-    "percentage": 88.79
+    "percentage": 88.79,
+    "province": "Zaragoza"
   },
   {
-    "1900": 266,
+    "milnovecientos": 266,
     "2020": 96,
     "name": "Villalba de Perejil",
-    "percentage": 63.9
+    "percentage": 63.9,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1384,
+    "milnovecientos": 1384,
     "2020": 293,
     "name": "Villalengua",
-    "percentage": 78.82
+    "percentage": 78.82,
+    "province": "Zaragoza"
   },
   {
-    "1900": 545,
+    "milnovecientos": 545,
     "2020": 52,
     "name": "Villanueva de Jiloca",
-    "percentage": 90.45
+    "percentage": 90.45,
+    "province": "Zaragoza"
   },
   {
-    "1900": 922,
+    "milnovecientos": 922,
     "2020": 434,
     "name": "Villanueva de Huerva",
-    "percentage": 52.92
+    "percentage": 52.92,
+    "province": "Zaragoza"
   },
   {
-    "1900": 984,
+    "milnovecientos": 984,
     "2020": 113,
     "name": "Villar de los Navarros",
-    "percentage": 88.51
+    "percentage": 88.51,
+    "province": "Zaragoza"
   },
   {
-    "1900": 469,
+    "milnovecientos": 469,
     "2020": 273,
     "name": "Villarreal de Huerva",
-    "percentage": 41.79
+    "percentage": 41.79,
+    "province": "Zaragoza"
   },
   {
-    "1900": 2405,
+    "milnovecientos": 2405,
     "2020": 435,
     "name": "Villarroya de la Sierra",
-    "percentage": 81.91
+    "percentage": 81.91,
+    "province": "Zaragoza"
   },
   {
-    "1900": 229,
+    "milnovecientos": 229,
     "2020": 89,
     "name": "Villarroya del Campo",
-    "percentage": 61.13
+    "percentage": 61.13,
+    "province": "Zaragoza"
   },
   {
-    "1900": 495,
+    "milnovecientos": 495,
     "2020": 48,
     "name": "Vistabella",
-    "percentage": 90.3
+    "percentage": 90.3,
+    "province": "Zaragoza"
   },
   {
-    "1900": 1659,
+    "milnovecientos": 1659,
     "2020": 155,
     "name": "Biel",
-    "percentage": 90.65
+    "percentage": 90.65,
+    "province": "Zaragoza"
   },
   {
-    "1900": 154,
+    "milnovecientos": 154,
     "2020": 84,
     "name": "Marracos",
-    "percentage": 45.45
+    "percentage": 45.45,
+    "province": "Zaragoza"
   }
 ]
