@@ -4,17 +4,20 @@ const fs = require('fs');
 const data = require('../data/2020/aragon-1900-2020.json');
 const bot = new Twit(config);
 
-data.map((municipality, index) => {
-  setTimeout(() => {
-    createImages(municipality)
-  }, index * 600000)
-})
+createImages(data[0]);
+setInterval(
+  (index => () => {
+    createImages(data[index]);
+    index++;
+  })(1),
+  21600000
+);
 
 function createImages(element) {
   const { milnovecientos, dosmilveinte, name, percentage, province } = element
 
   const municipality = parseNameOfTheMunicipality(name);
-    const tweetText = `${name} en la provincia de #${
+  const tweetText = `${name} en la provincia de #${
       province
   }.
 En el año 1900 tenía ${milnovecientos} habitantes.
@@ -24,13 +27,15 @@ En el año 2020 tenía ${
 Ha perdido el ${
       percentage
   }% de sus habitantes.
-#despoblacion #EspañaVaciada`;
+#despoblacion #EspañaVaciada
+www.casacaida.co
+`;
 
-  const charts = ['densidad','evolucion', 'evolucion2010', 'habitantes']
+  const charts = ['densidad', 'evolucion', 'evolucion2010', 'habitantes']
 
   let stringImages = []
 
-  for(let item of charts) {
+  /*for(let item of charts) {
     const b64content = fs.readFileSync(
       `images/${item}/${municipality}.jpg`, { encoding: 'base64' }
     );
@@ -70,7 +75,7 @@ Ha perdido el ${
         }
       }
     });
-  }
+  }*/
 }
 
 function createTweet(params) {
