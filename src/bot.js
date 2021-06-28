@@ -3,13 +3,26 @@ const config = require('./config');
 const fs = require('fs');
 const data = require('../data/2020/aragon-1900-2020.json');
 const bot = new Twit(config);
+let dataFiltered = data
 
-createImages(data[0]);
+const getRandom = () => data.length * Math.random() | 0
+
+function randomItem() {
+  const item = getRandom()
+  const { published } = dataFiltered[item]
+  if (!published) {
+    dataFiltered[item].published = true
+    dataFiltered.splice(dataFiltered.findIndex(({ published }) => published), 1)
+    createImages(dataFiltered[item])
+  } else {
+    randomItem()
+  }
+}
+
 setInterval(
-  (index => () => {
-    createImages(data[index]);
-    index++;
-  })(1),
+  (() => {
+    randomItem()
+  }),
   21600000
 );
 
@@ -35,7 +48,7 @@ www.casacaida.co
 
   let stringImages = []
 
-  /*for(let item of charts) {
+  for(let item of charts) {
     const b64content = fs.readFileSync(
       `images/${item}/${municipality}.jpg`, { encoding: 'base64' }
     );
@@ -75,7 +88,7 @@ www.casacaida.co
         }
       }
     });
-  }*/
+  }
 }
 
 function createTweet(params) {

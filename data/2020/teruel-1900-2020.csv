@@ -1,237 +1,228 @@
-cp,name,1900,2020,percentage
-44001,Ababuj,459,77,83.22
-44002,Abejuela,698,50,92.83
-44003,Aguatón,181,19,89.50
-44004,Aguaviva,1781,516,71.02
-44005,Aguilar del Alfambra,524,69,86.83
-44006,Alacón,931,238,74.43
-44007,Alba,634,165,73.97
-44008,Albalate del Arzobispo,4291,1972,54.04
-44009,Albarracín,1932,1006,47.92
-44010,Albentosa,1003,289,71.18
-44011,Alcaine,1103,53,95.19
-44012,Alcalá de la Selva,1648,331,79.91
-44013,Alcañiz,7699,16006,+107.89
-44014,Alcorisa,3119,3298,+5.73
-44016,Alfambra,1355,482,64.42
-44017,Aliaga,1754,326,81.41
-44018,Almohaja,243,124,48.97
-44019,Alobras,546,572,+4.76
-44020,Alpeñés,224,24,89.28
-44021,Allepuz,1040,14,98.65
-44022,Alloza,1773,64,96.39
-44023,Allueva,216,21,90.27
-44024,Anadón,355,32,90.98
-44025,Andorra,2704,7345,+171.63
-44026,Arcos de las Salinas,1353,118,91.27
-44027,Arens de Lledó,759,205,72.99
-44028,Argente,716,193,73.04
-44029,Ariño,1366,714,47.73
-44031,Azaila,742,93,87.46
-44032,Bádenas,454,19,95.81
-44033,Báguena,1420,285,79.92
-44034,Bañón,693,146,78.93
-44035,Barrachina,697,109,84.36
-44036,Bea,170,29,82.94
-44037,Beceite,2252,531,76.42
-44038,Belmonte de San José,817,219,73.19
-44039,Bello,989,123,87.56
-44040,Berge,816,241,70.46
-44041,Bezas,357,67,81.23
-44042,Blancas,859,125,85.44
-44043,Blesa,1325,92,93.05
-44044,Bordón,586,105,82.08
-44045,Bronchales,950,417,56.10
-44046,Bueña,352,49,86.07
-44047,Burbáguena,1350,211,84.37
-44048,Cabra de Mora,563,51,90.94
-44049,Calaceite,2579,978,62.07
-44050,Calamocha,6017,4429,26.39
-44051,Calanda,3924,3822,2.59
-44052,Calomarde,422,74,82.46
-44053,Camañas,450,133,70.44
-44054,Camarena de la Sierra,882,107,87.86
-44055,Camarillas,816,92,88.72
-44056,Caminreal,1349,615,54.41
-44059,Cantavieja,1962,729,62.84
-44060,Cañada de Benatanduz,642,33,94.85
-44061,La Cañada de Verich,287,92,67.94
-44062,Cañada Vellida,201,36,82.08
-44063,Cañizar del Olivar,507,100,80.27
-44064,Cascante del Río,574,67,88.32
-44065,Castejón de Tornos,475,55,88.42
-44066,Castel de Cabra,623,93,85.07
-44067,Castelnou,680,55,91.91
-44068,Castelserás,2177,676,68.94
-44070,El Castellar,489,134,72.59
-44071,Castellote,5122,800,84.38
-44074,Cedrillas,957,639,33.22
-44075,Celadas,876,367,58.10
-44076,Cella,2567,2571,+.15
-44077,La Cerollera,450,88,80.44
-44080,La Codoñera,1342,319,76.22
-44082,Corbalán,484,109,77.47
-44084,Cortes de Aragón,492,60,87.80
-44085,Cosa,385,51,86.75
-44086,Cretas,1562,554,64.53
-44087,Crivillén,937,86,90.82
-44088,La Cuba,357,43,87.95
-44089,Cubla,363,55,84.84
-44090,Cucalón,525,78,85.14
-44092,El Cuervo,576,80,86.11
-44093,Cuevas de Almudén,243,118,51.44
-44094,Cuevas Labradas,401,137,65.83
-44096,Ejulve,1291,177,86.28
-44097,Escorihuela,493,136,72.41
-44099,Escucha,707,801,+13.29
-44100,Estercuel,964,205,78.73
-44101,Ferreruela de Huerva,262,64,75.57
-44102,Fonfría,205,26,87.31
-44103,Formiche Alto,1029,148,85.61
-44105,Fórnoles,742,74,90.02
-44106,Fortanete,1570,202,87.13
-44107,Foz-Calanda,786,258,67.17
-44108,La Fresneda,1799,443,75.37
-44109,Frías de Albarracín,665,104,84.36
-44110,Fuenferrada,402,36,91.04
-44111,Fuentes Calientes,243,91,62.55
-44112,Fuentes Claras,1123,445,60.37
-44113,Fuentes de Rubielos,895,124,86.14
-44114,Fuentespalda,927,282,69.57
-44115,Galve,468,160,65.81
-44116,Gargallo,644,97,84.93
-44117,Gea de Albarracín,1168,370,68.32
-44118,La Ginebrosa,1116,197,82.34
-44119,Griegos,415,138,66.74
-44120,Guadalaviar,492,244,50.40
-44121,Gúdar,730,77,89.45
-44122,Híjar,3330,1754,47.32
-44123,Hinojosa de Jarque,546,112,79.48
-44124,La Hoz de la Vieja,924,81,91.23
-44125,Huesa del Común,1284,69,94.62
-44126,La Iglesuela del Cid,1485,402,72.92
-44127,Jabaloyas,934,59,93.68
-44128,Jarque de la Val,277,62,77.61
-44129,Jatiel,255,39,84.70
-44130,Jorcas,462,29,93.72
-44131,Josa,615,34,94.47
-44132,Lagueruela,252,69,72.61
-44133,Lanzuela,243,22,90.94
-44135,Libros,607,100,83.52
-44136,Lidón,308,54,82.46
-44137,Linares de Mora,1592,225,85.86
-44138,Loscos,1507,155,89.71
-44141,Lledó,580,125,78.44
-44142,Maicas,391,31,92.07
-44143,Manzanera,2750,516,81.23
-44144,Martín del Río,729,387,46.91
-44145,Mas de las Matas,1981,1258,36.49
-44146,La Mata de los Olmos,458,261,43.01
-44147,Mazaleón,1403,511,63.57
-44148,Mezquita de Jarque,327,89,72.78
-44149,Mirambel,835,116,86.10
-44150,Miravete de la Sierra,486,38,92.18
-44151,Molinos,1405,222,84.19
-44152,Monforte de Moyuela,694,71,89.76
-44153,Monreal del Campo,2330,2487,+6.73
-44154,Monroyo,1284,332,74.14
-44155,Montalbán,2020,1245,38.36
-44156,Monteagudo del Castillo,489,49,89.97
-44157,Monterde de Albarracín,488,56,88.52
-44158,Mora de Rubielos,3213,1512,52.94
-44159,Moscardón,494,55,88.86
-44160,Mosqueruela,3103,532,82.85
-44161,Muniesa,1860,583,68.65
-44163,Noguera de Albarracín,489,139,71.57
-44164,Nogueras,359,21,94.15
-44165,Nogueruelas,1156,210,81.83
-44167,Obón,1257,34,97.29
-44168,Odón,974,203,79.15
-44169,Ojos Negros,1436,341,76.25
-44171,Olba,1802,233,87.06
-44172,Oliete,2146,343,84.01
-44173,Los Olmos,600,118,80.33
-44174,Orihuela del Tremedal,945,450,52.38
-44175,Orrios,430,128,70.23
-44176,Palomar de Arroyos,612,170,72.22
-44177,Pancrudo,1000,119,88.10
-44178,Las Parras de Castellote,1107,55,95.03
-44179,Peñarroya de Tastavins,1702,446,73.79
-44180,Peracense,385,77,80.00
-44181,Peralejos,286,83,70.97
-44182,Perales del Alfambra,817,236,71.11
-44183,Pitarque,938,68,92.75
-44184,Plou,529,50,90.54
-44185,El Pobo,497,108,78.26
-44187,La Portellada,860,236,72.55
-44189,Pozondón,539,43,92.02
-44190,Pozuel del Campo,598,63,89.46
-44191,La Puebla de Híjar,1921,899,53.20
-44192,La Puebla de Valverde,1982,451,77.24
-44193,Puertomingalvo,1271,117,90.79
-44194,Ráfales,859,139,83.81
-44195,Rillo,502,85,83.06
-44196,Riodeva,716,134,81.28
-44197,Ródenas,415,62,85.06
-44198,Royuela,459,210,54.24
-44199,Rubiales,290,49,83.10
-44200,Rubielos de la Cérida,501,39,92.21
-44201,Rubielos de Mora,2284,635,72.19
-44203,Salcedillo,155,11,92.90
-44204,Saldón,435,24,94.48
-44205,Samper de Calanda,2647,721,72.76
-44206,San Agustín,1204,123,89.78
-44207,San Martín del Río,1330,132,90.07
-44208,Santa Cruz de Nogueras,346,30,91.32
-44209,Santa Eulalia,1164,1050,9.79
-44210,Sarrión,2233,1148,48.58
-44211,Segura de los Baños,795,41,94.84
-44212,Seno,453,39,91.39
-44213,Singra,399,83,79.19
-44215,Terriente,1109,180,83.76
-44216,Teruel,12745,36240,+184.34
-44217,Toril y Masegoso,366,33,90.98
-44218,Tormón,303,25,91.74
-44219,Tornos,578,202,65.05
-44220,Torralba de los Sisones,608,157,74.17
-44221,Torrecilla de Alcañiz,1105,94,91.49
-44222,Torrecilla del Rebollar,891,29,96.74
-44223,Torre de Arcas,485,117,75.87
-44224,Torre de las Arcas,545,83,84.77
-44225,Torre del Compte,748,439,41.31
-44226,Torrelacárcel,521,123,76.39
-44227,Torre los Negros,456,143,68.64
-44228,Torremocha de Jiloca,420,107,74.52
-44229,Torres de Albarracín,591,185,68.69
-44230,Torrevelilla,776,170,78.09
-44231,Torrijas,689,43,93.75
-44232,Torrijo del Campo,1308,447,65.82
-44234,Tramacastiel,668,67,89.97
-44235,Tramacastilla,455,104,77.14
-44236,Tronchón,997,68,93.17
-44237,Urrea de Gaén,1195,427,64.26
-44238,Utrillas,712,3006,+322.19
-44239,Valacloche,219,20,90.86
-44240,Valbona,675,172,74.51
-44241,Valdealgorfa,1665,595,64.26
-44243,Valdecuenca,320,32,90.00
-44244,Valdelinares,825,92,88.84
-44245,Valdeltormo,699,281,59.79
-44246,Valderrobres,3058,2435,20.37
-44247,Valjunquera,1225,338,72.40
-44249,El Vallecillo,467,44,90.57
-44250,Veguillas de la Sierra,292,21,92.80
-44251,Villafranca del Campo,988,285,71.15
-44252,Villahermosa del Campo,236,83,64.83
-44256,Villanueva del Rebollar de la Sierra,309,42,86.40
-44257,Villar del Cobo,596,160,73.15
-44258,Villar del Salz,412,61,85.19
-44260,Villarluengo,2128,171,91.96
-44261,Villarquemado,872,841,3.55
-44262,Villarroya de los Pinares,1095,161,85.29
-44263,Villastar,737,507,31.20
-44264,Villel,1182,333,71.82
-44265,Vinaceite,544,231,57.53
-44266,Visiedo,656,131,80.03
-44267,Vivel del Río Martín,946,72,92.38
-44268,La Zoma,181,32,82.32
+name,1900,2020,province,percentage
+Abejuela,698,50,Teruel,92.83
+Aguatón,181,19,Teruel,89.50
+Aguaviva,1781,516,Teruel,71.02
+Aguilar del Alfambra,524,69,Teruel,86.83
+Alacón,931,238,Teruel,74.43
+Alba,634,165,Teruel,73.97
+Albalate del Arzobispo,4291,1972,Teruel,54.04
+Albarracín,1932,1006,Teruel,47.92
+Albentosa,1003,289,Teruel,71.18
+Alcaine,1103,53,Teruel,95.19
+Alcalá de la Selva,1648,331,Teruel,79.91
+Alfambra,1355,482,Teruel,64.42
+Aliaga,1754,326,Teruel,81.41
+Allepuz,1040,124,Teruel,88.07
+Alloza,1773,572,Teruel,67.73
+Allueva,216,24,Teruel,88.88
+Almohaja,243,14,Teruel,94.23
+Alobras,546,64,Teruel,88.27
+Alpeñés,224,21,Teruel,90.62
+Anadón,355,32,Teruel,90.98
+Arcos de las Salinas,1353,118,Teruel,91.27
+Arens de Lledó,759,205,Teruel,72.99
+Argente,716,193,Teruel,73.04
+Ariño,1366,714,Teruel,47.73
+Azaila,742,93,Teruel,87.46
+Barrachina,697,109,Teruel,84.36
+Bañón,693,146,Teruel,78.93
+Bea,170,29,Teruel,82.94
+Beceite,2252,531,Teruel,76.42
+Bello,989,219,Teruel,77.85
+Belmonte de San José,817,123,Teruel,84.94
+Berge,816,241,Teruel,70.46
+Bezas,357,67,Teruel,81.23
+Blancas,859,125,Teruel,85.44
+Blesa,1325,92,Teruel,93.05
+Bordón,586,105,Teruel,82.08
+Bronchales,950,417,Teruel,56.10
+Bueña,352,49,Teruel,86.07
+Burbáguena,1350,211,Teruel,84.37
+Bádenas,454,19,Teruel,95.81
+Báguena,1420,285,Teruel,79.92
+Cabra de Mora,563,51,Teruel,90.94
+Calaceite,2579,978,Teruel,62.07
+Calamocha,6017,4429,Teruel,26.39
+Calanda,3924,3822,Teruel,2.59
+Calomarde,422,74,Teruel,82.46
+Camarena de la Sierra,882,107,Teruel,87.86
+Camarillas,816,92,Teruel,88.72
+Camañas,450,133,Teruel,70.44
+Caminreal,1349,615,Teruel,54.41
+Cantavieja,1962,729,Teruel,62.84
+Cascante del Río,574,67,Teruel,88.32
+Castejón de Tornos,475,55,Teruel,88.42
+Castel de Cabra,623,93,Teruel,85.07
+Castellote,5122,676,Teruel,86.80
+Castelnou,680,134,Teruel,80.29
+Castelserás,2177,800,Teruel,63.25
+Cañada Vellida,201,36,Teruel,82.08
+Cañada de Benatanduz,642,33,Teruel,94.85
+Cañizar del Olivar,507,100,Teruel,80.27
+Cedrillas,957,639,Teruel,33.22
+Celadas,876,367,Teruel,58.10
+Corbalán,484,109,Teruel,77.47
+Cortes de Aragón,492,60,Teruel,87.80
+Cosa,385,51,Teruel,86.75
+Cretas,1562,554,Teruel,64.53
+Crivillén,937,86,Teruel,90.82
+Cubla,363,55,Teruel,84.84
+Cucalón,525,78,Teruel,85.14
+Cuevas Labradas,401,137,Teruel,65.83
+Cuevas de Almudén,243,118,Teruel,51.44
+Ejulve,1291,177,Teruel,86.28
+El Castellar,489,55,Teruel,88.75
+El Cuervo,576,80,Teruel,86.11
+El Pobo,497,108,Teruel,78.26
+El Vallecillo,467,44,Teruel,90.57
+Escorihuela,493,136,Teruel,72.41
+Estercuel,964,205,Teruel,78.73
+Ferreruela de Huerva,262,64,Teruel,75.57
+Fonfría,205,26,Teruel,87.31
+Formiche Alto,1029,148,Teruel,85.61
+Fortanete,1570,202,Teruel,87.13
+Foz-Calanda,786,258,Teruel,67.17
+Frías de Albarracín,665,104,Teruel,84.36
+Fuenferrada,402,36,Teruel,91.04
+Fuentes Calientes,243,91,Teruel,62.55
+Fuentes Claras,1123,445,Teruel,60.37
+Fuentes de Rubielos,895,124,Teruel,86.14
+Fuentespalda,927,282,Teruel,69.57
+Fórnoles,742,74,Teruel,90.02
+Galve,468,160,Teruel,65.81
+Gargallo,644,97,Teruel,84.93
+Gea de Albarracín,1168,370,Teruel,68.32
+Griegos,415,138,Teruel,66.74
+Guadalaviar,492,244,Teruel,50.40
+Gúdar,730,77,Teruel,89.45
+Hinojosa de Jarque,546,112,Teruel,79.48
+Huesa del Común,1284,69,Teruel,94.62
+Híjar,3330,1754,Teruel,47.32
+Jabaloyas,934,59,Teruel,93.68
+Jarque de la Val,277,62,Teruel,77.61
+Jatiel,255,39,Teruel,84.70
+Jorcas,462,29,Teruel,93.72
+Josa,615,34,Teruel,94.47
+La Cañada de Verich,287,92,Teruel,67.94
+La Cerollera,450,88,Teruel,80.44
+La Codoñera,1342,319,Teruel,76.22
+La Cuba,357,43,Teruel,87.95
+La Fresneda,1799,443,Teruel,75.37
+La Ginebrosa,1116,197,Teruel,82.34
+La Hoz de la Vieja,924,81,Teruel,91.23
+La Iglesuela del Cid,1485,402,Teruel,72.92
+La Mata de los Olmos,458,261,Teruel,43.01
+La Portellada,860,236,Teruel,72.55
+La Puebla de Híjar,1921,899,Teruel,53.20
+La Puebla de Valverde,1982,451,Teruel,77.24
+La Zoma,181,32,Teruel,82.32
+Lagueruela,252,69,Teruel,72.61
+Lanzuela,243,22,Teruel,90.94
+Las Parras de Castellote,1107,55,Teruel,95.03
+Libros,607,100,Teruel,83.52
+Lidón,308,54,Teruel,82.46
+Linares de Mora,1592,225,Teruel,85.86
+Lledó,580,155,Teruel,73.27
+Los Olmos,600,118,Teruel,80.33
+Loscos,1507,125,Teruel,91.70
+Maicas,391,31,Teruel,92.07
+Manzanera,2750,516,Teruel,81.23
+Martín del Río,729,387,Teruel,46.91
+Mas de las Matas,1981,1258,Teruel,36.49
+Mazaleón,1403,511,Teruel,63.57
+Mezquita de Jarque,327,89,Teruel,72.78
+Mirambel,835,116,Teruel,86.10
+Miravete de la Sierra,486,38,Teruel,92.18
+Molinos,1405,222,Teruel,84.19
+Monforte de Moyuela,694,71,Teruel,89.76
+Monroyo,1284,332,Teruel,74.14
+Montalbán,2020,1245,Teruel,38.36
+Monteagudo del Castillo,489,49,Teruel,89.97
+Monterde de Albarracín,488,56,Teruel,88.52
+Mora de Rubielos,3213,1512,Teruel,52.94
+Moscardón,494,55,Teruel,88.86
+Mosqueruela,3103,532,Teruel,82.85
+Muniesa,1860,583,Teruel,68.65
+Noguera de Albarracín,489,139,Teruel,71.57
+Nogueras,359,21,Teruel,94.15
+Nogueruelas,1156,210,Teruel,81.83
+Obón,1257,34,Teruel,97.29
+Odón,974,203,Teruel,79.15
+Ojos Negros,1436,341,Teruel,76.25
+Olba,1802,233,Teruel,87.06
+Oliete,2146,343,Teruel,84.01
+Orihuela del Tremedal,945,450,Teruel,52.38
+Orrios,430,128,Teruel,70.23
+Palomar de Arroyos,612,170,Teruel,72.22
+Pancrudo,1000,119,Teruel,88.10
+Peracense,385,77,Teruel,80.00
+Peralejos,286,83,Teruel,70.97
+Perales del Alfambra,817,236,Teruel,71.11
+Peñarroya de Tastavins,1702,446,Teruel,73.79
+Pitarque,938,68,Teruel,92.75
+Plou,529,50,Teruel,90.54
+Pozondón,539,43,Teruel,92.02
+Pozuel del Campo,598,63,Teruel,89.46
+Puertomingalvo,1271,117,Teruel,90.79
+Rillo,502,85,Teruel,83.06
+Riodeva,716,134,Teruel,81.28
+Royuela,459,210,Teruel,54.24
+Rubiales,290,49,Teruel,83.10
+Rubielos de Mora,2284,635,Teruel,72.19
+Rubielos de la Cérida,501,39,Teruel,92.21
+Ráfales,859,139,Teruel,83.81
+Ródenas,415,62,Teruel,85.06
+Salcedillo,155,11,Teruel,92.90
+Saldón,435,24,Teruel,94.48
+Samper de Calanda,2647,721,Teruel,72.76
+San Agustín,1204,123,Teruel,89.78
+San Martín del Río,1330,132,Teruel,90.07
+Santa Cruz de Nogueras,346,30,Teruel,91.32
+Santa Eulalia,1164,1050,Teruel,9.79
+Sarrión,2233,1148,Teruel,48.58
+Segura de los Baños,795,41,Teruel,94.84
+Seno,453,39,Teruel,91.39
+Singra,399,83,Teruel,79.19
+Terriente,1109,180,Teruel,83.76
+Toril y Masegoso,366,33,Teruel,90.98
+Tormón,303,25,Teruel,91.74
+Tornos,578,202,Teruel,65.05
+Torralba de los Sisones,608,157,Teruel,74.17
+Torre de Arcas,485,94,Teruel,80.61
+Torre de las Arcas,545,29,Teruel,94.67
+Torre del Compte,748,117,Teruel,84.35
+Torre los Negros,456,83,Teruel,81.79
+Torrecilla de Alcañiz,1105,439,Teruel,60.27
+Torrecilla del Rebollar,891,123,Teruel,86.19
+Torrelacárcel,521,143,Teruel,72.55
+Torremocha de Jiloca,420,107,Teruel,74.52
+Torres de Albarracín,591,185,Teruel,68.69
+Torrevelilla,776,170,Teruel,78.09
+Torrijas,689,43,Teruel,93.75
+Torrijo del Campo,1308,447,Teruel,65.82
+Tramacastiel,668,67,Teruel,89.97
+Tramacastilla,455,104,Teruel,77.14
+Tronchón,997,68,Teruel,93.17
+Urrea de Gaén,1195,427,Teruel,64.26
+Valacloche,219,20,Teruel,90.86
+Valbona,675,172,Teruel,74.51
+Valdealgorfa,1665,595,Teruel,64.26
+Valdecuenca,320,32,Teruel,90.00
+Valdelinares,825,92,Teruel,88.84
+Valdeltormo,699,281,Teruel,59.79
+Valderrobres,3058,2435,Teruel,20.37
+Valjunquera,1225,338,Teruel,72.40
+Veguillas de la Sierra,292,21,Teruel,92.80
+Villafranca del Campo,988,285,Teruel,71.15
+Villahermosa del Campo,236,83,Teruel,64.83
+Villanueva del Rebollar de la Sierra,309,42,Teruel,86.40
+Villar del Cobo,596,160,Teruel,73.15
+Villar del Salz,412,61,Teruel,85.19
+Villarluengo,2128,171,Teruel,91.96
+Villarquemado,872,841,Teruel,3.55
+Villarroya de los Pinares,1095,161,Teruel,85.29
+Villastar,737,507,Teruel,31.20
+Villel,1182,333,Teruel,71.82
+Vinaceite,544,231,Teruel,57.53
+Visiedo,656,131,Teruel,80.03
+Vivel del Río Martín,946,72,Teruel,92.38

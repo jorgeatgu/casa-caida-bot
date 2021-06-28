@@ -1,202 +1,180 @@
-cp,name,1900,2020,percentage
-22001,Abiego,1383,258,81.34
-22002,Abizanda,463,139,69.97
-22003,Adahuesca,725,180,75.17
-22004,Agüero,1182,125,89.42
-22006,Aisa,733,313,57.29
-22007,Albalate de Cinca,1519,1099,27.64
-22008,Albalatillo,464,163,64.87
-22009,Albelda,1213,708,41.63
-22011,Albero Alto,360,120,66.66
-22012,Albero Bajo,205,132,35.60
-22013,Alberuela de Tubo,238,290,+21.84
-22014,Alcalá de Gurrea,638,239,62.53
-22015,Alcalá del Obispo,1328,298,77.56
-22016,Alcampell,1983,623,68.58
-22017,Alcolea de Cinca,2409,1177,51.14
-22018,Alcubierre,1530,362,76.33
-22019,Alerre,227,200,11.89
-22020,Alfántega,309,130,57.92
-22021,Almudévar,2983,2377,20.31
-22022,Almunia de San Juan,954,666,30.18
-22023,Almuniente,512,457,10.74
-22024,Alquézar,1313,312,76.23
-22025,Altorricón,532,1420,+166.91
-22027,Angüés,1912,353,81.53
-22028,Ansó,1549,386,75.08
-22029,Antillón,393,135,65.64
-22032,Aragüés del Puerto,546,111,79.67
-22035,Arén,2119,308,85.46
-22036,Argavieso,322,95,70.49
-22037,Arguis,570,125,78.07
-22039,Ayerbe,2609,1017,61.01
-22040,Azanuy-Alins,1221,170,86.07
-22041,Azara,513,157,69.39
-22042,Azlor,537,138,74.30
-22043,Baélls,737,97,86.83
-22044,Bailo,1488,261,82.45
-22045,Baldellou,813,64,92.12
-22046,Ballobar,2333,833,64.29
-22047,Banastás,113,310,+174.33
-22048,Barbastro,7301,17174,+135.22
-22049,Barbués,218,86,60.55
-22050,Barbuñales,425,96,77.41
-22051,Bárcabo,829,102,87.69
-22052,Belver de Cinca,1666,1301,21.90
-22053,Benabarre,2887,1142,60.44
-22054,Benasque,1598,2184,+36.67
-22055,Berbegal,1109,327,70.51
-22057,Bielsa,971,448,53.86
-22058,Bierge,1581,252,84.06
-22059,Biescas,3509,1474,57.99
-22060,Binaced,1774,1605,9.52
-22061,Binéfar,1556,9742,+526.09
-22062,Bisaurri,813,171,78.96
-22063,Biscarrués,810,182,77.53
-22064,Blecua y Torres,769,173,77.50
-22066,Boltaña,1926,1045,45.74
-22067,Bonansa,421,87,79.33
-22068,Borau,460,70,84.78
-22069,Broto,1758,538,69.39
-22072,Caldearenas,1483,226,84.76
-22074,Campo,806,436,45.90
-22075,Camporrélls,997,127,87.26
-22076,Canal de Berdún,2022,323,84.02
-22077,Candasnos,1063,419,60.58
-22078,Canfranc,770,558,27.53
-22079,Capdesaso,490,211,56.93
-22080,Capella,1008,360,64.28
-22081,Casbas de Huesca,2195,275,87.47
-22082,Castejón del Puente,621,312,49.75
-22083,Castejón de Monegros,1594,510,68.00
-22084,Castejón de Sos,813,764,6.02
-22085,Castelflorite,247,103,58.29
-22086,Castiello de Jaca,523,221,57.74
-22087,Castigaleu,266,79,70.30
-22088,Castillazuelo,757,153,79.78
-22089,Castillonroy,863,318,63.15
-22090,Colungo,702,117,83.33
-22094,Chalamera,427,113,73.53
-22095,Chía,602,83,86.21
-22096,Chimillas,189,402,+112.69
-22099,Esplús,549,632,+15.11
-22102,Estada,524,199,62.02
-22103,Estadilla,1752,796,54.56
-22105,Estopiñán del Castillo,1486,121,91.85
-22106,Fago,419,20,95.22
-22107,Fanlo,1065,100,90.61
-22109,Fiscal,2505,331,86.78
-22110,Fonz,2006,851,57.57
-22111,Foradada del Toscar,665,162,75.63
-22112,Fraga,6934,15353,+121.41
-22113,La Fueva,2691,600,77.70
-22114,Gistaín,444,147,66.89
-22115,El Grado,1605,395,75.38
-22116,Grañén,1431,1738,+21.45
-22117,Graus,6259,3365,46.23
-22119,Gurrea de Gállego,1401,1476,+5.35
-22122,Hoz de Jaca,160,73,54.37
-22124,Huerto,970,213,78.04
-22125,Huesca,13683,53956,+294.32
-22126,Ibieca,417,100,76.01
-22127,Igriés,446,695,+55.82
-22128,Ilche,720,197,72.63
-22129,Isábena,1246,231,81.46
-22130,Jaca,8964,13129,+46.46
-22131,Jasa,467,96,79.44
-22133,Labuerda,425,155,63.52
-22135,Laluenga,794,191,75.94
-22136,Lalueza,867,892,+2.88
-22137,Lanaja,1839,1163,36.75
-22139,Laperdiguera,369,92,75.06
-22141,Lascellas-Ponzano,996,130,86.94
-22142,Lascuarre,581,139,76.07
-22143,Laspaúles,1065,205,80.75
-22144,Laspuña,501,297,40.71
-22149,Loarre,1771,323,81.76
-22150,Loporzano,3139,514,83.62
-22151,Loscorrales,371,93,74.93
-22155,Monesma y Cajigar,513,72,85.96
-22156,Monflorite-Lascasas,452,405,10.39
-22157,Montanuy,1395,210,84.94
-22158,Monzón,5037,17469,+246.81
-22160,Naval,1550,265,82.90
-22162,Novales,400,152,62.00
-22163,Nueno,1249,546,56.28
-22164,Olvena,384,56,85.41
-22165,Ontiñena,1862,508,72.71
-22167,Osso de Cinca,728,678,6.86
-22168,Palo,288,26,90.97
-22170,Panticosa,889,800,10.01
-22172,Peñalba,1158,644,44.38
-22173,Las Peñas de Riglos,2226,247,88.90
-22174,Peralta de Alcofea,2207,563,74.49
-22175,Peralta de Calasanz,2404,210,91.26
-22176,Peraltilla,439,209,52.39
-22177,Perarrúa,689,106,84.61
-22178,Pertusa,705,120,82.97
-22181,Piracés,242,100,58.67
-22182,Plan,1124,273,75.71
-22184,Poleñino,512,210,58.98
-22186,Pozán de Vero,885,214,75.81
-22187,La Puebla de Castro,887,377,57.49
-22188,Puente de Montañana,822,93,88.68
-22189,Puértolas,1049,213,79.69
-22190,El Pueyo de Araguás,492,161,67.27
-22193,Pueyo de Santa Cruz,420,331,21.19
-22195,Quicena,259,282,+8.88
-22197,Robres,1064,514,51.69
-22199,Sabiñánigo,4884,9185,+88.06
-22200,Sahún,871,303,65.21
-22201,Salas Altas,998,306,69.33
-22202,Salas Bajas,601,185,69.21
-22203,Salillas,367,91,75.20
-22204,Sallent de Gállego,1420,1477,+4.01
-22205,San Esteban de Litera,1532,547,64.29
-22206,Sangarrén,509,221,56.58
-22207,San Juan de Plan,361,150,58.44
-22208,Santa Cilia,567,243,57.14
-22209,Santa Cruz de la Serós,422,188,55.45
-22212,Santaliestra y San Quílez,366,80,78.14
-22213,Sariñena,4029,4184,+3.84
-22214,Secastilla,850,140,83.52
-22215,Seira,311,145,53.37
-22217,Sena,1071,501,53.22
-22218,Senés de Alcubierre,143,40,72.02
-22220,Sesa,881,154,82.51
-22221,Sesué,360,122,66.11
-22222,Siétamo,1584,689,56.50
-22223,Sopeira,889,91,89.76
-22225,Tamarite de Litera,3517,3487,.85
-22226,Tardienta,1531,948,38.07
-22227,Tella-Sin,717,225,68.61
-22228,Tierz,310,781,+151.93
-22229,Tolva,962,122,87.31
-22230,Torla-Ordesa,988,298,69.83
-22232,Torralba de Aragón,443,113,74.49
-22233,Torre la Ribera,362,96,73.48
-22234,Torrente de Cinca,1382,1327,3.97
-22235,Torres de Alcanadre,499,82,83.56
-22236,Torres de Barbués,202,251,+24.25
-22239,Tramaced,111,98,11.71
-22242,Valfarta,309,63,79.61
-22243,Valle de Bardají,221,40,81.90
-22244,Valle de Lierp,212,51,75.94
-22245,Velilla de Cinca,1089,460,57.75
-22246,Beranuy,651,75,88.47
-22247,Viacamp y Litera,820,37,95.48
-22248,Vicién,374,110,70.58
-22249,Villanova,279,174,37.63
-22250,Villanúa,959,451,52.97
-22251,Villanueva de Sigena,900,384,57.33
-22252,Yebra de Basa,867,142,83.62
-22253,Yésero,288,57,80.20
-22254,Zaidín,1907,1798,5.71
-22901,Valle de Hecho,2935,817,72.16
-22902,Puente la Reina de Jaca,848,245,71.10
-22903,San Miguel del Cinca,1922,780,59.41
-22904,La Sotonera,3972,859,78.37
-22905,Lupiñén-Ortilla,1138,335,70.56
-22906,Santa María de Dulcis,644,205,68.16
-22907,Aínsa-Sobrarbe,3680,2242,39.07
-22908,Hoz y Costean,1390,221,84.10
+name,2020,1900,province,percentage
+Abiego,258,1383,Huesca,81.34
+Abizanda,139,463,Huesca,69.97
+Adahuesca,180,725,Huesca,75.17
+Agüero,125,1182,Huesca,89.42
+Aisa,313,733,Huesca,57.29
+Albalate de Cinca,1099,1519,Huesca,27.64
+Albalatillo,163,464,Huesca,64.87
+Albelda,708,1213,Huesca,41.63
+Albero Alto,120,360,Huesca,66.66
+Albero Bajo,132,205,Huesca,35.60
+Alcalá de Gurrea,239,638,Huesca,62.53
+Alcalá del Obispo,298,1328,Huesca,77.56
+Alcampell,623,1983,Huesca,68.58
+Alcolea de Cinca,1177,2409,Huesca,51.14
+Alcubierre,362,1530,Huesca,76.33
+Alerre,200,227,Huesca,11.89
+Alfántega,130,309,Huesca,57.92
+Almudévar,2377,2983,Huesca,20.31
+Almunia de San Juan,666,954,Huesca,30.18
+Almuniente,457,512,Huesca,10.74
+Alquézar,312,1313,Huesca,76.23
+Angüés,353,1912,Huesca,81.53
+Ansó,386,1549,Huesca,75.08
+Antillón,135,393,Huesca,65.64
+Aragüés del Puerto,111,546,Huesca,79.67
+Argavieso,95,322,Huesca,70.49
+Arguis,125,570,Huesca,78.07
+Arén,308,2119,Huesca,85.46
+Ayerbe,1017,2609,Huesca,61.01
+Azanuy-Alins,170,1221,Huesca,86.07
+Azara,157,513,Huesca,69.39
+Azlor,138,537,Huesca,74.30
+Aínsa-Sobrarbe,2242,3680,Huesca,39.07
+Bailo,261,1488,Huesca,82.45
+Baldellou,64,813,Huesca,92.12
+Ballobar,833,2333,Huesca,64.29
+Barbués,86,218,Huesca,60.55
+Barbuñales,96,425,Huesca,77.41
+Baélls,97,737,Huesca,86.83
+Belver de Cinca,1301,1666,Huesca,21.90
+Benabarre,1142,2887,Huesca,60.44
+Beranuy,75,651,Huesca,88.47
+Berbegal,327,1109,Huesca,70.51
+Bielsa,448,971,Huesca,53.86
+Bierge,252,1581,Huesca,84.06
+Biescas,1474,3509,Huesca,57.99
+Binaced,1605,1774,Huesca,9.52
+Bisaurri,171,813,Huesca,78.96
+Biscarrués,182,810,Huesca,77.53
+Blecua y Torres,173,769,Huesca,77.50
+Boltaña,1045,1926,Huesca,45.74
+Bonansa,87,421,Huesca,79.33
+Borau,70,460,Huesca,84.78
+Broto,538,1758,Huesca,69.39
+Bárcabo,102,829,Huesca,87.69
+Caldearenas,226,1483,Huesca,84.76
+Campo,436,806,Huesca,45.90
+Camporrélls,127,997,Huesca,87.26
+Canal de Berdún,323,2022,Huesca,84.02
+Candasnos,419,1063,Huesca,60.58
+Canfranc,558,770,Huesca,27.53
+Capdesaso,211,490,Huesca,56.93
+Capella,360,1008,Huesca,64.28
+Casbas de Huesca,275,2195,Huesca,87.47
+Castejón de Monegros,510,1594,Huesca,68.00
+Castejón de Sos,764,813,Huesca,6.02
+Castejón del Puente,312,621,Huesca,49.75
+Castelflorite,103,247,Huesca,58.29
+Castiello de Jaca,221,523,Huesca,57.74
+Castigaleu,79,266,Huesca,70.30
+Castillazuelo,153,757,Huesca,79.78
+Castillonroy,318,863,Huesca,63.15
+Chalamera,113,427,Huesca,73.53
+Chía,83,602,Huesca,86.21
+Colungo,117,702,Huesca,83.33
+El Grado,395,1605,Huesca,75.38
+El Pueyo de Araguás,161,492,Huesca,67.27
+Estada,199,524,Huesca,62.02
+Estadilla,796,1752,Huesca,54.56
+Estopiñán del Castillo,121,1486,Huesca,91.85
+Fago,20,419,Huesca,95.22
+Fanlo,100,1065,Huesca,90.61
+Fiscal,331,2505,Huesca,86.78
+Fonz,851,2006,Huesca,57.57
+Foradada del Toscar,162,665,Huesca,75.63
+Gistaín,147,444,Huesca,66.89
+Graus,3365,6259,Huesca,46.23
+Hoz de Jaca,73,160,Huesca,54.37
+Hoz y Costean,221,1390,Huesca,84.10
+Huerto,213,970,Huesca,78.04
+Ibieca,100,417,Huesca,76.01
+Ilche,197,720,Huesca,72.63
+Isábena,231,1246,Huesca,81.46
+Jasa,96,467,Huesca,79.44
+La Fueva,600,2691,Huesca,77.70
+La Puebla de Castro,377,887,Huesca,57.49
+La Sotonera,859,3972,Huesca,78.37
+Labuerda,155,425,Huesca,63.52
+Laluenga,191,794,Huesca,75.94
+Lanaja,1163,1839,Huesca,36.75
+Laperdiguera,92,369,Huesca,75.06
+Las Peñas de Riglos,247,2226,Huesca,88.90
+Lascellas-Ponzano,130,996,Huesca,86.94
+Lascuarre,139,581,Huesca,76.07
+Laspaúles,205,1065,Huesca,80.75
+Laspuña,297,501,Huesca,40.71
+Loarre,323,1771,Huesca,81.76
+Loporzano,514,3139,Huesca,83.62
+Loscorrales,93,371,Huesca,74.93
+Lupiñén-Ortilla,335,1138,Huesca,70.56
+Monesma y Cajigar,72,513,Huesca,85.96
+Monflorite-Lascasas,405,452,Huesca,10.39
+Montanuy,210,1395,Huesca,84.94
+Naval,265,1550,Huesca,82.90
+Novales,152,400,Huesca,62.00
+Nueno,546,1249,Huesca,56.28
+Olvena,56,384,Huesca,85.41
+Ontiñena,508,1862,Huesca,72.71
+Osso de Cinca,678,728,Huesca,6.86
+Palo,26,288,Huesca,90.97
+Panticosa,800,889,Huesca,10.01
+Peralta de Alcofea,563,2207,Huesca,74.49
+Peralta de Calasanz,210,2404,Huesca,91.26
+Peraltilla,209,439,Huesca,52.39
+Perarrúa,106,689,Huesca,84.61
+Pertusa,120,705,Huesca,82.97
+Peñalba,644,1158,Huesca,44.38
+Piracés,100,242,Huesca,58.67
+Plan,273,1124,Huesca,75.71
+Poleñino,210,512,Huesca,58.98
+Pozán de Vero,214,885,Huesca,75.81
+Puente de Montañana,93,822,Huesca,88.68
+Puente la Reina de Jaca,245,848,Huesca,71.10
+Pueyo de Santa Cruz,331,420,Huesca,21.19
+Puértolas,213,1049,Huesca,79.69
+Robres,514,1064,Huesca,51.69
+Sahún,303,871,Huesca,65.21
+Salas Altas,306,998,Huesca,69.33
+Salas Bajas,185,601,Huesca,69.21
+Salillas,91,367,Huesca,75.20
+San Esteban de Litera,547,1532,Huesca,64.29
+San Juan de Plan,150,361,Huesca,58.44
+San Miguel del Cinca,780,1922,Huesca,59.41
+Sangarrén,221,509,Huesca,56.58
+Santa Cilia,243,567,Huesca,57.14
+Santa Cruz de la Serós,188,422,Huesca,55.45
+Santa María de Dulcis,205,644,Huesca,68.16
+Santaliestra y San Quílez,80,366,Huesca,78.14
+Secastilla,140,850,Huesca,83.52
+Seira,145,311,Huesca,53.37
+Sena,501,1071,Huesca,53.22
+Senés de Alcubierre,40,143,Huesca,72.02
+Sesa,154,881,Huesca,82.51
+Sesué,122,360,Huesca,66.11
+Siétamo,689,1584,Huesca,56.50
+Sopeira,91,889,Huesca,89.76
+Tamarite de Litera,3487,3517,Huesca,.85
+Tardienta,948,1531,Huesca,38.07
+Tella-Sin,225,717,Huesca,68.61
+Tolva,122,962,Huesca,87.31
+Torla-Ordesa,298,988,Huesca,69.83
+Torralba de Aragón,113,443,Huesca,74.49
+Torre la Ribera,96,362,Huesca,73.48
+Torrente de Cinca,1327,1382,Huesca,3.97
+Torres de Alcanadre,82,499,Huesca,83.56
+Tramaced,98,111,Huesca,11.71
+Valfarta,63,309,Huesca,79.61
+Valle de Bardají,40,221,Huesca,81.90
+Valle de Hecho,817,2935,Huesca,72.16
+Valle de Lierp,51,212,Huesca,75.94
+Velilla de Cinca,460,1089,Huesca,57.75
+Viacamp y Litera,37,820,Huesca,95.48
+Vicién,110,374,Huesca,70.58
+Villanova,174,279,Huesca,37.63
+Villanueva de Sigena,384,900,Huesca,57.33
+Villanúa,451,959,Huesca,52.97
+Yebra de Basa,142,867,Huesca,83.62
+Yésero,57,288,Huesca,80.20
+Zaidín,1798,1907,Huesca,5.71
