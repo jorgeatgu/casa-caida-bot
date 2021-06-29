@@ -1,249 +1,293 @@
-name,1900,2020,province,percentage
-Abanto,633,92,Zaragoza,85.46
-Acered,745,158,Zaragoza,78.79
-Aguarón,2275,624,Zaragoza,72.57
-Aguilón,982,233,Zaragoza,76.27
-Agón,499,138,Zaragoza,72.34
-Ainzón,2061,1064,Zaragoza,48.37
-Aladrén,353,52,Zaragoza,85.26
-Alarba,471,116,Zaragoza,75.37
-Alberite de San Juan,267,74,Zaragoza,72.28
-Albeta,318,134,Zaragoza,57.86
-Alborge,464,107,Zaragoza,76.93
-Alcalá de Ebro,386,245,Zaragoza,36.52
-Alcalá de Moncayo,370,143,Zaragoza,61.35
-Alconchel de Ariza,667,76,Zaragoza,88.60
-Aldehuela de Liestos,257,51,Zaragoza,80.15
-Alforque,387,65,Zaragoza,83.20
-Alhama de Aragón,1616,1011,Zaragoza,37.43
-Almochuel,99,24,Zaragoza,75.75
-Almonacid de la Cuba,667,230,Zaragoza,65.51
-Almonacid de la Sierra,2725,753,Zaragoza,72.36
-Alpartir,1042,568,Zaragoza,45.48
-Ambel,955,253,Zaragoza,73.50
-Anento,387,95,Zaragoza,75.45
-Aniñón,1870,684,Zaragoza,63.42
-Aranda de Moncayo,1585,145,Zaragoza,90.85
-Ardisa,484,74,Zaragoza,84.71
-Ariza,1578,1100,Zaragoza,30.29
-Artieda,269,80,Zaragoza,70.26
-Arándiga,1121,278,Zaragoza,75.20
-Asín,336,98,Zaragoza,70.83
-Atea,1225,147,Zaragoza,88.00
-Ateca,3126,1762,Zaragoza,43.63
-Azuara,2388,529,Zaragoza,77.84
-Añón de Moncayo,1106,222,Zaragoza,79.92
-Badules,440,78,Zaragoza,82.27
-Bagüés,243,16,Zaragoza,93.41
-Balconchán,178,20,Zaragoza,88.76
-Bardallur,834,254,Zaragoza,69.54
-Belchite,3333,1526,Zaragoza,54.21
-Belmonte de Gracián,997,194,Zaragoza,80.54
-Berdejo,363,40,Zaragoza,88.98
-Berrueco,232,32,Zaragoza,86.20
-Biel,1659,155,Zaragoza,90.65
-Bijuesca,833,94,Zaragoza,88.71
-Biota,1383,930,Zaragoza,32.75
-Bisimbre,291,81,Zaragoza,72.16
-Boquiñeni,920,776,Zaragoza,15.65
-Bordalba,520,52,Zaragoza,90.00
-Borja,5667,4978,Zaragoza,12.15
-Bubierca,914,65,Zaragoza,92.88
-Bujaraloz,1510,980,Zaragoza,35.09
-Bulbuente,1052,220,Zaragoza,79.08
-Bureta,685,206,Zaragoza,69.92
-Bárboles,640,282,Zaragoza,55.93
-Cabolafuente,474,53,Zaragoza,88.81
-Calcena,854,73,Zaragoza,91.45
-Calmarza,343,61,Zaragoza,82.21
-Campillo de Aragón,701,146,Zaragoza,79.17
-Carenas,1181,189,Zaragoza,83.99
-Castejón de Alarba,294,88,Zaragoza,70.06
-Castejón de Valdejasa,1095,209,Zaragoza,80.91
-Castejón de las Armas,750,78,Zaragoza,89.60
-Castiliscar,823,254,Zaragoza,69.13
-Cervera de la Cañada,904,260,Zaragoza,71.23
-Cerveruela,443,34,Zaragoza,92.32
-Cetina,1312,583,Zaragoza,55.56
-Chiprana,1425,497,Zaragoza,65.12
-Chodes,483,104,Zaragoza,78.46
-Cimballa,512,94,Zaragoza,81.64
-Cinco Olivas,570,102,Zaragoza,82.10
-Clarés de Ribota,444,67,Zaragoza,84.90
-Codo,1026,199,Zaragoza,80.60
-Codos,1122,248,Zaragoza,77.89
-Contamina,169,32,Zaragoza,81.06
-Cosuenda,1304,337,Zaragoza,74.15
-Cubel,505,155,Zaragoza,69.30
-Daroca,3493,1965,Zaragoza,43.74
-El Buste,428,71,Zaragoza,83.41
-El Frago,561,97,Zaragoza,82.70
-El Frasno,1551,379,Zaragoza,75.56
-Embid de Ariza,498,35,Zaragoza,92.97
-Encinacorba,1020,178,Zaragoza,82.54
-Erla,911,341,Zaragoza,62.56
-Escatrón,2374,1067,Zaragoza,55.05
-Fabara,2089,1109,Zaragoza,46.91
-Farlete,524,366,Zaragoza,30.15
-Fayón,1306,380,Zaragoza,70.90
-Fombuena,226,60,Zaragoza,73.45
-Fréscano,505,199,Zaragoza,60.59
-Fuendejalón,1354,784,Zaragoza,42.09
-Fuendetodos,540,145,Zaragoza,73.14
-Fuentes de Jiloca,1099,229,Zaragoza,79.16
-Gallocanta,363,136,Zaragoza,62.53
-Gallur,2847,2566,Zaragoza,9.87
-Gelsa,2096,996,Zaragoza,52.48
-Godojos,432,53,Zaragoza,87.73
-Gotor,874,302,Zaragoza,65.44
-Grisel,497,74,Zaragoza,85.11
-Herrera de los Navarros,1873,489,Zaragoza,73.89
-Ibdes,1251,395,Zaragoza,68.42
-Isuerre,347,31,Zaragoza,91.06
-Jaraba,491,282,Zaragoza,42.56
-Jarque de Moncayo,1472,417,Zaragoza,71.67
-Jaulín,361,251,Zaragoza,30.47
-La Almolda,1246,554,Zaragoza,55.53
-La Vilueña,401,62,Zaragoza,84.53
-Lagata,503,109,Zaragoza,78.33
-Langa del Castillo,599,122,Zaragoza,79.63
-Las Cuerlas,316,41,Zaragoza,87.02
-Las Pedrosas,390,86,Zaragoza,77.94
-Layana,343,94,Zaragoza,72.59
-Lechón,157,46,Zaragoza,70.70
-Leciñena,1576,1146,Zaragoza,27.28
-Letux,1074,342,Zaragoza,68.15
-Litago,634,164,Zaragoza,74.13
-Lituénigo,363,123,Zaragoza,66.11
-Lobera de Onsella,496,26,Zaragoza,94.75
-Longares,1306,883,Zaragoza,32.38
-Longás,469,32,Zaragoza,93.17
-Los Fayos,521,131,Zaragoza,74.85
-Los Pintanos,773,39,Zaragoza,94.95
-Lucena de Jalón,469,232,Zaragoza,50.53
-Luesia,1573,297,Zaragoza,81.11
-Luesma,331,37,Zaragoza,88.82
-Lumpiaque,1431,806,Zaragoza,43.67
-Luna,1761,684,Zaragoza,61.15
-Lécera,1997,631,Zaragoza,68.40
-Maella,3325,2008,Zaragoza,39.60
-Magallón,2822,1112,Zaragoza,60.59
-Mainar,471,160,Zaragoza,66.02
-Malanquilla,427,89,Zaragoza,79.15
-Maleján,535,276,Zaragoza,48.41
-Maluenda,1400,937,Zaragoza,33.07
-Malón,1230,369,Zaragoza,70.00
-Manchones,672,106,Zaragoza,84.22
-Mara,706,168,Zaragoza,76.20
-Marracos,154,84,Zaragoza,45.45
-Mediana de Aragón,1416,447,Zaragoza,68.43
-Mequinenza,2842,2279,Zaragoza,19.80
-Mesones de Isuela,613,257,Zaragoza,58.07
-Mezalocha,510,233,Zaragoza,54.31
-Mianos,221,27,Zaragoza,87.78
-Miedes de Aragón,916,415,Zaragoza,54.69
-Monegrillo,824,394,Zaragoza,52.18
-Moneva,636,114,Zaragoza,82.07
-Monreal de Ariza,680,189,Zaragoza,72.20
-Monterde,932,143,Zaragoza,84.65
-Montón,499,90,Zaragoza,81.96
-Morata de Jalón,2161,1066,Zaragoza,50.67
-Morata de Jiloca,897,276,Zaragoza,69.23
-Moros,1209,319,Zaragoza,73.61
-Morés,1168,321,Zaragoza,72.51
-Moyuela,952,265,Zaragoza,72.16
-Mozota,378,120,Zaragoza,68.25
-Munébrega,1300,363,Zaragoza,72.07
-Murero,519,96,Zaragoza,81.50
-Murillo de Gállego,1159,191,Zaragoza,83.52
-Navardún,413,36,Zaragoza,91.28
-Nigüella,270,61,Zaragoza,77.40
-Nombrevilla,262,31,Zaragoza,88.16
-Nonaspe,1681,978,Zaragoza,41.82
-Novallas,1527,825,Zaragoza,45.97
-Novillas,908,517,Zaragoza,43.06
-Nuévalos,902,285,Zaragoza,68.40
-Olvés,674,110,Zaragoza,83.67
-Orcajo,495,55,Zaragoza,88.88
-Orera,411,111,Zaragoza,72.99
-Orés,734,109,Zaragoza,85.14
-Oseja,346,47,Zaragoza,86.41
-Osera de Ebro,497,383,Zaragoza,22.93
-Paniza,1820,619,Zaragoza,65.98
-Paracuellos de Jiloca,712,573,Zaragoza,19.52
-Paracuellos de la Ribera,908,136,Zaragoza,85.02
-Perdiguera,725,572,Zaragoza,21.10
-Piedratajada,300,87,Zaragoza,71.00
-Pina de Ebro,2409,2391,Zaragoza,.74
-Plasencia de Jalón,875,308,Zaragoza,64.80
-Pleitas,154,33,Zaragoza,78.57
-Plenas,681,98,Zaragoza,85.60
-Pomer,474,21,Zaragoza,95.56
-Pozuel de Ariza,287,21,Zaragoza,92.68
-Pozuelo de Aragón,710,282,Zaragoza,60.28
-Pradilla de Ebro,688,540,Zaragoza,21.51
-Puebla de Albortón,631,120,Zaragoza,80.98
-Puendeluna,228,48,Zaragoza,78.94
-Purujosa,463,32,Zaragoza,93.08
-Quinto,2521,1949,Zaragoza,22.68
-Retascón,180,62,Zaragoza,65.55
-Romanos,321,125,Zaragoza,61.05
-Rueda de Jalón,896,312,Zaragoza,65.17
-Ruesca,163,76,Zaragoza,53.37
-Sabiñán,1759,722,Zaragoza,58.95
-Salillas de Jalón,583,321,Zaragoza,44.93
-Salvatierra de Esca,1196,207,Zaragoza,82.69
-Samper del Salz,404,100,Zaragoza,75.24
-San Martín de la Virgen de Moncayo,385,270,Zaragoza,29.87
-Santa Cruz de Grío,929,105,Zaragoza,88.69
-Santa Cruz de Moncayo,318,123,Zaragoza,61.32
-Santa Eulalia de Gállego,924,97,Zaragoza,89.50
-Santed,290,64,Zaragoza,77.93
-Sediles,311,108,Zaragoza,65.27
-Sestrica,1298,344,Zaragoza,73.49
-Sierra de Luna,651,270,Zaragoza,58.52
-Sigüés,1638,79,Zaragoza,95.17
-Sisamón,457,35,Zaragoza,92.34
-Sos del Rey Católico,3596,567,Zaragoza,84.23
-Sádaba,1812,1311,Zaragoza,27.64
-Sástago,2987,1119,Zaragoza,62.53
-Tabuenca,1379,321,Zaragoza,76.72
-Talamantes,471,61,Zaragoza,87.04
-Terrer,975,464,Zaragoza,52.41
-Tierga,682,190,Zaragoza,72.14
-Tobed,1002,230,Zaragoza,77.04
-Torralba de Ribota,654,169,Zaragoza,74.15
-Torralba de los Frailes,530,76,Zaragoza,85.66
-Torralbilla,393,59,Zaragoza,84.98
-Torrehermosa,258,69,Zaragoza,73.25
-Torrelapaja,310,35,Zaragoza,88.70
-Torrellas,860,246,Zaragoza,71.39
-Torrijo de la Cañada,2007,197,Zaragoza,90.18
-Tosos,841,183,Zaragoza,78.24
-Trasmoz,341,88,Zaragoza,74.19
-Trasobares,531,115,Zaragoza,78.34
-Uncastillo,2758,621,Zaragoza,77.48
-Undués de Lerda,485,57,Zaragoza,88.24
-Urrea de Jalón,801,435,Zaragoza,45.69
-Urriés,1111,43,Zaragoza,96.12
-Used,1432,256,Zaragoza,82.12
-Val de San Martín,345,61,Zaragoza,82.31
-Valdehorna,236,33,Zaragoza,86.01
-Valmadrid,202,112,Zaragoza,44.55
-Valpalmas,415,137,Zaragoza,66.98
-Valtorres,293,61,Zaragoza,79.18
-Velilla de Ebro,1027,203,Zaragoza,80.23
-Velilla de Jiloca,486,81,Zaragoza,83.33
-Vera de Moncayo,1329,322,Zaragoza,75.77
-Vierlas,230,82,Zaragoza,64.34
-Villadoz,266,95,Zaragoza,64.28
-Villafeliche,1374,154,Zaragoza,88.79
-Villalba de Perejil,266,96,Zaragoza,63.90
-Villalengua,1384,293,Zaragoza,78.82
-Villanueva de Huerva,922,434,Zaragoza,52.92
-Villanueva de Jiloca,545,52,Zaragoza,90.45
-Villar de los Navarros,984,113,Zaragoza,88.51
-Villarreal de Huerva,469,273,Zaragoza,41.79
-Villarroya de la Sierra,2405,435,Zaragoza,81.91
-Villarroya del Campo,229,89,Zaragoza,61.13
-Vistabella,495,48,Zaragoza,90.30
+name,1900,2020,percentage,province,densidad
+Abanto,633,92,85.46,Zaragoza,63.84
+Acered,745,158,78.79,Zaragoza,30
+Aguarón,2275,624,72.57,Zaragoza,18.52
+Aguilón,982,233,76.27,Zaragoza,36.62
+Agón,499,138,72.34,Zaragoza,59.45
+Ainzón,2061,1064,48.37,Zaragoza,40.46
+Aladrén,353,52,85.26,Zaragoza,21.06
+Alagón,3454,7154,-107.12,Zaragoza,24.22
+Alarba,471,116,75.37,Zaragoza,19
+Alberite de San Juan,267,74,72.28,Zaragoza,11.23
+Albeta,318,134,57.86,Zaragoza,2.65
+Alborge,464,107,76.93,Zaragoza,4.84
+Alcalá de Ebro,386,245,36.52,Zaragoza,9.87
+Alcalá de Moncayo,370,143,61.35,Zaragoza,13.76
+Alconchel de Ariza,667,76,88.60,Zaragoza,34.85
+Aldehuela de Liestos,257,51,80.15,Zaragoza,38.04
+Alfajarín,910,2339,-157.03,Zaragoza,137.57
+Alfamén,628,1443,-129.77,Zaragoza,102.04
+Alforque,387,65,83.20,Zaragoza,10.62
+Alhama de Aragón,1616,1011,37.43,Zaragoza,31.14
+Almochuel,99,24,75.75,Zaragoza,32
+Almonacid de la Cuba,667,230,65.51,Zaragoza,131.33
+Almonacid de la Sierra,2725,753,72.36,Zaragoza,55.21
+Alpartir,1042,568,45.48,Zaragoza,55.21
+Ambel,955,253,73.50,Zaragoza,56.65
+Anento,387,95,75.45,Zaragoza,32.54
+Aniñón,1870,684,63.42,Zaragoza,61
+Aranda de Moncayo,1585,145,90.85,Zaragoza,21.52
+Ardisa,484,74,84.71,Zaragoza,52.46
+Ariza,1578,1100,30.29,Zaragoza,64.19
+Artieda,269,80,70.26,Zaragoza,91
+Arándiga,1121,278,75.20,Zaragoza,50.22
+Asín,336,98,70.83,Zaragoza,27.28
+Atea,1225,147,88.00,Zaragoza,103.08
+Ateca,3126,1762,43.63,Zaragoza,13.57
+Azuara,2388,529,77.84,Zaragoza,18.47
+Añón de Moncayo,1106,222,79.92,Zaragoza,34.67
+Badules,440,78,82.27,Zaragoza,84.71
+Bagüés,243,16,93.41,Zaragoza,165.81
+Balconchán,178,20,88.76,Zaragoza,20.09
+Bardallur,834,254,69.54,Zaragoza,30.72
+Belchite,3333,1526,54.21,Zaragoza,19
+Belmonte de Gracián,997,194,80.54,Zaragoza,15.68
+Berdejo,363,40,88.98,Zaragoza,27.34
+Berrueco,232,32,86.20,Zaragoza,273.68
+Biel,1659,155,90.65,Zaragoza,43.68
+Bijuesca,833,94,88.71,Zaragoza,19.39
+Biota,1383,930,32.75,Zaragoza,19
+Bisimbre,291,81,72.16,Zaragoza,57.08
+Boquiñeni,920,776,15.65,Zaragoza,128
+Bordalba,520,52,90.00,Zaragoza,11.22
+Borja,5667,4978,12.15,Zaragoza,18.87
+Botorrita,351,490,-39.60,Zaragoza,41.58
+Brea de Aragón,1467,1589,-8.31,Zaragoza,107.29
+Bubierca,914,65,92.88,Zaragoza,19.81
+Bujaraloz,1510,980,35.09,Zaragoza,13.38
+Bulbuente,1052,220,79.08,Zaragoza,29.54
+Bureta,685,206,69.92,Zaragoza,120.92
+Bárboles,640,282,55.93,Zaragoza,25.44
+Cabañas de Ebro,493,496,-.60,Zaragoza,11.91
+Cabolafuente,474,53,88.81,Zaragoza,24.86
+Cadrete,647,4235,-554.55,Zaragoza,7.61
+Calatayud,11958,20092,-68.02,Zaragoza,8.53
+Calatorao,2300,2860,-24.34,Zaragoza,39.24
+Calcena,854,73,91.45,Zaragoza,11.86
+Calmarza,343,61,82.21,Zaragoza,154.25
+Campillo de Aragón,701,146,79.17,Zaragoza,48.15
+Carenas,1181,189,83.99,Zaragoza,64.74
+Cariñena,3313,3355,-1.26,Zaragoza,28.15
+Caspe,7808,10026,-28.40,Zaragoza,36.86
+Castejón de Alarba,294,88,70.06,Zaragoza,31.22
+Castejón de Valdejasa,1095,209,80.91,Zaragoza,82.51
+Castejón de las Armas,750,78,89.60,Zaragoza,503.15
+Castiliscar,823,254,69.13,Zaragoza,17.56
+Cervera de la Cañada,904,260,71.23,Zaragoza,17.56
+Cerveruela,443,34,92.32,Zaragoza,17.56
+Cetina,1312,583,55.56,Zaragoza,40.68
+Chiprana,1425,497,65.12,Zaragoza,29.22
+Chodes,483,104,78.46,Zaragoza,23.49
+Cimballa,512,94,81.64,Zaragoza,78.76
+Cinco Olivas,570,102,82.10,Zaragoza,31.95
+Clarés de Ribota,444,67,84.90,Zaragoza,2.25
+Codo,1026,199,80.60,Zaragoza,18
+Codos,1122,248,77.89,Zaragoza,11.36
+Contamina,169,32,81.06,Zaragoza,62.69
+Cosuenda,1304,337,74.15,Zaragoza,14.02
+Cuarte de Huerva,275,13450,-4790.90,Zaragoza,31.68
+Cubel,505,155,69.30,Zaragoza,8.95
+Daroca,3493,1965,43.74,Zaragoza,58.62
+Ejea de los Caballeros,5271,16984,-222.21,Zaragoza,32.58
+El Burgo de Ebro,903,2486,-175.30,Zaragoza,38.98
+El Buste,428,71,83.41,Zaragoza,15.97
+El Frago,561,97,82.70,Zaragoza,52.05
+El Frasno,1551,379,75.56,Zaragoza,609.92
+Embid de Ariza,498,35,92.97,Zaragoza,41.26
+Encinacorba,1020,178,82.54,Zaragoza,36.74
+Epila,3713,4372,-17.74,Zaragoza,194.32
+Erla,911,341,62.56,Zaragoza,18.96
+Escatrón,2374,1067,55.05,Zaragoza,94.64
+Fabara,2089,1109,46.91,Zaragoza,101.63
+Farlete,524,366,30.15,Zaragoza,104.12
+Fayón,1306,380,70.90,Zaragoza,67.19
+Figueruelas,367,1262,-243.86,Zaragoza,3.88
+Fombuena,226,60,73.45,Zaragoza,16.99
+Fréscano,505,199,60.59,Zaragoza,26.37
+Fuendejalón,1354,784,42.09,Zaragoza,33.76
+Fuendetodos,540,145,73.14,Zaragoza,48.64
+Fuentes de Ebro,2498,4549,-82.10,Zaragoza,18.41
+Fuentes de Jiloca,1099,229,79.16,Zaragoza,75.83
+Gallocanta,363,136,62.53,Zaragoza,62
+Gallur,2847,2566,9.87,Zaragoza,141.73
+Gelsa,2096,996,52.48,Zaragoza,27.35
+Godojos,432,53,87.73,Zaragoza,29.71
+Gotor,874,302,65.44,Zaragoza,41.71
+Grisel,497,74,85.11,Zaragoza,72.04
+Grisén,360,590,-63.88,Zaragoza,16.77
+Herrera de los Navarros,1873,489,73.89,Zaragoza,15.52
+Ibdes,1251,395,68.42,Zaragoza,14.51
+Illueca,1823,2809,-54.08,Zaragoza,4.75
+Isuerre,347,31,91.06,Zaragoza,105.01
+Jaraba,491,282,42.56,Zaragoza,56.31
+Jarque de Moncayo,1472,417,71.67,Zaragoza,24.86
+Jaulín,361,251,30.47,Zaragoza,20.05
+La Almolda,1246,554,55.53,Zaragoza,42.81
+La Almunia de Doña Godina,3922,8091,-106.29,Zaragoza,43
+La Joyosa,264,1101,-317.04,Zaragoza,46.05
+La Muela,729,5894,-708.50,Zaragoza,6.52
+La Puebla de Alfindén,985,6358,-545.48,Zaragoza,23.65
+La Vilueña,401,62,84.53,Zaragoza,50.13
+La Zaida,446,447,-.22,Zaragoza,3.69
+Lagata,503,109,78.33,Zaragoza,109
+Langa del Castillo,599,122,79.63,Zaragoza,178.59
+Las Cuerlas,316,41,87.02,Zaragoza,17.46
+Las Pedrosas,390,86,77.94,Zaragoza,30.15
+Layana,343,94,72.59,Zaragoza,15
+Lechón,157,46,70.70,Zaragoza,11.38
+Leciñena,1576,1146,27.28,Zaragoza,32.18
+Letux,1074,342,68.15,Zaragoza,45.96
+Litago,634,164,74.13,Zaragoza,49.23
+Lituénigo,363,123,66.11,Zaragoza,10.31
+Lobera de Onsella,496,26,94.75,Zaragoza,27.08
+Longares,1306,883,32.38,Zaragoza,126.83
+Longás,469,32,93.17,Zaragoza,29
+Los Fayos,521,131,74.85,Zaragoza,29.55
+Los Pintanos,773,39,94.95,Zaragoza,308.92
+Lucena de Jalón,469,232,50.53,Zaragoza,174.88
+Luceni,796,955,-19.97,Zaragoza,78.61
+Luesia,1573,297,81.11,Zaragoza,34.02
+Luesma,331,37,88.82,Zaragoza,36.63
+Lumpiaque,1431,806,43.67,Zaragoza,0.08
+Luna,1761,684,61.15,Zaragoza,5.66
+Lécera,1997,631,68.40,Zaragoza,40.09
+Maella,3325,2008,39.60,Zaragoza,37.42
+Magallón,2822,1112,60.59,Zaragoza,26.83
+Mainar,471,160,66.02,Zaragoza,21.09
+Malanquilla,427,89,79.15,Zaragoza,108.09
+Maleján,535,276,48.41,Zaragoza,90.57
+Mallén,2401,3004,-25.11,Zaragoza,307.45
+Maluenda,1400,937,33.07,Zaragoza,48.55
+Malón,1230,369,70.00,Zaragoza,60.64
+Manchones,672,106,84.22,Zaragoza,14.82
+Mara,706,168,76.20,Zaragoza,55.38
+Marracos,154,84,45.45,Zaragoza,183.16
+María de Huerva,581,5970,-927.53,Zaragoza,61
+Mediana de Aragón,1416,447,68.43,Zaragoza,62.06
+Mequinenza,2842,2279,19.80,Zaragoza,55.94
+Mesones de Isuela,613,257,58.07,Zaragoza,17.59
+Mezalocha,510,233,54.31,Zaragoza,45.87
+Mianos,221,27,87.78,Zaragoza,23.09
+Miedes de Aragón,916,415,54.69,Zaragoza,21.46
+Monegrillo,824,394,52.18,Zaragoza,53
+Moneva,636,114,82.07,Zaragoza,42.76
+Monreal de Ariza,680,189,72.20,Zaragoza,8.68
+Monterde,932,143,84.65,Zaragoza,79.17
+Montón,499,90,81.96,Zaragoza,143.49
+Morata de Jalón,2161,1066,50.67,Zaragoza,40.99
+Morata de Jiloca,897,276,69.23,Zaragoza,18.25
+Moros,1209,319,73.61,Zaragoza,54.71
+Morés,1168,321,72.51,Zaragoza,24
+Moyuela,952,265,72.16,Zaragoza,30.42
+Mozota,378,120,68.25,Zaragoza,17.56
+Muel,1228,1401,-14.08,Zaragoza,111.45
+Munébrega,1300,363,72.07,Zaragoza,11
+Murero,519,96,81.50,Zaragoza,25.28
+Murillo de Gállego,1159,191,83.52,Zaragoza,41.84
+Navardún,413,36,91.28,Zaragoza,8.21
+Nigüella,270,61,77.40,Zaragoza,20.18
+Nombrevilla,262,31,88.16,Zaragoza,28.45
+Nonaspe,1681,978,41.82,Zaragoza,19.82
+Novallas,1527,825,45.97,Zaragoza,54.52
+Novillas,908,517,43.06,Zaragoza,12
+Nuez de Ebro,455,838,-84.17,Zaragoza,24.56
+Nuévalos,902,285,68.40,Zaragoza,47.31
+Olvés,674,110,83.67,Zaragoza,32
+Orcajo,495,55,88.88,Zaragoza,32
+Orera,411,111,72.99,Zaragoza,16.52
+Orés,734,109,85.14,Zaragoza,113.74
+Oseja,346,47,86.41,Zaragoza,18.26
+Osera de Ebro,497,383,22.93,Zaragoza,109.77
+Paniza,1820,619,65.98,Zaragoza,22.66
+Paracuellos de Jiloca,712,573,19.52,Zaragoza,309.17
+Paracuellos de la Ribera,908,136,85.02,Zaragoza,16.09
+Pastriz,707,1300,-83.87,Zaragoza,79.64
+Pedrola,2269,3587,-58.08,Zaragoza,34.77
+Perdiguera,725,572,21.10,Zaragoza,2.14
+Piedratajada,300,87,71.00,Zaragoza,37.95
+Pina de Ebro,2409,2391,.74,Zaragoza,33.11
+Pinseque,750,4070,-442.66,Zaragoza,22.63
+Plasencia de Jalón,875,308,64.80,Zaragoza,32.11
+Pleitas,154,33,78.57,Zaragoza,25.45
+Plenas,681,98,85.60,Zaragoza,76.31
+Pomer,474,21,95.56,Zaragoza,17.03
+Pozuel de Ariza,287,21,92.68,Zaragoza,9.88
+Pozuelo de Aragón,710,282,60.28,Zaragoza,35.43
+Pradilla de Ebro,688,540,21.51,Zaragoza,118.26
+Puebla de Albortón,631,120,80.98,Zaragoza,18.51
+Puendeluna,228,48,78.94,Zaragoza,25.16
+Purujosa,463,32,93.08,Zaragoza,90.67
+Quinto,2521,1949,22.68,Zaragoza,19.53
+Remolinos,1019,1074,-5.39,Zaragoza,107.37
+Retascón,180,62,65.55,Zaragoza,11.63
+Ricla,2503,2869,-14.62,Zaragoza,129.55
+Romanos,321,125,61.05,Zaragoza,2.51
+Rueda de Jalón,896,312,65.17,Zaragoza,81.24
+Ruesca,163,76,53.37,Zaragoza,11.49
+Sabiñán,1759,722,58.95,Zaragoza,5.42
+Salillas de Jalón,583,321,44.93,Zaragoza,71.62
+Salvatierra de Esca,1196,207,82.69,Zaragoza,19.51
+Samper del Salz,404,100,75.24,Zaragoza,19.51
+San Martín de la Virgen de Moncayo,385,270,29.87,Zaragoza,80.97
+San Mateo de Gállego,960,3269,-240.52,Zaragoza,17.81
+Santa Cruz de Grío,929,105,88.69,Zaragoza,300.98
+Santa Cruz de Moncayo,318,123,61.32,Zaragoza,15.52
+Santa Eulalia de Gállego,924,97,89.50,Zaragoza,11.71
+Santed,290,64,77.93,Zaragoza,40.88
+Sediles,311,108,65.27,Zaragoza,43.39
+Sestrica,1298,344,73.49,Zaragoza,101.77
+Sierra de Luna,651,270,58.52,Zaragoza,41.55
+Sigüés,1638,79,95.17,Zaragoza,12.06
+Sisamón,457,35,92.34,Zaragoza,216.62
+Sobradiel,421,1136,-169.83,Zaragoza,85.72
+Sos del Rey Católico,3596,567,84.23,Zaragoza,46.94
+Sádaba,1812,1311,27.64,Zaragoza,244.01
+Sástago,2987,1119,62.53,Zaragoza,405.23
+Tabuenca,1379,321,76.72,Zaragoza,33.75
+Talamantes,471,61,87.04,Zaragoza,66.13
+Tarazona,8939,10558,-18.11,Zaragoza,32.39
+Tauste,4530,6847,-51.14,Zaragoza,40.39
+Terrer,975,464,52.41,Zaragoza,40.39
+Tierga,682,190,72.14,Zaragoza,25.86
+Tobed,1002,230,77.04,Zaragoza,21.13
+Torralba de Ribota,654,169,74.15,Zaragoza,15.68
+Torralba de los Frailes,530,76,85.66,Zaragoza,2.53
+Torralbilla,393,59,84.98,Zaragoza,53.81
+Torrehermosa,258,69,73.25,Zaragoza,74.57
+Torrelapaja,310,35,88.70,Zaragoza,68.65
+Torrellas,860,246,71.39,Zaragoza,18.26
+Torres de Berrellén,1136,1443,-27.02,Zaragoza,71.76
+Torrijo de la Cañada,2007,197,90.18,Zaragoza,230.87
+Tosos,841,183,78.24,Zaragoza,42.99
+Trasmoz,341,88,74.19,Zaragoza,25.64
+Trasobares,531,115,78.34,Zaragoza,37.27
+Uncastillo,2758,621,77.48,Zaragoza,85.29
+Undués de Lerda,485,57,88.24,Zaragoza,17.72
+Urrea de Jalón,801,435,45.69,Zaragoza,7.95
+Urriés,1111,43,96.12,Zaragoza,25.66
+Used,1432,256,82.12,Zaragoza,50.57
+Utebo,1382,18822,-1261.93,Zaragoza,39.79
+Val de San Martín,345,61,82.31,Zaragoza,3.29
+Valdehorna,236,33,86.01,Zaragoza,59.79
+Valmadrid,202,112,44.55,Zaragoza,10
+Valpalmas,415,137,66.98,Zaragoza,27.66
+Valtorres,293,61,79.18,Zaragoza,2.67
+Velilla de Ebro,1027,203,80.23,Zaragoza,8.61
+Velilla de Jiloca,486,81,83.33,Zaragoza,17.18
+Vera de Moncayo,1329,322,75.77,Zaragoza,22
+Vierlas,230,82,64.34,Zaragoza,63.64
+Villadoz,266,95,64.28,Zaragoza,13.33
+Villafeliche,1374,154,88.79,Zaragoza,40.16
+Villafranca de Ebro,663,838,-26.39,Zaragoza,75.99
+Villalba de Perejil,266,96,63.90,Zaragoza,75.99
+Villalengua,1384,293,78.82,Zaragoza,75.99
+Villanueva de Gállego,1281,4728,-269.08,Zaragoza,49
+Villanueva de Huerva,922,434,52.92,Zaragoza,27.13
+Villanueva de Jiloca,545,52,90.45,Zaragoza,91
+Villar de los Navarros,984,113,88.51,Zaragoza,91
+Villarreal de Huerva,469,273,41.79,Zaragoza,21.82
+Villarroya de la Sierra,2405,435,81.91,Zaragoza,17.27
+Villarroya del Campo,229,89,61.13,Zaragoza,973.78
+Vistabella,495,48,90.30,Zaragoza,332.25
+Zaragoza,98397,681877,-592.98,Zaragoza,130.73
+Zuera,2471,8576,-247.06,Zaragoza,16.92
